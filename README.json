@@ -819,7 +819,7 @@
             "last_commit": "2026-08-10T07:02:42Z",
             "owner": "Tao-11-chen",
             "repo": "ForeHOI",
-            "stars": 93
+            "stars": 94
           }
         },
         {
@@ -1333,7 +1333,7 @@
             "last_commit": "2025-11-27T05:45:57Z",
             "owner": "OpenGVLab",
             "repo": "vinci",
-            "stars": 92
+            "stars": 93
           }
         },
         {
@@ -1751,7 +1751,7 @@
             "last_commit": "2025-11-10T11:06:16Z",
             "owner": "cvg",
             "repo": "lamaria",
-            "stars": 157
+            "stars": 158
           }
         },
         {
@@ -1855,7 +1855,7 @@
             "last_commit": "2026-01-30T08:45:34Z",
             "owner": "eth-siplab",
             "repo": "egoEMOTION",
-            "stars": 26
+            "stars": 27
           }
         },
         {
@@ -2048,6 +2048,20 @@
         },
         {
           "node_type": "item",
+          "title": "ForeHOI: Feed-forward 3D Object Reconstruction from Daily Hand-Object Interaction Videos",
+          "description": "Yuantao Chen, Jiahao Chang, Chongjie Ye, Chaoran Zhang, Zhaojie Fang, Chenghong Li, and Xiaoguang Han. In CVPR 2026. [project page] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T07:02:42Z",
+            "owner": "Tao-11-chen",
+            "repo": "ForeHOI",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Minerva-Ego: Spatiotemporal Hints for Egocentric Video Understanding",
           "description": "Arsha Nagrani, Jasper Uijlings, Shyamal Buch, Tobias Weyand, Sudheendra Vijayanarasimhan, Bo Hu, Ramin Mehran, David A Ross, and Cordelia Schmid. In CVPR 2026. [dataset]",
           "children": [],
@@ -2058,20 +2072,6 @@
             "owner": "google-deepmind",
             "repo": "neptune",
             "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ForeHOI: Feed-forward 3D Object Reconstruction from Daily Hand-Object Interaction Videos",
-          "description": "Yuantao Chen, Jiahao Chang, Chongjie Ye, Chaoran Zhang, Zhaojie Fang, Chenghong Li, and Xiaoguang Han. In CVPR 2026. [project page] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-10T07:02:42Z",
-            "owner": "Tao-11-chen",
-            "repo": "ForeHOI",
-            "stars": 93
           }
         },
         {
@@ -2937,7 +2937,7 @@
             "last_commit": "2025-11-10T11:06:16Z",
             "owner": "cvg",
             "repo": "lamaria",
-            "stars": 157
+            "stars": 158
           }
         },
         {
@@ -3571,7 +3571,7 @@
             "last_commit": "2026-01-30T08:45:34Z",
             "owner": "eth-siplab",
             "repo": "egoEMOTION",
-            "stars": 26
+            "stars": 27
           }
         },
         {
@@ -3797,7 +3797,7 @@
             "last_commit": "2025-11-10T11:06:16Z",
             "owner": "cvg",
             "repo": "lamaria",
-            "stars": 157
+            "stars": 158
           }
         },
         {
@@ -4020,7 +4020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T18:32:44.185Z",
+    "last_updated": "2026-08-14T18:30:06.962Z",
     "original_repository": "Sid2697/awesome-egocentric-vision",
     "original_repository_sha": "dfa1196dff3d2d8ee6b950605be7a433152fa79b",
     "enhanced_repository": "enhansome/enhansome-egocentric-vision",
