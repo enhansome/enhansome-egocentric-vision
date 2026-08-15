@@ -594,7 +594,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * [EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding](https://arxiv.org/abs/2406.08877) - Yuan-Ming Li, Wei-Jin Huang, An-Lan Wang, Ling-An Zeng, Jing-Ke Meng, and Wei-Shi Zheng. In ECCV 2024. [\[code\]](https://github.com/iSEE-Laboratory/EgoExo-Fitness) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2025-04-08
 
-* [EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding](https://arxiv.org/abs/2505.24287) - Ege Özsoy, Arda Mamur, Felix Tristram, Chantal Pellegrini, Magdalena Wysocki, Benjamin Busam, and Nassir Navab. In NeurIPS 2025. [\[code\]](https://github.com/ardamamur/EgoExOR) ⭐ 28 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-05-06
+* [EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding](https://arxiv.org/abs/2505.24287) - Ege Özsoy, Arda Mamur, Felix Tristram, Chantal Pellegrini, Magdalena Wysocki, Benjamin Busam, and Nassir Navab. In NeurIPS 2025. [\[code\]](https://github.com/ardamamur/EgoExOR) ⭐ 29 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-05-06
 
 * [Robust Ego-Exo Correspondence with Long-Term Memory](https://arxiv.org/abs/2510.11417) - Yijun Hu, Bing Fan, Xin Gu, Haiqing Ren, Dongfang Liu, Heng Fan, and Libo Zhang. In NeurIPS 2025. [\[code\]](https://github.com/juneyeeHu/LM-EEC) ⭐ 15 | 🐛 2 | 🌐 Python | 📅 2025-12-02
 
@@ -635,7 +635,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 <details>
 <summary>Show papers (39)</summary>
 
-* [EgoLife: Towards Egocentric Life Assistant](https://arxiv.org/abs/2503.03803) - Jingkang Yang, Shuai Liu, Hongming Guo, et al. In CVPR 2025. [\[code\]](https://github.com/EvolvingLMMs-Lab/EgoLife) ⭐ 454 | 🐛 12 | 🌐 Python | 📅 2025-03-19
+* [EgoLife: Towards Egocentric Life Assistant](https://arxiv.org/abs/2503.03803) - Jingkang Yang, Shuai Liu, Hongming Guo, et al. In CVPR 2025. [\[code\]](https://github.com/EvolvingLMMs-Lab/EgoLife) ⭐ 455 | 🐛 12 | 🌐 Python | 📅 2025-03-19
 
 * [HourVideo: 1-Hour Video-Language Understanding](https://arxiv.org/abs/2411.04998) - Keshigeyan Chandrasegaran, Agrim Gupta, Lea M. Hadzic, Taran Kota, Jimming He, Cristóbal Eyzaguirre, Zane Durante, Manling Li, Jiajun Wu, and Li Fei-Fei. In NeurIPS 2024. [\[project page\]](https://hourvideo.stanford.edu/) [\[code\]](https://github.com/keshik6/HourVideo) ⭐ 145 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-07-12
 
@@ -720,7 +720,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 <details>
 <summary>Show papers (13)</summary>
 
-* [EgoX: Egocentric Video Generation from a Single Exocentric Video](https://arxiv.org/abs/2512.08269) - Taewoong Kang, Kinam Kim, Dohyeon Kim, Minho Park, Junha Hyung, and Jaegul Choo. In CVPR 2026. [\[project page\]](https://keh0t0.github.io/EgoX) [\[code\]](https://github.com/DAVIAN-Robotics/EgoX) ⭐ 747 | 🐛 15 | 🌐 Python | 📅 2026-07-10
+* [EgoX: Egocentric Video Generation from a Single Exocentric Video](https://arxiv.org/abs/2512.08269) - Taewoong Kang, Kinam Kim, Dohyeon Kim, Minho Park, Junha Hyung, and Jaegul Choo. In CVPR 2026. [\[project page\]](https://keh0t0.github.io/EgoX) [\[code\]](https://github.com/DAVIAN-Robotics/EgoX) ⭐ 748 | 🐛 15 | 🌐 Python | 📅 2026-07-10
 
 * [PlayerOne: Egocentric World Simulator](https://arxiv.org/abs/2506.09995) - Yuanpeng Tu, Hao Luo, Xi Chen, Xiang Bai, Fan Wang, and Hengshuang Zhao. In NeurIPS 2025. [\[project page\]](https://playerone-hku.github.io/) [\[code\]](https://github.com/yuanpengtu/PlayerOne) ⭐ 194 | 🐛 3 | 📅 2025-06-12
 
@@ -888,13 +888,13 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 <details>
 <summary>Show papers (147)</summary>
 
-* [EgoX: Egocentric Video Generation from a Single Exocentric Video](https://arxiv.org/abs/2512.08269) - Taewoong Kang, Kinam Kim, Dohyeon Kim, Minho Park, Junha Hyung, and Jaegul Choo. In CVPR 2026. [\[project page\]](https://keh0t0.github.io/EgoX) [\[code\]](https://github.com/DAVIAN-Robotics/EgoX) ⭐ 747 | 🐛 15 | 🌐 Python | 📅 2026-07-10
+* [EgoX: Egocentric Video Generation from a Single Exocentric Video](https://arxiv.org/abs/2512.08269) - Taewoong Kang, Kinam Kim, Dohyeon Kim, Minho Park, Junha Hyung, and Jaegul Choo. In CVPR 2026. [\[project page\]](https://keh0t0.github.io/EgoX) [\[code\]](https://github.com/DAVIAN-Robotics/EgoX) ⭐ 748 | 🐛 15 | 🌐 Python | 📅 2026-07-10
 
 * \[Learning Video Representations from Large Language Models]\(<https://arxiv.org/pdf/2212.04501.pdf>; <https://facebookresearch.github.io/LaViLa>) - Yue Zhao, Ishan Misra, Philipp Krähenbühl, Rohit Girdhar. In CVPR 2023. [\[project page\]](https://facebookresearch.github.io/LaViLa/) [\[code\]](https://github.com/facebookresearch/LaViLa) ⚠️ Archived [\[demo\]](https://huggingface.co/spaces/nateraw/lavila)
 
 * [ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation](https://arctic.is.tue.mpg.de) - Zicong Fan, Omid Taheri, Dimitrios Tzionas, Muhammed Kocabas, Manuel Kaufmann, Michael J. Black, Otmar Hilliges. In CVPR 2023. [\[code\]](https://github.com/zc-alexfan/arctic) ⭐ 496 | 🐛 1 | 🌐 Python | 📅 2026-03-04
 
-* [EgoLife: Towards Egocentric Life Assistant](https://arxiv.org/abs/2503.03803) - Jingkang Yang, Shuai Liu, Hongming Guo, et al. In CVPR 2025. [\[code\]](https://github.com/EvolvingLMMs-Lab/EgoLife) ⭐ 454 | 🐛 12 | 🌐 Python | 📅 2025-03-19
+* [EgoLife: Towards Egocentric Life Assistant](https://arxiv.org/abs/2503.03803) - Jingkang Yang, Shuai Liu, Hongming Guo, et al. In CVPR 2025. [\[code\]](https://github.com/EvolvingLMMs-Lab/EgoLife) ⭐ 455 | 🐛 12 | 🌐 Python | 📅 2025-03-19
 
 * [First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations](https://openaccess.thecvf.com/content_cvpr_2018/papers/Garcia-Hernando_First-Person_Hand_Action_CVPR_2018_paper.pdf) - Guillermo Garcia-Hernando, Shanxin Yuan, Seungryul Baek, and Tae-Kyun Kim. In CVPR 2018. [\[project page\]](https://guiggh.github.io/publications/first-person-hands/) [\[code\]](https://github.com/guiggh/hand_pose_action) ⭐ 271 | 🐛 2 | 🌐 Python | 📅 2019-02-20
 
@@ -1493,7 +1493,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * [EgoThinker: Unveiling Egocentric Reasoning with Spatio-Temporal CoT](https://arxiv.org/abs/2510.23569) - Baoqi Pei, Yifei Huang, Jilan Xu, Yuping He, Guo Chen, Fei Wu, Yu Qiao, and Jiangmiao Pang. In NeurIPS 2025. [\[code\]](https://github.com/InternRobotics/EgoThinker) ⭐ 29 | 🐛 5 | 🌐 Python | 📅 2025-11-25
 
-* [EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding](https://arxiv.org/abs/2505.24287) - Ege Özsoy, Arda Mamur, Felix Tristram, Chantal Pellegrini, Magdalena Wysocki, Benjamin Busam, and Nassir Navab. In NeurIPS 2025. [\[code\]](https://github.com/ardamamur/EgoExOR) ⭐ 28 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-05-06
+* [EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding](https://arxiv.org/abs/2505.24287) - Ege Özsoy, Arda Mamur, Felix Tristram, Chantal Pellegrini, Magdalena Wysocki, Benjamin Busam, and Nassir Navab. In NeurIPS 2025. [\[code\]](https://github.com/ardamamur/EgoExOR) ⭐ 29 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-05-06
 
 * [egoEMOTION: Egocentric Vision and Physiological Signals for Emotion and Personality Recognition in Real-World Tasks](https://arxiv.org/abs/2510.22129) - Matthias Jammot, Björn Braun, Paul Streli, Rafael Wampfler, and Christian Holz. In NeurIPS 2025. [\[project page\]](https://siplab.org/projects/egoEMOTION) [\[code\]](https://github.com/eth-siplab/egoEMOTION) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2026-01-30
 
@@ -1564,7 +1564,7 @@ A quick-reference table of some of the most prominent egocentric datasets/benchm
 | [Aria Digital Twin](https://www.projectaria.com/datasets/adt/)                                                       | 200 sequences, 398 object instances, 2 indoor scenes                                | Aria egocentric video + digital-twin ground truth              | Egocentric 3D machine perception                                    | —                      |
 | [HoloAssist](https://holoassist.github.io)                                                                           | Large-scale (two-person sessions)                                                   | Egocentric human interaction video                             | Interactive AI assistants for physical manipulation tasks           | —                      |
 | [HD-EPIC](https://hd-epic.github.io/)                                                                                | 41 hours, 59.4K actions, 50.9K audio events, 26.6K VQA                              | Video, audio, 3D digital-twin grounding                        | Detailed kitchen action/audio understanding + VQA                   | —                      |
-| [EgoLife](https://github.com/EvolvingLMMs-Lab/EgoLife) ⭐ 454 \| 🐛 12 \| 🌐 Python \| 📅 2025-03-19                  | \~300 hours, 6 participants, 1 week                                                 | Egocentric, interpersonal, multiview, multimodal (AI glasses)  | Long-context daily-life assistance (EgoLifeQA)                      | —                      |
+| [EgoLife](https://github.com/EvolvingLMMs-Lab/EgoLife) ⭐ 455 \| 🐛 12 \| 🌐 Python \| 📅 2025-03-19                  | \~300 hours, 6 participants, 1 week                                                 | Egocentric, interpersonal, multiview, multimodal (AI glasses)  | Long-context daily-life assistance (EgoLifeQA)                      | —                      |
 | [EgoDex](https://github.com/apple/ml-egodex) ⭐ 364 \| 🐛 8 \| 🌐 Python \| 📅 2025-08-20                             | 829 hours, 338K demonstrations, 194 tasks                                           | Apple Vision Pro video + 3D head/hand pose + language          | Tabletop manipulation demonstrations                                | —                      |
 | [EgoSchema](https://egoschema.github.io/)                                                                            | 5,000+ QA pairs, 250+ hours (from Ego4D)                                            | Video question answering                                       | Very long-form video-language understanding benchmark               | —                      |
 | [Aria Everyday Activities](https://www.projectaria.com/datasets/aea/)                                                | 143 sequences, 5 indoor locations                                                   | Project Aria (3D trajectories, point clouds, gaze, speech)     | Daily-activity egocentric perception                                | —                      |
@@ -1583,7 +1583,7 @@ A quick-reference table of some of the most prominent egocentric datasets/benchm
 
 ### All Datasets
 
-* [EgoLife](https://github.com/EvolvingLMMs-Lab/EgoLife) ⭐ 454 | 🐛 12 | 🌐 Python | 📅 2025-03-19 - A \~300-hour egocentric, interpersonal, multiview, multimodal dataset of six people living together for one week wearing AI glasses, accompanied by the EgoLifeQA long-context daily-assistance benchmark. [\[paper\]](https://arxiv.org/abs/2503.03803)
+* [EgoLife](https://github.com/EvolvingLMMs-Lab/EgoLife) ⭐ 455 | 🐛 12 | 🌐 Python | 📅 2025-03-19 - A \~300-hour egocentric, interpersonal, multiview, multimodal dataset of six people living together for one week wearing AI glasses, accompanied by the EgoLifeQA long-context daily-assistance benchmark. [\[paper\]](https://arxiv.org/abs/2503.03803)
 * [EgoDex](https://github.com/apple/ml-egodex) ⭐ 364 | 🐛 8 | 🌐 Python | 📅 2025-08-20 - 829 hours of 30 fps 1080p egocentric video (338K demonstrations across 194 tabletop manipulation tasks) collected with Apple Vision Pro, paired with 3D head, upper-body, and hand pose plus natural-language annotations. [\[paper\]](https://arxiv.org/abs/2505.11709)
 * [ParaHome](https://jlogkim.github.io/parahome/) - 486 minutes from 38 participants capturing 3D body and dexterous hand motion with multiple articulated household objects in a shared home environment, with text descriptions. [\[paper\]](https://arxiv.org/abs/2401.10232) [\[code\]](https://github.com/canoneod/ParaHome) ⭐ 244 | 🐛 3 | 🌐 Python | 📅 2025-12-24
 * [LaMAria](https://www.lamaria.ethz.ch) - City-scale egocentric visual-inertial SLAM benchmark captured with Aria glasses over hours and kilometers of trajectories, with survey-grade control points providing centimeter-accurate ground truth. [\[paper\]](https://arxiv.org/abs/2509.26639) [\[code\]](https://github.com/cvg/lamaria) ⭐ 158 | 🐛 3 | 🌐 Python | 📅 2025-11-10
@@ -1598,7 +1598,7 @@ A quick-reference table of some of the most prominent egocentric datasets/benchm
 * [Object Search Dataset](https://github.com/Mengmi/deepfuturegaze_gan) ⭐ 33 | 🐛 0 | 🌐 Lua | 📅 2020-03-12 - 57 sequences of 55 subjects on search and retrieval tasks.
 * [EPIC-Contact](https://sid2697.github.io/epic-contact/) - About 2,300 egocentric video clips (62,300 annotated frames) of bimanual hand-object interactions across nine everyday kitchen objects, for in-the-wild 3D hand-object pose estimation. [\[paper\]](https://arxiv.org/abs/2606.30598) [\[code\]](https://github.com/Sid2697/HOPformer) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2026-08-03
 * [EPFL-Smart-Kitchen-30](https://github.com/amathislab/EPFL-Smart-Kitchen) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2026-05-22 - 29.7 hours of 16 subjects cooking four recipes with synchronized exocentric (9 RGB-D cameras) and egocentric (HoloLens 2) video, depth, IMUs, eye gaze, and body/hand kinematics, densely annotated for four action and motion understanding benchmarks. [\[paper\]](https://arxiv.org/abs/2506.01608)
-* [EgoExOR](https://github.com/ardamamur/EgoExOR) ⭐ 28 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-05-06 - 94 minutes (84,553 frames at 15 FPS) of two emulated spine procedures combining egocentric data (RGB, gaze, hand tracking, audio) from wearable glasses with exocentric RGB-D and ultrasound, annotated with 568,235 scene-graph triplets. [\[paper\]](https://arxiv.org/abs/2505.24287)
+* [EgoExOR](https://github.com/ardamamur/EgoExOR) ⭐ 29 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-05-06 - 94 minutes (84,553 frames at 15 FPS) of two emulated spine procedures combining egocentric data (RGB, gaze, hand tracking, audio) from wearable glasses with exocentric RGB-D and ultrasound, annotated with 568,235 scene-graph triplets. [\[paper\]](https://arxiv.org/abs/2505.24287)
 * [EgoMask](https://github.com/LaVi-Lab/EgoMask) ⭐ 27 | 🐛 2 | 🌐 Python | 📅 2026-07-03 - A pixel-level spatiotemporal grounding benchmark (with training set EgoMask-Train) built specifically for egocentric video. [\[paper\]](https://arxiv.org/abs/2508.00518)
 * [EgoBody3M](https://github.com/facebookresearch/EgoBody3M) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2024-10-01 - Large-scale real-image dataset for egocentric body tracking from VR-headset SLAM cameras, with more than 30 hours of recordings and about 3 million frames of diverse subjects and motions. [\[paper\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10261.pdf)
 * [MyEgo](https://github.com/Ryougetsu3606/MyEgo) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-04-03 - Egocentric VideoQA dataset with 541 long videos and 5K personalized questions about the camera wearer's things, activities, and past, designed to evaluate MLLM ego-grounding. [\[paper\]](https://arxiv.org/abs/2604.01966)
@@ -1701,4 +1701,4 @@ This is a work in progress. Contributions welcome! Read the [contribution guidel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
