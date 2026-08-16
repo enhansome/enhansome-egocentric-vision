@@ -734,6 +734,20 @@
         },
         {
           "node_type": "item",
+          "title": "EgoCast: Forecasting Egocentric Human Pose in the Wild",
+          "description": "Maria Escobar, Juanita Puentes, Cristhian Forigua, Jordi Pont-Tuset, Kevis-Kokitsi Maninis, and Pablo Arbelaez. In WACV 2025. [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-02T04:03:51Z",
+            "owner": "BCV-Uniandes",
+            "repo": "EgoCast",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Social EgoMesh Estimation",
           "description": "Luca Scofano, Alessio Sampieri, Edoardo De Matteis, Indro Spinelli, and Fabio Galasso. In WACV 2025. [code]",
           "children": [],
@@ -744,20 +758,6 @@
             "owner": "L-Scofano",
             "repo": "SEEME",
             "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EgoCast: Forecasting Egocentric Human Pose in the Wild",
-          "description": "Maria Escobar, Juanita Puentes, Cristhian Forigua, Jordi Pont-Tuset, Kevis-Kokitsi Maninis, and Pablo Arbelaez. In WACV 2025. [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-02T04:03:51Z",
-            "owner": "BCV-Uniandes",
-            "repo": "EgoCast",
-            "stars": 4
           }
         }
       ],
@@ -1647,7 +1647,7 @@
             "last_commit": "2026-07-10T15:48:25Z",
             "owner": "DAVIAN-Robotics",
             "repo": "EgoX",
-            "stars": 748
+            "stars": 749
           }
         },
         {
@@ -1945,7 +1945,7 @@
             "last_commit": "2026-07-10T15:48:25Z",
             "owner": "DAVIAN-Robotics",
             "repo": "EgoX",
-            "stars": 748
+            "stars": 749
           }
         },
         {
@@ -3321,7 +3321,7 @@
             "last_commit": "2025-03-02T04:03:51Z",
             "owner": "BCV-Uniandes",
             "repo": "EgoCast",
-            "stars": 4
+            "stars": 5
           }
         },
         {
@@ -4020,7 +4020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:53:57.167Z",
+    "last_updated": "2026-08-16T17:53:00.141Z",
     "original_repository": "Sid2697/awesome-egocentric-vision",
     "original_repository_sha": "dfa1196dff3d2d8ee6b950605be7a433152fa79b",
     "enhanced_repository": "enhansome/enhansome-egocentric-vision",

@@ -376,9 +376,9 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * [Attention-Propagation Network for Egocentric Heatmap to 3D Pose Lifting](https://arxiv.org/abs/2402.18330) - Taeho Kang and Youngki Lee. In CVPR 2024. [\[code\]](https://github.com/tho-kn/EgoTAP) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2024-12-24
 
-* [Social EgoMesh Estimation](https://arxiv.org/abs/2411.04598) - Luca Scofano, Alessio Sampieri, Edoardo De Matteis, Indro Spinelli, and Fabio Galasso. In WACV 2025. [\[code\]](https://github.com/L-Scofano/SEEME) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2025-03-28
+* [EgoCast: Forecasting Egocentric Human Pose in the Wild](https://arxiv.org/abs/2412.02903) - Maria Escobar, Juanita Puentes, Cristhian Forigua, Jordi Pont-Tuset, Kevis-Kokitsi Maninis, and Pablo Arbelaez. In WACV 2025. [\[code\]](https://github.com/BCV-Uniandes/EgoCast) ⭐ 5 | 🐛 2 | 🌐 Python | 📅 2025-03-02
 
-* [EgoCast: Forecasting Egocentric Human Pose in the Wild](https://arxiv.org/abs/2412.02903) - Maria Escobar, Juanita Puentes, Cristhian Forigua, Jordi Pont-Tuset, Kevis-Kokitsi Maninis, and Pablo Arbelaez. In WACV 2025. [\[code\]](https://github.com/BCV-Uniandes/EgoCast) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2025-03-02
+* [Social EgoMesh Estimation](https://arxiv.org/abs/2411.04598) - Luca Scofano, Alessio Sampieri, Edoardo De Matteis, Indro Spinelli, and Fabio Galasso. In WACV 2025. [\[code\]](https://github.com/L-Scofano/SEEME) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2025-03-28
 
 * [E-3DPSM: A State Machine for Event-Based Egocentric 3D Human Pose Estimation](https://arxiv.org/abs/2604.08543) - Mayur Deshmukh, Hiroyasu Akada, Helge Rhodin, Christian Theobalt, and Vladislav Golyanik. In CVPR 2026. [\[project page\]](https://4dqv.mpi-inf.mpg.de/E-3DPSM/)
 
@@ -720,7 +720,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 <details>
 <summary>Show papers (13)</summary>
 
-* [EgoX: Egocentric Video Generation from a Single Exocentric Video](https://arxiv.org/abs/2512.08269) - Taewoong Kang, Kinam Kim, Dohyeon Kim, Minho Park, Junha Hyung, and Jaegul Choo. In CVPR 2026. [\[project page\]](https://keh0t0.github.io/EgoX) [\[code\]](https://github.com/DAVIAN-Robotics/EgoX) ⭐ 748 | 🐛 15 | 🌐 Python | 📅 2026-07-10
+* [EgoX: Egocentric Video Generation from a Single Exocentric Video](https://arxiv.org/abs/2512.08269) - Taewoong Kang, Kinam Kim, Dohyeon Kim, Minho Park, Junha Hyung, and Jaegul Choo. In CVPR 2026. [\[project page\]](https://keh0t0.github.io/EgoX) [\[code\]](https://github.com/DAVIAN-Robotics/EgoX) ⭐ 749 | 🐛 15 | 🌐 Python | 📅 2026-07-10
 
 * [PlayerOne: Egocentric World Simulator](https://arxiv.org/abs/2506.09995) - Yuanpeng Tu, Hao Luo, Xi Chen, Xiang Bai, Fan Wang, and Hengshuang Zhao. In NeurIPS 2025. [\[project page\]](https://playerone-hku.github.io/) [\[code\]](https://github.com/yuanpengtu/PlayerOne) ⭐ 194 | 🐛 3 | 📅 2025-06-12
 
@@ -888,7 +888,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 <details>
 <summary>Show papers (147)</summary>
 
-* [EgoX: Egocentric Video Generation from a Single Exocentric Video](https://arxiv.org/abs/2512.08269) - Taewoong Kang, Kinam Kim, Dohyeon Kim, Minho Park, Junha Hyung, and Jaegul Choo. In CVPR 2026. [\[project page\]](https://keh0t0.github.io/EgoX) [\[code\]](https://github.com/DAVIAN-Robotics/EgoX) ⭐ 748 | 🐛 15 | 🌐 Python | 📅 2026-07-10
+* [EgoX: Egocentric Video Generation from a Single Exocentric Video](https://arxiv.org/abs/2512.08269) - Taewoong Kang, Kinam Kim, Dohyeon Kim, Minho Park, Junha Hyung, and Jaegul Choo. In CVPR 2026. [\[project page\]](https://keh0t0.github.io/EgoX) [\[code\]](https://github.com/DAVIAN-Robotics/EgoX) ⭐ 749 | 🐛 15 | 🌐 Python | 📅 2026-07-10
 
 * \[Learning Video Representations from Large Language Models]\(<https://arxiv.org/pdf/2212.04501.pdf>; <https://facebookresearch.github.io/LaViLa>) - Yue Zhao, Ishan Misra, Philipp Krähenbühl, Rohit Girdhar. In CVPR 2023. [\[project page\]](https://facebookresearch.github.io/LaViLa/) [\[code\]](https://github.com/facebookresearch/LaViLa) ⚠️ Archived [\[demo\]](https://huggingface.co/spaces/nateraw/lavila)
 
@@ -1407,7 +1407,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * [Social EgoMesh Estimation](https://arxiv.org/abs/2411.04598) - Luca Scofano, Alessio Sampieri, Edoardo De Matteis, Indro Spinelli, and Fabio Galasso. In WACV 2025. [\[code\]](https://github.com/L-Scofano/SEEME) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2025-03-28
 
-* [EgoCast: Forecasting Egocentric Human Pose in the Wild](https://arxiv.org/abs/2412.02903) - Maria Escobar, Juanita Puentes, Cristhian Forigua, Jordi Pont-Tuset, Kevis-Kokitsi Maninis, and Pablo Arbelaez. In WACV 2025. [\[code\]](https://github.com/BCV-Uniandes/EgoCast) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2025-03-02
+* [EgoCast: Forecasting Egocentric Human Pose in the Wild](https://arxiv.org/abs/2412.02903) - Maria Escobar, Juanita Puentes, Cristhian Forigua, Jordi Pont-Tuset, Kevis-Kokitsi Maninis, and Pablo Arbelaez. In WACV 2025. [\[code\]](https://github.com/BCV-Uniandes/EgoCast) ⭐ 5 | 🐛 2 | 🌐 Python | 📅 2025-03-02
 
 * [Exo2EgoDVC: Dense Video Captioning of Egocentric Procedural Activities Using Web Instructional Videos](https://arxiv.org/abs/2311.16444) - Takehiko Ohkawa, Takuma Yagi, Taichi Nishimura, Ryosuke Furuta, Atsushi Hashimoto, Yoshitaka Ushiku, and Yoichi Sato. In WACV 2025. [\[code\]](https://github.com/ut-vision/Exo2EgoDVC) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2025-02-05
 
@@ -1701,4 +1701,4 @@ This is a work in progress. Contributions welcome! Read the [contribution guidel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
