@@ -664,20 +664,6 @@
         },
         {
           "node_type": "item",
-          "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
-          "description": "Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [project page] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-03T17:04:17Z",
-            "owner": "Sid2697",
-            "repo": "HOPformer",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
           "title": "EgoPoseFormer: A Simple Baseline for Stereo Egocentric 3D Human Pose Estimation",
           "description": "Chenhongyi Yang, Anastasia Tkach, Shreyas Hampali, Linguang Zhang, Elliot J. Crowley, and Cem Keskin. In ECCV 2024. [code]",
           "children": [],
@@ -687,6 +673,20 @@
             "last_commit": "2026-03-06T09:42:41Z",
             "owner": "ChenhongyiYang",
             "repo": "egoposeformer",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
+          "description": "Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [project page] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T17:04:17Z",
+            "owner": "Sid2697",
+            "repo": "HOPformer",
             "stars": 31
           }
         },
@@ -777,7 +777,7 @@
             "last_commit": "2026-03-04T10:43:04Z",
             "owner": "zc-alexfan",
             "repo": "arctic",
-            "stars": 496
+            "stars": 497
           }
         },
         {
@@ -1131,7 +1131,7 @@
             "last_commit": "2025-12-02T15:23:03Z",
             "owner": "juneyeeHu",
             "repo": "LM-EEC",
-            "stars": 15
+            "stars": 16
           }
         },
         {
@@ -1973,7 +1973,7 @@
             "last_commit": "2026-03-04T10:43:04Z",
             "owner": "zc-alexfan",
             "repo": "arctic",
-            "stars": 496
+            "stars": 497
           }
         },
         {
@@ -2796,20 +2796,6 @@
         },
         {
           "node_type": "item",
-          "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
-          "description": "Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [project page] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-03T17:04:17Z",
-            "owner": "Sid2697",
-            "repo": "HOPformer",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
           "title": "EgoPoseFormer: A Simple Baseline for Stereo Egocentric 3D Human Pose Estimation",
           "description": "Chenhongyi Yang, Anastasia Tkach, Shreyas Hampali, Linguang Zhang, Elliot J. Crowley, and Cem Keskin. In ECCV 2024. [code]",
           "children": [],
@@ -2819,6 +2805,20 @@
             "last_commit": "2026-03-06T09:42:41Z",
             "owner": "ChenhongyiYang",
             "repo": "egoposeformer",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
+          "description": "Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [project page] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T17:04:17Z",
+            "owner": "Sid2697",
+            "repo": "HOPformer",
             "stars": 31
           }
         },
@@ -3613,7 +3613,7 @@
             "last_commit": "2025-12-02T15:23:03Z",
             "owner": "juneyeeHu",
             "repo": "LM-EEC",
-            "stars": 15
+            "stars": 16
           }
         },
         {
@@ -3769,7 +3769,7 @@
             "last_commit": "2025-08-20T20:41:20Z",
             "owner": "apple",
             "repo": "ml-egodex",
-            "stars": 364
+            "stars": 366
           }
         },
         {
@@ -4020,7 +4020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T17:53:00.141Z",
+    "last_updated": "2026-08-17T18:00:36.118Z",
     "original_repository": "Sid2697/awesome-egocentric-vision",
     "original_repository_sha": "dfa1196dff3d2d8ee6b950605be7a433152fa79b",
     "enhanced_repository": "enhansome/enhansome-egocentric-vision",
