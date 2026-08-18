@@ -701,7 +701,7 @@
             "last_commit": "2025-12-12T12:44:35Z",
             "owner": "hiroyasuakada",
             "repo": "3D-Human-Pose-Perception-from-Egocentric-Stereo-Videos",
-            "stars": 28
+            "stars": 29
           }
         },
         {
@@ -1263,7 +1263,7 @@
             "last_commit": "2025-03-19T01:42:16Z",
             "owner": "EvolvingLMMs-Lab",
             "repo": "EgoLife",
-            "stars": 455
+            "stars": 456
           }
         },
         {
@@ -1431,7 +1431,7 @@
             "last_commit": "2026-06-08T16:49:25Z",
             "owner": "facebookresearch",
             "repo": "EgoAVU",
-            "stars": 33
+            "stars": 34
           }
         },
         {
@@ -1647,7 +1647,7 @@
             "last_commit": "2026-07-10T15:48:25Z",
             "owner": "DAVIAN-Robotics",
             "repo": "EgoX",
-            "stars": 749
+            "stars": 750
           }
         },
         {
@@ -1945,7 +1945,7 @@
             "last_commit": "2026-07-10T15:48:25Z",
             "owner": "DAVIAN-Robotics",
             "repo": "EgoX",
-            "stars": 749
+            "stars": 750
           }
         },
         {
@@ -1987,7 +1987,7 @@
             "last_commit": "2025-03-19T01:42:16Z",
             "owner": "EvolvingLMMs-Lab",
             "repo": "EgoLife",
-            "stars": 455
+            "stars": 456
           }
         },
         {
@@ -2342,6 +2342,20 @@
         },
         {
           "node_type": "item",
+          "title": "EgoAVU: Egocentric Audio-Visual Understanding",
+          "description": "Ashish Seth, Xinhao Mei, Changsheng Zhao, Varun Nagaraja, Ernie Chang, Gregory P. Meyer, Gael Le Lan, Yunyang Xiong, Vikas Chandra, Yangyang Shi, Dinesh Manocha, and Zhipeng Cai. In CVPR 2026. [project page] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-08T16:49:25Z",
+            "owner": "facebookresearch",
+            "repo": "EgoAVU",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation",
           "description": "Ruicong Liu, Takehiko Ohkawa, Mingfang Zhang, and Yoichi Sato. In CVPR 2024. [code]",
           "children": [],
@@ -2352,20 +2366,6 @@
             "owner": "ut-vision",
             "repo": "S2DHand",
             "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EgoAVU: Egocentric Audio-Visual Understanding",
-          "description": "Ashish Seth, Xinhao Mei, Changsheng Zhao, Varun Nagaraja, Ernie Chang, Gregory P. Meyer, Gael Le Lan, Yunyang Xiong, Vikas Chandra, Yangyang Shi, Dinesh Manocha, and Zhipeng Cai. In CVPR 2026. [project page] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-08T16:49:25Z",
-            "owner": "facebookresearch",
-            "repo": "EgoAVU",
-            "stars": 33
           }
         },
         {
@@ -2407,7 +2407,7 @@
             "last_commit": "2025-12-12T12:44:35Z",
             "owner": "hiroyasuakada",
             "repo": "3D-Human-Pose-Perception-from-Egocentric-Stereo-Videos",
-            "stars": 28
+            "stars": 29
           }
         },
         {
@@ -3755,7 +3755,7 @@
             "last_commit": "2025-03-19T01:42:16Z",
             "owner": "EvolvingLMMs-Lab",
             "repo": "EgoLife",
-            "stars": 455
+            "stars": 456
           }
         },
         {
@@ -3769,7 +3769,7 @@
             "last_commit": "2025-08-20T20:41:20Z",
             "owner": "apple",
             "repo": "ml-egodex",
-            "stars": 366
+            "stars": 367
           }
         },
         {
@@ -3830,6 +3830,20 @@
         },
         {
           "node_type": "item",
+          "title": "Ego4D Goal-Step",
+          "description": "Hierarchical goal–step–substep annotations over Ego4D, with 2,807 hours carrying goal labels and 430 hours of fine-grained step labels (48K step segments). [paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-15T16:39:11Z",
+            "owner": "facebookresearch",
+            "repo": "ego4d-goalstep",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
           "title": "EgoCom",
           "description": "A natural conversations dataset containing multi-modal human communication data captured simultaneously from the participants' egocentric perspectives.",
           "children": [],
@@ -3840,20 +3854,6 @@
             "owner": "facebookresearch",
             "repo": "EgoCom-Dataset",
             "stars": 63
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ego4D Goal-Step",
-          "description": "Hierarchical goal–step–substep annotations over Ego4D, with 2,807 hours carrying goal labels and 430 hours of fine-grained step labels (48K step segments). [paper]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-15T16:39:11Z",
-            "owner": "facebookresearch",
-            "repo": "ego4d-goalstep",
-            "stars": 62
           }
         },
         {
@@ -3909,7 +3909,7 @@
             "last_commit": "2026-06-08T16:49:25Z",
             "owner": "facebookresearch",
             "repo": "EgoAVU",
-            "stars": 33
+            "stars": 34
           }
         },
         {
@@ -4020,7 +4020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T18:00:36.118Z",
+    "last_updated": "2026-08-18T17:59:38.274Z",
     "original_repository": "Sid2697/awesome-egocentric-vision",
     "original_repository_sha": "dfa1196dff3d2d8ee6b950605be7a433152fa79b",
     "enhanced_repository": "enhansome/enhansome-egocentric-vision",
