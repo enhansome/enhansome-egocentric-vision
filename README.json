@@ -710,6 +710,21 @@
             },
             {
               "node_type": "item",
+              "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
+              "description": "Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [project page] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1283976546,
+                "language": "Python",
+                "last_commit": "2026-08-03T17:04:17Z",
+                "owner": "Sid2697",
+                "repo": "HOPformer",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
               "title": "EgoPoseFormer: A Simple Baseline for Stereo Egocentric 3D Human Pose Estimation",
               "description": "Chenhongyi Yang, Anastasia Tkach, Shreyas Hampali, Linguang Zhang, Elliot J. Crowley, and Cem Keskin. In ECCV 2024. [code]",
               "children": [],
@@ -721,21 +736,6 @@
                 "owner": "ChenhongyiYang",
                 "repo": "egoposeformer",
                 "stars": 32
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
-              "description": "Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [project page] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1283976546,
-                "language": "Python",
-                "last_commit": "2026-08-03T17:04:17Z",
-                "owner": "Sid2697",
-                "repo": "HOPformer",
-                "stars": 31
               }
             },
             {
@@ -795,7 +795,7 @@
                 "last_commit": "2025-03-02T04:03:51Z",
                 "owner": "BCV-Uniandes",
                 "repo": "EgoCast",
-                "stars": 5
+                "stars": 6
               }
             },
             {
@@ -1445,7 +1445,7 @@
                 "last_commit": "2025-03-25T03:06:25Z",
                 "owner": "AdaCheng",
                 "repo": "EgoThink",
-                "stars": 65
+                "stars": 66
               }
             },
             {
@@ -1767,7 +1767,7 @@
                 "last_commit": "2026-07-10T15:48:25Z",
                 "owner": "DAVIAN-Robotics",
                 "repo": "EgoX",
-                "stars": 750
+                "stars": 751
               }
             },
             {
@@ -2088,7 +2088,7 @@
                 "last_commit": "2026-07-10T15:48:25Z",
                 "owner": "DAVIAN-Robotics",
                 "repo": "EgoX",
-                "stars": 750
+                "stars": 751
               }
             },
             {
@@ -2283,7 +2283,7 @@
                 "last_commit": "2025-03-25T03:06:25Z",
                 "owner": "AdaCheng",
                 "repo": "EgoThink",
-                "stars": 65
+                "stars": 66
               }
             },
             {
@@ -2985,6 +2985,21 @@
             },
             {
               "node_type": "item",
+              "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
+              "description": "Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [project page] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1283976546,
+                "language": "Python",
+                "last_commit": "2026-08-03T17:04:17Z",
+                "owner": "Sid2697",
+                "repo": "HOPformer",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
               "title": "ActionVOS: Actions as Prompts for Video Object Segmentation",
               "description": "Liangyang Ouyang, Ruicong Liu, Yifei Huang, Ryosuke Furuta, and Yoichi Sato. In ECCV 2024. [code]",
               "children": [],
@@ -3011,21 +3026,6 @@
                 "owner": "ChenhongyiYang",
                 "repo": "egoposeformer",
                 "stars": 32
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
-              "description": "Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [project page] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1283976546,
-                "language": "Python",
-                "last_commit": "2026-08-03T17:04:17Z",
-                "owner": "Sid2697",
-                "repo": "HOPformer",
-                "stars": 31
               }
             },
             {
@@ -3539,21 +3539,6 @@
             },
             {
               "node_type": "item",
-              "title": "Social EgoMesh Estimation",
-              "description": "Luca Scofano, Alessio Sampieri, Edoardo De Matteis, Indro Spinelli, and Fabio Galasso. In WACV 2025. [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 882255855,
-                "language": "Python",
-                "last_commit": "2025-03-28T10:45:15Z",
-                "owner": "L-Scofano",
-                "repo": "SEEME",
-                "stars": 5
-              }
-            },
-            {
-              "node_type": "item",
               "title": "EgoCast: Forecasting Egocentric Human Pose in the Wild",
               "description": "Maria Escobar, Juanita Puentes, Cristhian Forigua, Jordi Pont-Tuset, Kevis-Kokitsi Maninis, and Pablo Arbelaez. In WACV 2025. [code]",
               "children": [],
@@ -3564,6 +3549,21 @@
                 "last_commit": "2025-03-02T04:03:51Z",
                 "owner": "BCV-Uniandes",
                 "repo": "EgoCast",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Social EgoMesh Estimation",
+              "description": "Luca Scofano, Alessio Sampieri, Edoardo De Matteis, Indro Spinelli, and Fabio Galasso. In WACV 2025. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 882255855,
+                "language": "Python",
+                "last_commit": "2025-03-28T10:45:15Z",
+                "owner": "L-Scofano",
+                "repo": "SEEME",
                 "stars": 5
               }
             },
@@ -4041,7 +4041,7 @@
                 "last_commit": "2025-08-20T20:41:20Z",
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 368
+                "stars": 370
               }
             },
             {
@@ -4221,7 +4221,7 @@
                 "last_commit": "2026-08-03T17:04:17Z",
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 31
+                "stars": 32
               }
             },
             {
@@ -4309,7 +4309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T17:55:56.332Z",
+    "last_updated": "2026-08-20T18:00:01.906Z",
     "original_repository": "Sid2697/awesome-egocentric-vision",
     "original_repository_id": 283992870,
     "original_repository_sha": "dfa1196dff3d2d8ee6b950605be7a433152fa79b",
