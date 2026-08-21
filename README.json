@@ -720,7 +720,7 @@
                 "last_commit": "2026-08-03T17:04:17Z",
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 32
+                "stars": 33
               }
             },
             {
@@ -862,7 +862,7 @@
                 "last_commit": "2024-02-26T21:34:43Z",
                 "owner": "owenzlz",
                 "repo": "EgoHOS",
-                "stars": 147
+                "stars": 148
               }
             },
             {
@@ -1183,7 +1183,7 @@
                 "last_commit": "2025-04-08T03:19:09Z",
                 "owner": "iSEE-Laboratory",
                 "repo": "EgoExo-Fitness",
-                "stars": 38
+                "stars": 39
               }
             },
             {
@@ -1355,7 +1355,7 @@
                 "last_commit": "2025-03-19T01:42:16Z",
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 457
+                "stars": 458
               }
             },
             {
@@ -1879,7 +1879,7 @@
                 "last_commit": "2025-11-10T11:06:16Z",
                 "owner": "cvg",
                 "repo": "lamaria",
-                "stars": 158
+                "stars": 159
               }
             },
             {
@@ -2133,7 +2133,7 @@
                 "last_commit": "2025-03-19T01:42:16Z",
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 457
+                "stars": 458
               }
             },
             {
@@ -2875,7 +2875,7 @@
                 "last_commit": "2024-02-26T21:34:43Z",
                 "owner": "owenzlz",
                 "repo": "EgoHOS",
-                "stars": 147
+                "stars": 148
               }
             },
             {
@@ -2965,7 +2965,7 @@
                 "last_commit": "2025-04-08T03:19:09Z",
                 "owner": "iSEE-Laboratory",
                 "repo": "EgoExo-Fitness",
-                "stars": 38
+                "stars": 39
               }
             },
             {
@@ -2995,7 +2995,7 @@
                 "last_commit": "2026-08-03T17:04:17Z",
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 32
+                "stars": 33
               }
             },
             {
@@ -3152,7 +3152,7 @@
                 "last_commit": "2025-11-10T11:06:16Z",
                 "owner": "cvg",
                 "repo": "lamaria",
-                "stars": 158
+                "stars": 159
               }
             },
             {
@@ -4026,7 +4026,7 @@
                 "last_commit": "2025-03-19T01:42:16Z",
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 457
+                "stars": 458
               }
             },
             {
@@ -4041,7 +4041,7 @@
                 "last_commit": "2025-08-20T20:41:20Z",
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 370
+                "stars": 373
               }
             },
             {
@@ -4071,7 +4071,7 @@
                 "last_commit": "2025-11-10T11:06:16Z",
                 "owner": "cvg",
                 "repo": "lamaria",
-                "stars": 158
+                "stars": 159
               }
             },
             {
@@ -4161,7 +4161,7 @@
                 "last_commit": "2025-04-08T03:19:09Z",
                 "owner": "iSEE-Laboratory",
                 "repo": "EgoExo-Fitness",
-                "stars": 38
+                "stars": 39
               }
             },
             {
@@ -4196,6 +4196,21 @@
             },
             {
               "node_type": "item",
+              "title": "EPIC-Contact",
+              "description": "About 2,300 egocentric video clips (62,300 annotated frames) of bimanual hand-object interactions across nine everyday kitchen objects, for in-the-wild 3D hand-object pose estimation. [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1283976546,
+                "language": "Python",
+                "last_commit": "2026-08-03T17:04:17Z",
+                "owner": "Sid2697",
+                "repo": "HOPformer",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Object Search Dataset",
               "description": "57 sequences of 55 subjects on search and retrieval tasks.",
               "children": [],
@@ -4207,21 +4222,6 @@
                 "owner": "Mengmi",
                 "repo": "deepfuturegaze_gan",
                 "stars": 33
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "EPIC-Contact",
-              "description": "About 2,300 egocentric video clips (62,300 annotated frames) of bimanual hand-object interactions across nine everyday kitchen objects, for in-the-wild 3D hand-object pose estimation. [paper] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1283976546,
-                "language": "Python",
-                "last_commit": "2026-08-03T17:04:17Z",
-                "owner": "Sid2697",
-                "repo": "HOPformer",
-                "stars": 32
               }
             },
             {
@@ -4309,7 +4309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T18:00:01.906Z",
+    "last_updated": "2026-08-21T18:00:43.607Z",
     "original_repository": "Sid2697/awesome-egocentric-vision",
     "original_repository_id": 283992870,
     "original_repository_sha": "dfa1196dff3d2d8ee6b950605be7a433152fa79b",
