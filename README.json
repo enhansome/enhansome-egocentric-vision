@@ -1767,7 +1767,7 @@
                 "last_commit": "2026-07-10T15:48:25Z",
                 "owner": "DAVIAN-Robotics",
                 "repo": "EgoX",
-                "stars": 751
+                "stars": 750
               }
             },
             {
@@ -1879,7 +1879,7 @@
                 "last_commit": "2025-11-10T11:06:16Z",
                 "owner": "cvg",
                 "repo": "lamaria",
-                "stars": 159
+                "stars": 160
               }
             },
             {
@@ -1894,7 +1894,7 @@
                 "last_commit": "2025-03-25T16:49:00Z",
                 "owner": "lmur98",
                 "repo": "DIV_FF_CVPR",
-                "stars": 7
+                "stars": 8
               }
             }
           ],
@@ -2088,7 +2088,7 @@
                 "last_commit": "2026-07-10T15:48:25Z",
                 "owner": "DAVIAN-Robotics",
                 "repo": "EgoX",
-                "stars": 751
+                "stars": 750
               }
             },
             {
@@ -2778,7 +2778,7 @@
                 "last_commit": "2025-03-25T16:49:00Z",
                 "owner": "lmur98",
                 "repo": "DIV_FF_CVPR",
-                "stars": 7
+                "stars": 8
               }
             },
             {
@@ -3152,7 +3152,7 @@
                 "last_commit": "2025-11-10T11:06:16Z",
                 "owner": "cvg",
                 "repo": "lamaria",
-                "stars": 159
+                "stars": 160
               }
             },
             {
@@ -4071,7 +4071,7 @@
                 "last_commit": "2025-11-10T11:06:16Z",
                 "owner": "cvg",
                 "repo": "lamaria",
-                "stars": 159
+                "stars": 160
               }
             },
             {
@@ -4309,7 +4309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T18:00:43.607Z",
+    "last_updated": "2026-08-22T17:55:01.985Z",
     "original_repository": "Sid2697/awesome-egocentric-vision",
     "original_repository_id": 283992870,
     "original_repository_sha": "dfa1196dff3d2d8ee6b950605be7a433152fa79b",
