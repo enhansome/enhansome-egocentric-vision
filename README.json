@@ -354,7 +354,7 @@
                 "last_commit": "2026-06-16T02:08:53Z",
                 "owner": "taegyoun88",
                 "repo": "EgoXtreme",
-                "stars": 10
+                "stars": 11
               }
             }
           ],
@@ -892,7 +892,7 @@
                 "last_commit": "2025-12-02T16:06:34Z",
                 "owner": "Biscue5",
                 "repo": "EgoScaler",
-                "stars": 49
+                "stars": 50
               }
             },
             {
@@ -1415,7 +1415,7 @@
                 "last_commit": "2026-04-28T16:47:31Z",
                 "owner": "google-deepmind",
                 "repo": "neptune",
-                "stars": 95
+                "stars": 96
               }
             },
             {
@@ -2208,7 +2208,7 @@
                 "last_commit": "2026-04-28T16:47:31Z",
                 "owner": "google-deepmind",
                 "repo": "neptune",
-                "stars": 95
+                "stars": 96
               }
             },
             {
@@ -2403,7 +2403,7 @@
                 "last_commit": "2025-12-02T16:06:34Z",
                 "owner": "Biscue5",
                 "repo": "EgoScaler",
-                "stars": 49
+                "stars": 50
               }
             },
             {
@@ -2738,6 +2738,21 @@
             },
             {
               "node_type": "item",
+              "title": "EgoXtreme: A Dataset for Robust Object Pose Estimation in Egocentric Views under Extreme Conditions",
+              "description": "Taegyoon Yoon, Yegyu Han, Seojin Ji, Jaewoo Park, Sojeong Kim, Taein Kwon, and Hyung-Sin Kim. In CVPR 2026. [project page] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1114866267,
+                "language": "HTML",
+                "last_commit": "2026-06-16T02:08:53Z",
+                "owner": "taegyoun88",
+                "repo": "EgoXtreme",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
               "title": "X-MIC: Cross-Modal Instance Conditioning for Egocentric Action Generalization",
               "description": "Anna Kukleva, Fadime Sener, Edoardo Remelli, Bugra Tekin, Eric Sauser, Bernt Schiele, and Shugao Ma. In CVPR 2024. [code]",
               "children": [],
@@ -2749,21 +2764,6 @@
                 "owner": "Annusha",
                 "repo": "xmic",
                 "stars": 11
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "EgoXtreme: A Dataset for Robust Object Pose Estimation in Egocentric Views under Extreme Conditions",
-              "description": "Taegyoon Yoon, Yegyu Han, Seojin Ji, Jaewoo Park, Sojeong Kim, Taein Kwon, and Hyung-Sin Kim. In CVPR 2026. [project page] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1114866267,
-                "language": "HTML",
-                "last_commit": "2026-06-16T02:08:53Z",
-                "owner": "taegyoun88",
-                "repo": "EgoXtreme",
-                "stars": 10
               }
             },
             {
@@ -4041,7 +4041,7 @@
                 "last_commit": "2025-08-20T20:41:20Z",
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 373
+                "stars": 374
               }
             },
             {
@@ -4101,7 +4101,7 @@
                 "last_commit": "2026-04-28T16:47:31Z",
                 "owner": "google-deepmind",
                 "repo": "neptune",
-                "stars": 95
+                "stars": 96
               }
             },
             {
@@ -4309,7 +4309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T17:55:01.985Z",
+    "last_updated": "2026-08-23T17:53:10.115Z",
     "original_repository": "Sid2697/awesome-egocentric-vision",
     "original_repository_id": 283992870,
     "original_repository_sha": "dfa1196dff3d2d8ee6b950605be7a433152fa79b",
