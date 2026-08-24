@@ -711,7 +711,7 @@
             "archived": false,
             "id": 1283976546,
             "language": "Python",
-            "last_commit": "2026-08-03T17:04:17Z",
+            "last_commit": "2026-08-24T15:04:41Z",
             "owner": "Sid2697",
             "repo": "HOPformer",
             "stars": 33
@@ -2997,7 +2997,7 @@
             "archived": false,
             "id": 1283976546,
             "language": "Python",
-            "last_commit": "2026-08-03T17:04:17Z",
+            "last_commit": "2026-08-24T15:04:41Z",
             "owner": "Sid2697",
             "repo": "HOPformer",
             "stars": 33
@@ -4251,7 +4251,7 @@
                 "archived": false,
                 "id": 1283976546,
                 "language": "Python",
-                "last_commit": "2026-08-03T17:04:17Z",
+                "last_commit": "2026-08-24T15:04:41Z",
                 "owner": "Sid2697",
                 "repo": "HOPformer",
                 "stars": 33
@@ -4357,7 +4357,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:28:38.633Z",
+    "last_updated": "2026-08-24T18:02:28.475Z",
     "original_repository": "Sid2697/awesome-egocentric-vision",
     "original_repository_id": 283992870,
     "original_repository_sha": "dfa1196dff3d2d8ee6b950605be7a433152fa79b",
