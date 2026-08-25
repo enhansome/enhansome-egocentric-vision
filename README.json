@@ -689,6 +689,21 @@
         },
         {
           "node_type": "item",
+          "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
+          "description": "Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [project page] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1283976546,
+            "language": "Python",
+            "last_commit": "2026-08-24T15:04:41Z",
+            "owner": "Sid2697",
+            "repo": "HOPformer",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation",
           "description": "Ruicong Liu, Takehiko Ohkawa, Mingfang Zhang, and Yoichi Sato. In CVPR 2024. [code]",
           "children": [],
@@ -704,21 +719,6 @@
         },
         {
           "node_type": "item",
-          "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
-          "description": "Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [project page] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1283976546,
-            "language": "Python",
-            "last_commit": "2026-08-24T15:04:41Z",
-            "owner": "Sid2697",
-            "repo": "HOPformer",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
           "title": "EgoPoseFormer: A Simple Baseline for Stereo Egocentric 3D Human Pose Estimation",
           "description": "Chenhongyi Yang, Anastasia Tkach, Shreyas Hampali, Linguang Zhang, Elliot J. Crowley, and Cem Keskin. In ECCV 2024. [code]",
           "children": [],
@@ -729,7 +729,7 @@
             "last_commit": "2026-03-06T09:42:41Z",
             "owner": "ChenhongyiYang",
             "repo": "egoposeformer",
-            "stars": 32
+            "stars": 33
           }
         },
         {
@@ -1419,7 +1419,7 @@
             "last_commit": "2025-11-27T05:45:57Z",
             "owner": "OpenGVLab",
             "repo": "vinci",
-            "stars": 93
+            "stars": 94
           }
         },
         {
@@ -1494,7 +1494,7 @@
             "last_commit": "2025-11-25T06:20:50Z",
             "owner": "InternRobotics",
             "repo": "EgoHOD",
-            "stars": 37
+            "stars": 38
           }
         },
         {
@@ -1866,7 +1866,7 @@
             "last_commit": "2025-11-10T11:06:16Z",
             "owner": "cvg",
             "repo": "lamaria",
-            "stars": 163
+            "stars": 164
           }
         },
         {
@@ -3000,6 +3000,21 @@
             "last_commit": "2026-08-24T15:04:41Z",
             "owner": "Sid2697",
             "repo": "HOPformer",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EgoPoseFormer: A Simple Baseline for Stereo Egocentric 3D Human Pose Estimation",
+          "description": "Chenhongyi Yang, Anastasia Tkach, Shreyas Hampali, Linguang Zhang, Elliot J. Crowley, and Cem Keskin. In ECCV 2024. [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 830029754,
+            "language": "Python",
+            "last_commit": "2026-03-06T09:42:41Z",
+            "owner": "ChenhongyiYang",
+            "repo": "egoposeformer",
             "stars": 33
           }
         },
@@ -3015,21 +3030,6 @@
             "last_commit": "2024-12-04T06:54:51Z",
             "owner": "ut-vision",
             "repo": "ActionVOS",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EgoPoseFormer: A Simple Baseline for Stereo Egocentric 3D Human Pose Estimation",
-          "description": "Chenhongyi Yang, Anastasia Tkach, Shreyas Hampali, Linguang Zhang, Elliot J. Crowley, and Cem Keskin. In ECCV 2024. [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 830029754,
-            "language": "Python",
-            "last_commit": "2026-03-06T09:42:41Z",
-            "owner": "ChenhongyiYang",
-            "repo": "egoposeformer",
             "stars": 32
           }
         },
@@ -3156,7 +3156,7 @@
             "last_commit": "2025-11-10T11:06:16Z",
             "owner": "cvg",
             "repo": "lamaria",
-            "stars": 163
+            "stars": 164
           }
         },
         {
@@ -4119,7 +4119,7 @@
                 "last_commit": "2025-11-10T11:06:16Z",
                 "owner": "cvg",
                 "repo": "lamaria",
-                "stars": 163
+                "stars": 164
               }
             },
             {
@@ -4254,7 +4254,7 @@
                 "last_commit": "2026-08-24T15:04:41Z",
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 33
+                "stars": 34
               }
             },
             {
@@ -4357,7 +4357,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:19:14.096Z",
+    "last_updated": "2026-08-25T18:01:18.722Z",
     "original_repository": "Sid2697/awesome-egocentric-vision",
     "original_repository_id": 283992870,
     "original_repository_sha": "dfa1196dff3d2d8ee6b950605be7a433152fa79b",
