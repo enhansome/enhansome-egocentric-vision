@@ -1645,7 +1645,7 @@
             "open_issues": 1,
             "owner": "fpv-iplab",
             "repo": "Differentiable-Task-Graph-Learning",
-            "stars": 23,
+            "stars": 24,
             "topics": [
               "egocentric-videos",
               "maximum-likelihood",
@@ -2009,7 +2009,7 @@
             "open_issues": 12,
             "owner": "EvolvingLMMs-Lab",
             "repo": "EgoLife",
-            "stars": 458,
+            "stars": 457,
             "topics": [
               "egocentric-vision",
               "omnimodal",
@@ -3222,7 +3222,7 @@
             "open_issues": 12,
             "owner": "EvolvingLMMs-Lab",
             "repo": "EgoLife",
-            "stars": 458,
+            "stars": 457,
             "topics": [
               "egocentric-vision",
               "omnimodal",
@@ -5810,7 +5810,7 @@
             "open_issues": 1,
             "owner": "fpv-iplab",
             "repo": "Differentiable-Task-Graph-Learning",
-            "stars": 23,
+            "stars": 24,
             "topics": [
               "egocentric-videos",
               "maximum-likelihood",
@@ -6065,7 +6065,7 @@
                 "open_issues": 12,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 458,
+                "stars": 457,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6090,7 +6090,7 @@
                 "open_issues": 8,
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 378,
+                "stars": 379,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6144,7 +6144,7 @@
                 "open_issues": 12,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 458,
+                "stars": 457,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6169,7 +6169,7 @@
                 "open_issues": 8,
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 378,
+                "stars": 379,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:47:56.670Z",
+    "last_updated": "2026-08-29T19:58:31.267Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
@@ -6583,7 +6583,7 @@
       "open_issues": 3,
       "owner": "Sid2697",
       "repo": "awesome-egocentric-vision",
-      "stars": 342,
+      "stars": 343,
       "topics": [
         "activity-recognition",
         "awesome",
