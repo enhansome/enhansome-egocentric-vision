@@ -1050,7 +1050,7 @@
             "open_issues": 1,
             "owner": "Sid2697",
             "repo": "HOPformer",
-            "stars": 34,
+            "stars": 35,
             "topics": [
               "3d",
               "arctic",
@@ -1302,7 +1302,7 @@
             "open_issues": 13,
             "owner": "owenzlz",
             "repo": "EgoHOS",
-            "stars": 148,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2740,7 +2740,7 @@
             "open_issues": 2,
             "owner": "showlab",
             "repo": "Exo2Ego-V",
-            "stars": 61,
+            "stars": 62,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4305,7 +4305,7 @@
             "open_issues": 13,
             "owner": "owenzlz",
             "repo": "EgoHOS",
-            "stars": 148,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4454,6 +4454,36 @@
         },
         {
           "node_type": "item",
+          "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
+          "description": "Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [project page] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Code for HOPformer released in ECCV 2026 Paper \"Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation\"",
+            "homepage": "https://sid2697.github.io/epic-contact/",
+            "id": 1283976546,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-24T15:04:41Z",
+            "open_issues": 1,
+            "owner": "Sid2697",
+            "repo": "HOPformer",
+            "stars": 35,
+            "topics": [
+              "3d",
+              "arctic",
+              "egocentric-videos",
+              "egocentric-vision",
+              "epic-kitchens",
+              "hand-object-interaction",
+              "in-the-wild",
+              "pose-estimation"
+            ]
+          },
+          "first_seen": "2026-08-29T01:08:37.430Z"
+        },
+        {
+          "node_type": "item",
           "title": "My View is the Best View: Procedure Learning from Egocentric Videos",
           "description": "Siddhant Bansal, Chetan Arora, C.V. Jawahar. In ECCV 2022. [project page] [dataset] [code]",
           "children": [],
@@ -4470,36 +4500,6 @@
             "repo": "EgoProceL-egocentric-procedure-learning",
             "stars": 35,
             "topics": []
-          },
-          "first_seen": "2026-08-29T01:08:37.430Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
-          "description": "Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [project page] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Code for HOPformer released in ECCV 2026 Paper \"Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation\"",
-            "homepage": "https://sid2697.github.io/epic-contact/",
-            "id": 1283976546,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-24T15:04:41Z",
-            "open_issues": 1,
-            "owner": "Sid2697",
-            "repo": "HOPformer",
-            "stars": 34,
-            "topics": [
-              "3d",
-              "arctic",
-              "egocentric-videos",
-              "egocentric-vision",
-              "epic-kitchens",
-              "hand-object-interaction",
-              "in-the-wild",
-              "pose-estimation"
-            ]
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
         },
@@ -5623,7 +5623,7 @@
             "open_issues": 2,
             "owner": "showlab",
             "repo": "Exo2Ego-V",
-            "stars": 61,
+            "stars": 62,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6381,6 +6381,36 @@
             },
             {
               "node_type": "item",
+              "title": "EPIC-Contact",
+              "description": "About 2,300 egocentric video clips (62,300 annotated frames) of bimanual hand-object interactions across nine everyday kitchen objects, for in-the-wild 3D hand-object pose estimation. [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code for HOPformer released in ECCV 2026 Paper \"Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation\"",
+                "homepage": "https://sid2697.github.io/epic-contact/",
+                "id": 1283976546,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-24T15:04:41Z",
+                "open_issues": 1,
+                "owner": "Sid2697",
+                "repo": "HOPformer",
+                "stars": 35,
+                "topics": [
+                  "3d",
+                  "arctic",
+                  "egocentric-videos",
+                  "egocentric-vision",
+                  "epic-kitchens",
+                  "hand-object-interaction",
+                  "in-the-wild",
+                  "pose-estimation"
+                ]
+              },
+              "first_seen": "2026-08-29T01:08:37.430Z"
+            },
+            {
+              "node_type": "item",
               "title": "EgoAVU",
               "description": "Egocentric audio-visual understanding suite with a 3M-sample instruction-tuning set (EgoAVU-Instruct) and a manually verified evaluation benchmark (EgoAVU-Bench) covering grounding, temporal reasoning, scene understanding, and audio-visual hallucination. [paper]",
               "children": [],
@@ -6397,36 +6427,6 @@
                 "repo": "EgoAVU",
                 "stars": 35,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T01:08:37.430Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EPIC-Contact",
-              "description": "About 2,300 egocentric video clips (62,300 annotated frames) of bimanual hand-object interactions across nine everyday kitchen objects, for in-the-wild 3D hand-object pose estimation. [paper] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Code for HOPformer released in ECCV 2026 Paper \"Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation\"",
-                "homepage": "https://sid2697.github.io/epic-contact/",
-                "id": 1283976546,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-08-24T15:04:41Z",
-                "open_issues": 1,
-                "owner": "Sid2697",
-                "repo": "HOPformer",
-                "stars": 34,
-                "topics": [
-                  "3d",
-                  "arctic",
-                  "egocentric-videos",
-                  "egocentric-vision",
-                  "epic-kitchens",
-                  "hand-object-interaction",
-                  "in-the-wild",
-                  "pose-estimation"
-                ]
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
             },
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:58:31.267Z",
+    "last_updated": "2026-08-30T20:00:45.570Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",

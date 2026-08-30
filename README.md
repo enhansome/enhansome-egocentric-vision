@@ -364,7 +364,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * [FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video](https://arxiv.org/abs/2503.23094) - Andrea Boscolo Camiletto, Jian Wang, Eduardo Alvarado, Rishabh Dabral, Thabo Beeler, Marc Habermann, and Christian Theobalt. In CVPR 2025. [\[project page\]](https://vcai.mpi-inf.mpg.de/projects/FRAME/) [\[code\]](https://github.com/abcamiletto/frame) ⭐ 43 | 🐛 1 | 🌐 Python | 📅 2025-05-20
 
-* [Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation](https://arxiv.org/abs/2606.30598) - Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [\[project page\]](https://sid2697.github.io/epic-contact/) [\[code\]](https://github.com/Sid2697/HOPformer) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2026-08-24
+* [Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation](https://arxiv.org/abs/2606.30598) - Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [\[project page\]](https://sid2697.github.io/epic-contact/) [\[code\]](https://github.com/Sid2697/HOPformer) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2026-08-24
 
 * [Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation](https://arxiv.org/abs/2403.04381) - Ruicong Liu, Takehiko Ohkawa, Mingfang Zhang, and Yoichi Sato. In CVPR 2024. [\[code\]](https://github.com/ut-vision/S2DHand) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2024-07-17
 
@@ -455,7 +455,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * [ParaHome: Parameterizing Everyday Home Activities Towards 3D Generative Modeling of Human-Object Interactions](https://arxiv.org/abs/2401.10232) - Jeonghwan Kim, Jisoo Kim, Jeonghyeon Na, and Hanbyul Joo. In CVPR 2025. [\[code\]](https://github.com/canoneod/ParaHome) ⭐ 244 | 🐛 3 | 🌐 Python | 📅 2025-12-24
 
-* [Fine-Grained Egocentric Hand-Object Segmentation: Dataset, Model, and Applications](https://arxiv.org/pdf/2208.03826.pdf) - Lingzhi Zhang, Shenghao Zhou, Simon Stent, Jianbo Shi. In ECCV 2022. [\[project page\]](https://web.archive.org/web/20230422000343/https://www.seas.upenn.edu/~shzhou2/projects/eos_dataset/) [\[code\]](https://github.com/owenzlz/EgoHOS) ⭐ 148 | 🐛 13 | 🌐 Python | 📅 2024-02-26 [\[dataset\]](https://github.com/owenzlz/EgoHOS) ⭐ 148 | 🐛 13 | 🌐 Python | 📅 2024-02-26
+* [Fine-Grained Egocentric Hand-Object Segmentation: Dataset, Model, and Applications](https://arxiv.org/pdf/2208.03826.pdf) - Lingzhi Zhang, Shenghao Zhou, Simon Stent, Jianbo Shi. In ECCV 2022. [\[project page\]](https://web.archive.org/web/20230422000343/https://www.seas.upenn.edu/~shzhou2/projects/eos_dataset/) [\[code\]](https://github.com/owenzlz/EgoHOS) ⭐ 149 | 🐛 13 | 🌐 Python | 📅 2024-02-26 [\[dataset\]](https://github.com/owenzlz/EgoHOS) ⭐ 149 | 🐛 13 | 🌐 Python | 📅 2024-02-26
 
 * [ForeHOI: Feed-forward 3D Object Reconstruction from Daily Hand-Object Interaction Videos](https://arxiv.org/abs/2602.06226) - Yuantao Chen, Jiahao Chang, Chongjie Ye, Chaoran Zhang, Zhaojie Fang, Chenghong Li, and Xiaoguang Han. In CVPR 2026. [\[project page\]](https://tao-11-chen.github.io/project_pages/ForeHOI/) [\[code\]](https://github.com/Tao-11-chen/ForeHOI) ⭐ 96 | 🐛 4 | 🌐 Python | 📅 2026-08-10
 
@@ -730,7 +730,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * [GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control](https://openaccess.thecvf.com/content/CVPR2025/papers/Hassan_GEM_A_Generalizable_Ego-Vision_Multimodal_World_Model_for_Fine-Grained_Ego-Motion_CVPR_2025_paper.pdf) - Mariam Hassan, Sebastian Stapf, Ahmad Rahimi, et al. In CVPR 2025. [\[project page\]](https://vita-epfl.github.io/GEM.github.io/) [\[code\]](https://github.com/vita-epfl/GEM) ⭐ 114 | 🐛 3 | 🌐 Python | 📅 2025-10-16
 
-* [Exocentric-to-Egocentric Video Generation](https://openreview.net/forum?id=UHDCbIrCFL) - Jia-Wei Liu, Weijia Mao, Zhongcong Xu, Jussi Keppo, and Mike Zheng Shou. In NeurIPS 2024. [\[code\]](https://github.com/showlab/Exo2Ego-V) ⭐ 61 | 🐛 2 | 🌐 Python | 📅 2025-04-28
+* [Exocentric-to-Egocentric Video Generation](https://openreview.net/forum?id=UHDCbIrCFL) - Jia-Wei Liu, Weijia Mao, Zhongcong Xu, Jussi Keppo, and Mike Zheng Shou. In NeurIPS 2024. [\[code\]](https://github.com/showlab/Exo2Ego-V) ⭐ 62 | 🐛 2 | 🌐 Python | 📅 2025-04-28
 
 * [EgoAgent: A Joint Predictive Agent Model in Egocentric Worlds](https://arxiv.org/abs/2502.05857) - Lu Chen, Yizhou Wang, Shixiang Tang, Qianhong Ma, Tong He, Wanli Ouyang, Xiaowei Zhou, Hujun Bao, and Sida Peng. In ICCV 2025. [\[code\]](https://github.com/zju3dv/EgoAgent) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2025-06-30
 
@@ -1189,7 +1189,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 <details>
 <summary>Show papers (42)</summary>
 
-* [Fine-Grained Egocentric Hand-Object Segmentation: Dataset, Model, and Applications](https://arxiv.org/pdf/2208.03826.pdf) - Lingzhi Zhang, Shenghao Zhou, Simon Stent, Jianbo Shi. In ECCV 2022. [\[project page\]](https://web.archive.org/web/20230422000343/https://www.seas.upenn.edu/~shzhou2/projects/eos_dataset/) [\[code\]](https://github.com/owenzlz/EgoHOS) ⭐ 148 | 🐛 13 | 🌐 Python | 📅 2024-02-26 [\[dataset\]](https://github.com/owenzlz/EgoHOS) ⭐ 148 | 🐛 13 | 🌐 Python | 📅 2024-02-26
+* [Fine-Grained Egocentric Hand-Object Segmentation: Dataset, Model, and Applications](https://arxiv.org/pdf/2208.03826.pdf) - Lingzhi Zhang, Shenghao Zhou, Simon Stent, Jianbo Shi. In ECCV 2022. [\[project page\]](https://web.archive.org/web/20230422000343/https://www.seas.upenn.edu/~shzhou2/projects/eos_dataset/) [\[code\]](https://github.com/owenzlz/EgoHOS) ⭐ 149 | 🐛 13 | 🌐 Python | 📅 2024-02-26 [\[dataset\]](https://github.com/owenzlz/EgoHOS) ⭐ 149 | 🐛 13 | 🌐 Python | 📅 2024-02-26
 
 * [EgoBody: Human Body Shape and Motion of Interacting People from Head-Mounted Devices](https://arxiv.org/pdf/2112.07642.pdf) - Siwei Zhang, Qianli Ma, Yan Zhang, Zhiyin Qian, Taein Kwon, Marc Pollefeys, Federica Bogo, Siyu Tang. In ECCV 2022. [\[project page\]](https://sanweiliti.github.io/egobody/egobody.html) [\[dataset\]](https://egobody.inf.ethz.ch/) [\[code\]](https://github.com/sanweiliti/EgoBody) ⭐ 125 | 🐛 4 | 🌐 Python | 📅 2023-12-04
 
@@ -1203,9 +1203,9 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * [EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding](https://arxiv.org/abs/2406.08877) - Yuan-Ming Li, Wei-Jin Huang, An-Lan Wang, Ling-An Zeng, Jing-Ke Meng, and Wei-Shi Zheng. In ECCV 2024. [\[code\]](https://github.com/iSEE-Laboratory/EgoExo-Fitness) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2025-04-08
 
-* [My View is the Best View: Procedure Learning from Egocentric Videos](https://arxiv.org/pdf/2207.10883) - Siddhant Bansal, Chetan Arora, C.V. Jawahar. In ECCV 2022. [\[project page\]](https://sid2697.github.io/egoprocel/) [\[dataset\]](https://sid2697.github.io/egoprocel/#download) [\[code\]](https://github.com/Sid2697/EgoProceL-egocentric-procedure-learning) ⭐ 35 | 🐛 6 | 🌐 Python | 📅 2024-02-05
+* [Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation](https://arxiv.org/abs/2606.30598) - Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [\[project page\]](https://sid2697.github.io/epic-contact/) [\[code\]](https://github.com/Sid2697/HOPformer) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2026-08-24
 
-* [Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation](https://arxiv.org/abs/2606.30598) - Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [\[project page\]](https://sid2697.github.io/epic-contact/) [\[code\]](https://github.com/Sid2697/HOPformer) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2026-08-24
+* [My View is the Best View: Procedure Learning from Egocentric Videos](https://arxiv.org/pdf/2207.10883) - Siddhant Bansal, Chetan Arora, C.V. Jawahar. In ECCV 2022. [\[project page\]](https://sid2697.github.io/egoprocel/) [\[dataset\]](https://sid2697.github.io/egoprocel/#download) [\[code\]](https://github.com/Sid2697/EgoProceL-egocentric-procedure-learning) ⭐ 35 | 🐛 6 | 🌐 Python | 📅 2024-02-05
 
 * [EgoPoseFormer: A Simple Baseline for Stereo Egocentric 3D Human Pose Estimation](https://arxiv.org/abs/2403.18080) - Chenhongyi Yang, Anastasia Tkach, Shreyas Hampali, Linguang Zhang, Elliot J. Crowley, and Cem Keskin. In ECCV 2024. [\[code\]](https://github.com/ChenhongyiYang/egoposeformer) ⭐ 33 | 🐛 4 | 🌐 Python | 📅 2026-03-06
 
@@ -1481,7 +1481,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * [EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding](https://arxiv.org/abs/2308.09126) - Karttikeya Mangalam, Raiymbek Akshulakov, and Jitendra Malik. In NeurIPS 2023. [\[project page\]](https://egoschema.github.io/) [\[code\]](https://github.com/egoschema/EgoSchema) ⭐ 118 | 🐛 5 | 🌐 Python | 📅 2024-12-30
 
-* [Exocentric-to-Egocentric Video Generation](https://openreview.net/forum?id=UHDCbIrCFL) - Jia-Wei Liu, Weijia Mao, Zhongcong Xu, Jussi Keppo, and Mike Zheng Shou. In NeurIPS 2024. [\[code\]](https://github.com/showlab/Exo2Ego-V) ⭐ 61 | 🐛 2 | 🌐 Python | 📅 2025-04-28
+* [Exocentric-to-Egocentric Video Generation](https://openreview.net/forum?id=UHDCbIrCFL) - Jia-Wei Liu, Weijia Mao, Zhongcong Xu, Jussi Keppo, and Mike Zheng Shou. In NeurIPS 2024. [\[code\]](https://github.com/showlab/Exo2Ego-V) ⭐ 62 | 🐛 2 | 🌐 Python | 📅 2025-04-28
 
 * [EgoTaskQA: Understanding Human Tasks in Egocentric Videos](https://arxiv.org/pdf/2210.03929.pdf) - Baoxiong Jia, Ting Lei, Song-Chun Zhu, Siyuan Huang. In NeurIPS 2022. [\[project page\]](https://sites.google.com/view/egotaskqa) [\[code\]](https://github.com/Buzz-Beater/EgoTaskQA) ⭐ 47 | 🐛 3 | 🌐 Python | 📅 2023-04-17
 
@@ -1594,8 +1594,8 @@ A quick-reference table of some of the most prominent egocentric datasets/benchm
 * [EgoHumans](https://github.com/rawalkhirodkar/egohumans) ⭐ 52 | 🐛 4 | 🌐 Python | 📅 2023-11-24 - 125K+ egocentric images from an in-the-wild multi-view multi-human capture setup (tennis, fencing, volleyball), with 3D pose, mesh, and tracking ground truth. [\[paper\]](https://arxiv.org/abs/2305.16487)
 * [EgoExo-Fitness](https://github.com/iSEE-Laboratory/EgoExo-Fitness) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2025-04-08 - Full-body action-understanding dataset of synchronized egocentric and exocentric fitness videos from 40 participants performing 86 types of fitness action sequences, with two-level temporal boundaries, technical-keypoint verification, language comments, and action-quality scores. [\[paper\]](https://arxiv.org/abs/2406.08877)
 * [EgoPER](https://www.khoury.northeastern.edu/home/eelhami/egoper.htm) - 28 hours of egocentric procedural cooking videos across 5 tasks with normal and erroneous executions, multiple modalities (audio, depth, hand tracking), frame-wise step labels, and object bounding boxes for error detection. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_Error_Detection_in_Egocentric_Procedural_Task_Videos_CVPR_2024_paper.html) [\[code\]](https://github.com/robert80203/EgoPER_official) ⭐ 37 | 🐛 3 | 🌐 Python | 📅 2025-09-20
+* [EPIC-Contact](https://sid2697.github.io/epic-contact/) - About 2,300 egocentric video clips (62,300 annotated frames) of bimanual hand-object interactions across nine everyday kitchen objects, for in-the-wild 3D hand-object pose estimation. [\[paper\]](https://arxiv.org/abs/2606.30598) [\[code\]](https://github.com/Sid2697/HOPformer) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2026-08-24
 * [EgoAVU](https://github.com/facebookresearch/EgoAVU) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-06-08 - Egocentric audio-visual understanding suite with a 3M-sample instruction-tuning set (EgoAVU-Instruct) and a manually verified evaluation benchmark (EgoAVU-Bench) covering grounding, temporal reasoning, scene understanding, and audio-visual hallucination. [\[paper\]](https://arxiv.org/abs/2602.06139)
-* [EPIC-Contact](https://sid2697.github.io/epic-contact/) - About 2,300 egocentric video clips (62,300 annotated frames) of bimanual hand-object interactions across nine everyday kitchen objects, for in-the-wild 3D hand-object pose estimation. [\[paper\]](https://arxiv.org/abs/2606.30598) [\[code\]](https://github.com/Sid2697/HOPformer) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2026-08-24
 * [Object Search Dataset](https://github.com/Mengmi/deepfuturegaze_gan) ⭐ 33 | 🐛 0 | 🌐 Lua | 📅 2020-03-12 - 57 sequences of 55 subjects on search and retrieval tasks.
 * [EPFL-Smart-Kitchen-30](https://github.com/amathislab/EPFL-Smart-Kitchen) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2026-05-22 - 29.7 hours of 16 subjects cooking four recipes with synchronized exocentric (9 RGB-D cameras) and egocentric (HoloLens 2) video, depth, IMUs, eye gaze, and body/hand kinematics, densely annotated for four action and motion understanding benchmarks. [\[paper\]](https://arxiv.org/abs/2506.01608)
 * [EgoExOR](https://github.com/ardamamur/EgoExOR) ⭐ 29 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-05-06 - 94 minutes (84,553 frames at 15 FPS) of two emulated spine procedures combining egocentric data (RGB, gaze, hand tracking, audio) from wearable glasses with exocentric RGB-D and ultrasound, annotated with 568,235 scene-graph triplets. [\[paper\]](https://arxiv.org/abs/2505.24287)
@@ -1701,4 +1701,4 @@ This is a work in progress. Contributions welcome! Read the [contribution guidel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
