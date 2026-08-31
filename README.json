@@ -1242,7 +1242,7 @@
             "open_issues": 1,
             "owner": "zc-alexfan",
             "repo": "arctic",
-            "stars": 501,
+            "stars": 502,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -1642,7 +1642,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2025-01-09T10:36:14Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "fpv-iplab",
             "repo": "Differentiable-Task-Graph-Learning",
             "stars": 24,
@@ -2009,7 +2009,7 @@
             "open_issues": 12,
             "owner": "EvolvingLMMs-Lab",
             "repo": "EgoLife",
-            "stars": 457,
+            "stars": 459,
             "topics": [
               "egocentric-vision",
               "omnimodal",
@@ -2761,7 +2761,7 @@
             "open_issues": 3,
             "owner": "zju3dv",
             "repo": "EgoAgent",
-            "stars": 52,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3183,7 +3183,7 @@
             "open_issues": 1,
             "owner": "zc-alexfan",
             "repo": "arctic",
-            "stars": 501,
+            "stars": 502,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -3222,7 +3222,7 @@
             "open_issues": 12,
             "owner": "EvolvingLMMs-Lab",
             "repo": "EgoLife",
-            "stars": 457,
+            "stars": 459,
             "topics": [
               "egocentric-vision",
               "omnimodal",
@@ -4931,7 +4931,7 @@
             "open_issues": 3,
             "owner": "zju3dv",
             "repo": "EgoAgent",
-            "stars": 52,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5807,7 +5807,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2025-01-09T10:36:14Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "fpv-iplab",
             "repo": "Differentiable-Task-Graph-Learning",
             "stars": 24,
@@ -6065,7 +6065,7 @@
                 "open_issues": 12,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 457,
+                "stars": 459,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6144,7 +6144,7 @@
                 "open_issues": 12,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 457,
+                "stars": 459,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T20:00:45.570Z",
+    "last_updated": "2026-08-31T22:01:48.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
@@ -6583,7 +6583,7 @@
       "open_issues": 3,
       "owner": "Sid2697",
       "repo": "awesome-egocentric-vision",
-      "stars": 343,
+      "stars": 344,
       "topics": [
         "activity-recognition",
         "awesome",
