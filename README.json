@@ -779,7 +779,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-10T19:53:13Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "fb-reps",
             "repo": "PRVQL",
             "stars": 5,
@@ -1050,7 +1050,7 @@
             "open_issues": 1,
             "owner": "Sid2697",
             "repo": "HOPformer",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "3d",
               "arctic",
@@ -1101,7 +1101,7 @@
             "open_issues": 4,
             "owner": "ChenhongyiYang",
             "repo": "egoposeformer",
-            "stars": 33,
+            "stars": 32,
             "topics": [
               "eccv2024",
               "egocentric-vision",
@@ -1169,7 +1169,7 @@
             "open_issues": 1,
             "owner": "tho-kn",
             "repo": "EgoTAP",
-            "stars": 15,
+            "stars": 14,
             "topics": [
               "3d-pose-estimation",
               "egocentric-vision",
@@ -1576,7 +1576,7 @@
             "open_issues": 3,
             "owner": "robert80203",
             "repo": "EgoPER_official",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "action-segmentation",
               "computer-vision",
@@ -2629,7 +2629,7 @@
             "open_issues": 15,
             "owner": "DAVIAN-Robotics",
             "repo": "EgoX",
-            "stars": 749,
+            "stars": 750,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3141,7 +3141,7 @@
             "open_issues": 15,
             "owner": "DAVIAN-Robotics",
             "repo": "EgoX",
-            "stars": 749,
+            "stars": 750,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3677,6 +3677,33 @@
         },
         {
           "node_type": "item",
+          "title": "Error Detection in Egocentric Procedural Task Videos",
+          "description": "Shih-Po Lee, Zijia Lu, Zekun Zhang, Minh Hoai, and Ehsan Elhamifar. In CVPR 2024. [project page] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The official implementation of Error Detection in Egocentric Procedural Task Videos",
+            "homepage": null,
+            "id": 708485039,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2025-09-20T18:27:20Z",
+            "open_issues": 3,
+            "owner": "robert80203",
+            "repo": "EgoPER_official",
+            "stars": 38,
+            "topics": [
+              "action-segmentation",
+              "computer-vision",
+              "deep-learning",
+              "error-detection",
+              "procedural-learning"
+            ]
+          },
+          "first_seen": "2026-08-29T01:08:37.430Z"
+        },
+        {
+          "node_type": "item",
           "title": "Progress-Aware Online Action Segmentation for Egocentric Procedural Task Videos",
           "description": "Yuhan Shen and Ehsan Elhamifar. In CVPR 2024. [code]",
           "children": [],
@@ -3693,33 +3720,6 @@
             "repo": "ProTAS",
             "stars": 38,
             "topics": []
-          },
-          "first_seen": "2026-08-29T01:08:37.430Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Error Detection in Egocentric Procedural Task Videos",
-          "description": "Shih-Po Lee, Zijia Lu, Zekun Zhang, Minh Hoai, and Ehsan Elhamifar. In CVPR 2024. [project page] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The official implementation of Error Detection in Egocentric Procedural Task Videos",
-            "homepage": null,
-            "id": 708485039,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2025-09-20T18:27:20Z",
-            "open_issues": 3,
-            "owner": "robert80203",
-            "repo": "EgoPER_official",
-            "stars": 37,
-            "topics": [
-              "action-segmentation",
-              "computer-vision",
-              "deep-learning",
-              "error-detection",
-              "procedural-learning"
-            ]
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
         },
@@ -4058,7 +4058,7 @@
             "open_issues": 1,
             "owner": "tho-kn",
             "repo": "EgoTAP",
-            "stars": 15,
+            "stars": 14,
             "topics": [
               "3d-pose-estimation",
               "egocentric-vision",
@@ -4468,7 +4468,7 @@
             "open_issues": 1,
             "owner": "Sid2697",
             "repo": "HOPformer",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "3d",
               "arctic",
@@ -4505,32 +4505,6 @@
         },
         {
           "node_type": "item",
-          "title": "EgoPoseFormer: A Simple Baseline for Stereo Egocentric 3D Human Pose Estimation",
-          "description": "Chenhongyi Yang, Anastasia Tkach, Shreyas Hampali, Linguang Zhang, Elliot J. Crowley, and Cem Keskin. In ECCV 2024. [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[ECCV 2024] EgoPoseFormer: A Simple Baseline for Stereo Egocentric 3D Human Pose Estimation",
-            "homepage": null,
-            "id": 830029754,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-03-06T09:42:41Z",
-            "open_issues": 4,
-            "owner": "ChenhongyiYang",
-            "repo": "egoposeformer",
-            "stars": 33,
-            "topics": [
-              "eccv2024",
-              "egocentric-vision",
-              "human-pose-estimation",
-              "pose-estimation"
-            ]
-          },
-          "first_seen": "2026-08-29T01:08:37.430Z"
-        },
-        {
-          "node_type": "item",
           "title": "ActionVOS: Actions as Prompts for Video Object Segmentation",
           "description": "Liangyang Ouyang, Ruicong Liu, Yifei Huang, Ryosuke Furuta, and Yoichi Sato. In ECCV 2024. [code]",
           "children": [],
@@ -4547,6 +4521,32 @@
             "repo": "ActionVOS",
             "stars": 32,
             "topics": []
+          },
+          "first_seen": "2026-08-29T01:08:37.430Z"
+        },
+        {
+          "node_type": "item",
+          "title": "EgoPoseFormer: A Simple Baseline for Stereo Egocentric 3D Human Pose Estimation",
+          "description": "Chenhongyi Yang, Anastasia Tkach, Shreyas Hampali, Linguang Zhang, Elliot J. Crowley, and Cem Keskin. In ECCV 2024. [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[ECCV 2024] EgoPoseFormer: A Simple Baseline for Stereo Egocentric 3D Human Pose Estimation",
+            "homepage": null,
+            "id": 830029754,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-03-06T09:42:41Z",
+            "open_issues": 4,
+            "owner": "ChenhongyiYang",
+            "repo": "egoposeformer",
+            "stars": 32,
+            "topics": [
+              "eccv2024",
+              "egocentric-vision",
+              "human-pose-estimation",
+              "pose-estimation"
+            ]
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
         },
@@ -5247,7 +5247,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-10T19:53:13Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "fb-reps",
             "repo": "PRVQL",
             "stars": 5,
@@ -6087,10 +6087,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-08-20T20:41:20Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 379,
+                "stars": 380,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6166,10 +6166,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-08-20T20:41:20Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 379,
+                "stars": 380,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6368,7 +6368,7 @@
                 "open_issues": 3,
                 "owner": "robert80203",
                 "repo": "EgoPER_official",
-                "stars": 37,
+                "stars": 38,
                 "topics": [
                   "action-segmentation",
                   "computer-vision",
@@ -6395,7 +6395,7 @@
                 "open_issues": 1,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 35,
+                "stars": 36,
                 "topics": [
                   "3d",
                   "arctic",
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T20:08:43.355Z",
+    "last_updated": "2026-09-02T20:05:20.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
