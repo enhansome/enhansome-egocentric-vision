@@ -1323,7 +1323,7 @@
             "open_issues": 4,
             "owner": "Tao-11-chen",
             "repo": "ForeHOI",
-            "stars": 96,
+            "stars": 97,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2518,7 +2518,7 @@
             "open_issues": 2,
             "owner": "anupampani",
             "repo": "Gaze-VLM",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2788,7 +2788,7 @@
             "open_issues": 4,
             "owner": "cvg",
             "repo": "lamaria",
-            "stars": 165,
+            "stars": 167,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2978,7 +2978,7 @@
             "open_issues": 0,
             "owner": "eth-siplab",
             "repo": "egoEMOTION",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "affective-computing",
               "computer-vision",
@@ -3339,7 +3339,7 @@
             "open_issues": 4,
             "owner": "Tao-11-chen",
             "repo": "ForeHOI",
-            "stars": 96,
+            "stars": 97,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4719,7 +4719,7 @@
             "open_issues": 4,
             "owner": "cvg",
             "repo": "lamaria",
-            "stars": 165,
+            "stars": 167,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5719,6 +5719,41 @@
         },
         {
           "node_type": "item",
+          "title": "egoEMOTION: Egocentric Vision and Physiological Signals for Emotion and Personality Recognition in Real-World Tasks",
+          "description": "Matthias Jammot, Björn Braun, Paul Streli, Rafael Wampfler, and Christian Holz. In NeurIPS 2025. [project page] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official code for the NeurIPS 2025 paper \"egoEMOTION: Egocentric Vision and Physiological Signals for Emotion and Personality Recognition in Real-World Tasks.\"",
+            "homepage": "https://siplab.org/projects/egoEMOTION",
+            "id": 1077843236,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-01-30T08:45:34Z",
+            "open_issues": 0,
+            "owner": "eth-siplab",
+            "repo": "egoEMOTION",
+            "stars": 30,
+            "topics": [
+              "affective-computing",
+              "computer-vision",
+              "egocentric",
+              "egocentric-vision",
+              "egoppg",
+              "health",
+              "healthcare",
+              "mobile-health",
+              "mobilehealth",
+              "physiological-computing",
+              "physiological-signals",
+              "physiologicalsensing",
+              "remote-sensing"
+            ]
+          },
+          "first_seen": "2026-08-29T01:08:37.430Z"
+        },
+        {
+          "node_type": "item",
           "title": "EgoThinker: Unveiling Egocentric Reasoning with Spatio-Temporal CoT",
           "description": "Baoqi Pei, Yifei Huang, Jilan Xu, Yuping He, Guo Chen, Fei Wu, Yu Qiao, and Jiangmiao Pang. In NeurIPS 2025. [code]",
           "children": [],
@@ -5756,41 +5791,6 @@
             "repo": "EgoExOR",
             "stars": 29,
             "topics": []
-          },
-          "first_seen": "2026-08-29T01:08:37.430Z"
-        },
-        {
-          "node_type": "item",
-          "title": "egoEMOTION: Egocentric Vision and Physiological Signals for Emotion and Personality Recognition in Real-World Tasks",
-          "description": "Matthias Jammot, Björn Braun, Paul Streli, Rafael Wampfler, and Christian Holz. In NeurIPS 2025. [project page] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Official code for the NeurIPS 2025 paper \"egoEMOTION: Egocentric Vision and Physiological Signals for Emotion and Personality Recognition in Real-World Tasks.\"",
-            "homepage": "https://siplab.org/projects/egoEMOTION",
-            "id": 1077843236,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-01-30T08:45:34Z",
-            "open_issues": 0,
-            "owner": "eth-siplab",
-            "repo": "egoEMOTION",
-            "stars": 29,
-            "topics": [
-              "affective-computing",
-              "computer-vision",
-              "egocentric",
-              "egocentric-vision",
-              "egoppg",
-              "health",
-              "healthcare",
-              "mobile-health",
-              "mobilehealth",
-              "physiological-computing",
-              "physiological-signals",
-              "physiologicalsensing",
-              "remote-sensing"
-            ]
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
         },
@@ -5931,7 +5931,7 @@
             "open_issues": 2,
             "owner": "anupampani",
             "repo": "Gaze-VLM",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6211,7 +6211,7 @@
                 "open_issues": 4,
                 "owner": "cvg",
                 "repo": "lamaria",
-                "stars": 165,
+                "stars": 167,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T20:05:20.021Z",
+    "last_updated": "2026-09-03T20:07:00.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
