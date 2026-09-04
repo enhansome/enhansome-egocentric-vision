@@ -1047,10 +1047,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-24T15:04:41Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "Sid2697",
             "repo": "HOPformer",
-            "stars": 36,
+            "stars": 37,
             "topics": [
               "3d",
               "arctic",
@@ -1242,7 +1242,7 @@
             "open_issues": 1,
             "owner": "zc-alexfan",
             "repo": "arctic",
-            "stars": 505,
+            "stars": 506,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -2761,7 +2761,7 @@
             "open_issues": 3,
             "owner": "zju3dv",
             "repo": "EgoAgent",
-            "stars": 53,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3183,7 +3183,7 @@
             "open_issues": 1,
             "owner": "zc-alexfan",
             "repo": "arctic",
-            "stars": 505,
+            "stars": 506,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -4465,10 +4465,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-24T15:04:41Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "Sid2697",
             "repo": "HOPformer",
-            "stars": 36,
+            "stars": 37,
             "topics": [
               "3d",
               "arctic",
@@ -4931,7 +4931,7 @@
             "open_issues": 3,
             "owner": "zju3dv",
             "repo": "EgoAgent",
-            "stars": 53,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6392,10 +6392,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-24T15:04:41Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 36,
+                "stars": 37,
                 "topics": [
                   "3d",
                   "arctic",
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T20:07:00.409Z",
+    "last_updated": "2026-09-04T19:50:25.711Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
@@ -6583,7 +6583,7 @@
       "open_issues": 3,
       "owner": "Sid2697",
       "repo": "awesome-egocentric-vision",
-      "stars": 344,
+      "stars": 345,
       "topics": [
         "activity-recognition",
         "awesome",
