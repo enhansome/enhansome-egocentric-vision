@@ -1046,8 +1046,8 @@
             "id": 1283976546,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-24T15:04:41Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-06T08:34:59Z",
+            "open_issues": 1,
             "owner": "Sid2697",
             "repo": "HOPformer",
             "stars": 37,
@@ -2629,7 +2629,7 @@
             "open_issues": 15,
             "owner": "DAVIAN-Robotics",
             "repo": "EgoX",
-            "stars": 750,
+            "stars": 751,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3141,7 +3141,7 @@
             "open_issues": 15,
             "owner": "DAVIAN-Robotics",
             "repo": "EgoX",
-            "stars": 750,
+            "stars": 751,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4464,8 +4464,8 @@
             "id": 1283976546,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-24T15:04:41Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-06T08:34:59Z",
+            "open_issues": 1,
             "owner": "Sid2697",
             "repo": "HOPformer",
             "stars": 37,
@@ -6391,8 +6391,8 @@
                 "id": 1283976546,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-24T15:04:41Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-06T08:34:59Z",
+                "open_issues": 1,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
                 "stars": 37,
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T19:27:35.907Z",
+    "last_updated": "2026-09-06T19:28:31.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
