@@ -130,7 +130,7 @@
             "open_issues": 3,
             "owner": "Yuhan-Shen",
             "repo": "ProTAS",
-            "stars": 38,
+            "stars": 39,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2116,7 +2116,7 @@
             "open_issues": 5,
             "owner": "google-deepmind",
             "repo": "neptune",
-            "stars": 96,
+            "stars": 97,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3360,7 +3360,7 @@
             "open_issues": 5,
             "owner": "google-deepmind",
             "repo": "neptune",
-            "stars": 96,
+            "stars": 97,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3677,6 +3677,27 @@
         },
         {
           "node_type": "item",
+          "title": "Progress-Aware Online Action Segmentation for Egocentric Procedural Task Videos",
+          "description": "Yuhan Shen and Ehsan Elhamifar. In CVPR 2024. [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Progress-Aware Online Action Segmentation for Egocentric Procedural Task Videos",
+            "homepage": null,
+            "id": 817861678,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2024-09-09T14:23:43Z",
+            "open_issues": 3,
+            "owner": "Yuhan-Shen",
+            "repo": "ProTAS",
+            "stars": 39,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:08:37.430Z"
+        },
+        {
+          "node_type": "item",
           "title": "Error Detection in Egocentric Procedural Task Videos",
           "description": "Shih-Po Lee, Zijia Lu, Zekun Zhang, Minh Hoai, and Ehsan Elhamifar. In CVPR 2024. [project page] [code]",
           "children": [],
@@ -3699,27 +3720,6 @@
               "error-detection",
               "procedural-learning"
             ]
-          },
-          "first_seen": "2026-08-29T01:08:37.430Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Progress-Aware Online Action Segmentation for Egocentric Procedural Task Videos",
-          "description": "Yuhan Shen and Ehsan Elhamifar. In CVPR 2024. [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Progress-Aware Online Action Segmentation for Egocentric Procedural Task Videos",
-            "homepage": null,
-            "id": 817861678,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-09-09T14:23:43Z",
-            "open_issues": 3,
-            "owner": "Yuhan-Shen",
-            "repo": "ProTAS",
-            "stars": 38,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
         },
@@ -6090,7 +6090,7 @@
                 "open_issues": 9,
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 380,
+                "stars": 381,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6169,7 +6169,7 @@
                 "open_issues": 9,
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 380,
+                "stars": 381,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6253,7 +6253,7 @@
                 "open_issues": 5,
                 "owner": "google-deepmind",
                 "repo": "neptune",
-                "stars": 96,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T19:28:31.798Z",
+    "last_updated": "2026-09-07T20:46:35.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
