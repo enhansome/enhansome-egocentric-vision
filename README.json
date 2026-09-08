@@ -1050,7 +1050,7 @@
             "open_issues": 1,
             "owner": "Sid2697",
             "repo": "HOPformer",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "3d",
               "arctic",
@@ -1242,7 +1242,7 @@
             "open_issues": 1,
             "owner": "zc-alexfan",
             "repo": "arctic",
-            "stars": 506,
+            "stars": 507,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -1320,10 +1320,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-10T07:02:42Z",
-            "open_issues": 4,
+            "open_issues": 2,
             "owner": "Tao-11-chen",
             "repo": "ForeHOI",
-            "stars": 97,
+            "stars": 101,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1576,7 +1576,7 @@
             "open_issues": 3,
             "owner": "robert80203",
             "repo": "EgoPER_official",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "action-segmentation",
               "computer-vision",
@@ -2116,7 +2116,7 @@
             "open_issues": 5,
             "owner": "google-deepmind",
             "repo": "neptune",
-            "stars": 97,
+            "stars": 98,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2626,7 +2626,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-07-10T15:48:25Z",
-            "open_issues": 15,
+            "open_issues": 14,
             "owner": "DAVIAN-Robotics",
             "repo": "EgoX",
             "stars": 751,
@@ -3034,7 +3034,7 @@
             "open_issues": 1,
             "owner": "eth-siplab",
             "repo": "egoPPG",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "affective-computing",
               "camera",
@@ -3138,7 +3138,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-07-10T15:48:25Z",
-            "open_issues": 15,
+            "open_issues": 14,
             "owner": "DAVIAN-Robotics",
             "repo": "EgoX",
             "stars": 751,
@@ -3183,7 +3183,7 @@
             "open_issues": 1,
             "owner": "zc-alexfan",
             "repo": "arctic",
-            "stars": 506,
+            "stars": 507,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -3336,10 +3336,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-10T07:02:42Z",
-            "open_issues": 4,
+            "open_issues": 2,
             "owner": "Tao-11-chen",
             "repo": "ForeHOI",
-            "stars": 97,
+            "stars": 101,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3360,7 +3360,7 @@
             "open_issues": 5,
             "owner": "google-deepmind",
             "repo": "neptune",
-            "stars": 97,
+            "stars": 98,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3677,6 +3677,33 @@
         },
         {
           "node_type": "item",
+          "title": "Error Detection in Egocentric Procedural Task Videos",
+          "description": "Shih-Po Lee, Zijia Lu, Zekun Zhang, Minh Hoai, and Ehsan Elhamifar. In CVPR 2024. [project page] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The official implementation of Error Detection in Egocentric Procedural Task Videos",
+            "homepage": null,
+            "id": 708485039,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2025-09-20T18:27:20Z",
+            "open_issues": 3,
+            "owner": "robert80203",
+            "repo": "EgoPER_official",
+            "stars": 39,
+            "topics": [
+              "action-segmentation",
+              "computer-vision",
+              "deep-learning",
+              "error-detection",
+              "procedural-learning"
+            ]
+          },
+          "first_seen": "2026-08-29T01:08:37.430Z"
+        },
+        {
+          "node_type": "item",
           "title": "Progress-Aware Online Action Segmentation for Egocentric Procedural Task Videos",
           "description": "Yuhan Shen and Ehsan Elhamifar. In CVPR 2024. [code]",
           "children": [],
@@ -3693,33 +3720,6 @@
             "repo": "ProTAS",
             "stars": 39,
             "topics": []
-          },
-          "first_seen": "2026-08-29T01:08:37.430Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Error Detection in Egocentric Procedural Task Videos",
-          "description": "Shih-Po Lee, Zijia Lu, Zekun Zhang, Minh Hoai, and Ehsan Elhamifar. In CVPR 2024. [project page] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The official implementation of Error Detection in Egocentric Procedural Task Videos",
-            "homepage": null,
-            "id": 708485039,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2025-09-20T18:27:20Z",
-            "open_issues": 3,
-            "owner": "robert80203",
-            "repo": "EgoPER_official",
-            "stars": 38,
-            "topics": [
-              "action-segmentation",
-              "computer-vision",
-              "deep-learning",
-              "error-detection",
-              "procedural-learning"
-            ]
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
         },
@@ -4468,7 +4468,7 @@
             "open_issues": 1,
             "owner": "Sid2697",
             "repo": "HOPformer",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "3d",
               "arctic",
@@ -5115,7 +5115,7 @@
             "open_issues": 1,
             "owner": "eth-siplab",
             "repo": "egoPPG",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "affective-computing",
               "camera",
@@ -6090,7 +6090,7 @@
                 "open_issues": 9,
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 381,
+                "stars": 383,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6169,7 +6169,7 @@
                 "open_issues": 9,
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 381,
+                "stars": 383,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6253,7 +6253,7 @@
                 "open_issues": 5,
                 "owner": "google-deepmind",
                 "repo": "neptune",
-                "stars": 97,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6274,7 +6274,7 @@
                 "open_issues": 3,
                 "owner": "facebookresearch",
                 "repo": "ego4d-goalstep",
-                "stars": 63,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6329,6 +6329,33 @@
             },
             {
               "node_type": "item",
+              "title": "EgoPER",
+              "description": "28 hours of egocentric procedural cooking videos across 5 tasks with normal and erroneous executions, multiple modalities (audio, depth, hand tracking), frame-wise step labels, and object bounding boxes for error detection. [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The official implementation of Error Detection in Egocentric Procedural Task Videos",
+                "homepage": null,
+                "id": 708485039,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-09-20T18:27:20Z",
+                "open_issues": 3,
+                "owner": "robert80203",
+                "repo": "EgoPER_official",
+                "stars": 39,
+                "topics": [
+                  "action-segmentation",
+                  "computer-vision",
+                  "deep-learning",
+                  "error-detection",
+                  "procedural-learning"
+                ]
+              },
+              "first_seen": "2026-08-29T01:08:37.430Z"
+            },
+            {
+              "node_type": "item",
               "title": "EgoExo-Fitness",
               "description": "Full-body action-understanding dataset of synchronized egocentric and exocentric fitness videos from 40 participants performing 86 types of fitness action sequences, with two-level temporal boundaries, technical-keypoint verification, language comments, and action-quality scores. [paper]",
               "children": [],
@@ -6354,33 +6381,6 @@
             },
             {
               "node_type": "item",
-              "title": "EgoPER",
-              "description": "28 hours of egocentric procedural cooking videos across 5 tasks with normal and erroneous executions, multiple modalities (audio, depth, hand tracking), frame-wise step labels, and object bounding boxes for error detection. [paper] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The official implementation of Error Detection in Egocentric Procedural Task Videos",
-                "homepage": null,
-                "id": 708485039,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-09-20T18:27:20Z",
-                "open_issues": 3,
-                "owner": "robert80203",
-                "repo": "EgoPER_official",
-                "stars": 38,
-                "topics": [
-                  "action-segmentation",
-                  "computer-vision",
-                  "deep-learning",
-                  "error-detection",
-                  "procedural-learning"
-                ]
-              },
-              "first_seen": "2026-08-29T01:08:37.430Z"
-            },
-            {
-              "node_type": "item",
               "title": "EPIC-Contact",
               "description": "About 2,300 egocentric video clips (62,300 annotated frames) of bimanual hand-object interactions across nine everyday kitchen objects, for in-the-wild 3D hand-object pose estimation. [paper] [code]",
               "children": [],
@@ -6395,7 +6395,7 @@
                 "open_issues": 1,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 37,
+                "stars": 38,
                 "topics": [
                   "3d",
                   "arctic",
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T20:46:35.580Z",
+    "last_updated": "2026-09-08T20:14:03.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
@@ -6583,7 +6583,7 @@
       "open_issues": 3,
       "owner": "Sid2697",
       "repo": "awesome-egocentric-vision",
-      "stars": 345,
+      "stars": 346,
       "topics": [
         "activity-recognition",
         "awesome",
