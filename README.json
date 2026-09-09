@@ -692,7 +692,7 @@
             "open_issues": 4,
             "owner": "lmur98",
             "repo": "AFFttention",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -946,6 +946,27 @@
         },
         {
           "node_type": "item",
+          "title": "Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement",
+          "description": "Jian Wang, Zhe Cao, Diogo Luvizon, Lingjie Liu, Kripasindhu Sarkar, Danhang Tang, Thabo Beeler, and Christian Theobalt. In CVPR 2024. [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "implementation of paper: Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement",
+            "homepage": null,
+            "id": 724875614,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-09-15T01:07:54Z",
+            "open_issues": 3,
+            "owner": "jianwang-mpi",
+            "repo": "egowholemocap",
+            "stars": 53,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:08:37.430Z"
+        },
+        {
+          "node_type": "item",
           "title": "EgoHumans: An Egocentric 3D Multi-Human Benchmark",
           "description": "Rawal Khirodkar, Aayush Bansal, Lingni Ma, Richard Newcombe, Minh Vo, and Kris Kitani. In ICCV 2023 (Oral). [code]",
           "children": [],
@@ -968,27 +989,6 @@
               "multiview-learning",
               "structure-from-motion"
             ]
-          },
-          "first_seen": "2026-08-29T01:08:37.430Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement",
-          "description": "Jian Wang, Zhe Cao, Diogo Luvizon, Lingjie Liu, Kripasindhu Sarkar, Danhang Tang, Thabo Beeler, and Christian Theobalt. In CVPR 2024. [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "implementation of paper: Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement",
-            "homepage": null,
-            "id": 724875614,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2025-09-15T01:07:54Z",
-            "open_issues": 3,
-            "owner": "jianwang-mpi",
-            "repo": "egowholemocap",
-            "stars": 52,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
         },
@@ -1050,7 +1050,7 @@
             "open_issues": 1,
             "owner": "Sid2697",
             "repo": "HOPformer",
-            "stars": 38,
+            "stars": 40,
             "topics": [
               "3d",
               "arctic",
@@ -1080,7 +1080,7 @@
             "open_issues": 1,
             "owner": "ut-vision",
             "repo": "S2DHand",
-            "stars": 34,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2009,7 +2009,7 @@
             "open_issues": 12,
             "owner": "EvolvingLMMs-Lab",
             "repo": "EgoLife",
-            "stars": 459,
+            "stars": 460,
             "topics": [
               "egocentric-vision",
               "omnimodal",
@@ -2629,7 +2629,7 @@
             "open_issues": 14,
             "owner": "DAVIAN-Robotics",
             "repo": "EgoX",
-            "stars": 751,
+            "stars": 752,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2698,7 +2698,7 @@
             "open_issues": 3,
             "owner": "JeffWang987",
             "repo": "EgoVid",
-            "stars": 144,
+            "stars": 145,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2788,7 +2788,7 @@
             "open_issues": 4,
             "owner": "cvg",
             "repo": "lamaria",
-            "stars": 167,
+            "stars": 168,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3141,7 +3141,7 @@
             "open_issues": 14,
             "owner": "DAVIAN-Robotics",
             "repo": "EgoX",
-            "stars": 751,
+            "stars": 752,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3222,7 +3222,7 @@
             "open_issues": 12,
             "owner": "EvolvingLMMs-Lab",
             "repo": "EgoLife",
-            "stars": 459,
+            "stars": 460,
             "topics": [
               "egocentric-vision",
               "omnimodal",
@@ -3519,6 +3519,27 @@
         },
         {
           "node_type": "item",
+          "title": "Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement",
+          "description": "Jian Wang, Zhe Cao, Diogo Luvizon, Lingjie Liu, Kripasindhu Sarkar, Danhang Tang, Thabo Beeler, and Christian Theobalt. In CVPR 2024. [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "implementation of paper: Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement",
+            "homepage": null,
+            "id": 724875614,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-09-15T01:07:54Z",
+            "open_issues": 3,
+            "owner": "jianwang-mpi",
+            "repo": "egowholemocap",
+            "stars": 53,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:08:37.430Z"
+        },
+        {
+          "node_type": "item",
           "title": "EgoTextVQA: Towards Egocentric Scene-Text Aware Video Question Answering",
           "description": "Sheng Zhou, Junbin Xiao, Qingyun Li, Yicong Li, Xun Yang, Dan Guo, Meng Wang, Tat-Seng Chua, and Angela Yao. In CVPR 2025. [code]",
           "children": [],
@@ -3541,27 +3562,6 @@
               "scene-text-vqa",
               "videoqa"
             ]
-          },
-          "first_seen": "2026-08-29T01:08:37.430Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement",
-          "description": "Jian Wang, Zhe Cao, Diogo Luvizon, Lingjie Liu, Kripasindhu Sarkar, Danhang Tang, Thabo Beeler, and Christian Theobalt. In CVPR 2024. [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "implementation of paper: Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement",
-            "homepage": null,
-            "id": 724875614,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2025-09-15T01:07:54Z",
-            "open_issues": 3,
-            "owner": "jianwang-mpi",
-            "repo": "egowholemocap",
-            "stars": 52,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
         },
@@ -3823,7 +3823,7 @@
             "open_issues": 1,
             "owner": "ut-vision",
             "repo": "S2DHand",
-            "stars": 34,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4429,6 +4429,36 @@
         },
         {
           "node_type": "item",
+          "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
+          "description": "Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [project page] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Code for HOPformer released in ECCV 2026 Paper \"Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation\"",
+            "homepage": "https://sid2697.github.io/epic-contact/",
+            "id": 1283976546,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-06T08:34:59Z",
+            "open_issues": 1,
+            "owner": "Sid2697",
+            "repo": "HOPformer",
+            "stars": 40,
+            "topics": [
+              "3d",
+              "arctic",
+              "egocentric-videos",
+              "egocentric-vision",
+              "epic-kitchens",
+              "hand-object-interaction",
+              "in-the-wild",
+              "pose-estimation"
+            ]
+          },
+          "first_seen": "2026-08-29T01:08:37.430Z"
+        },
+        {
+          "node_type": "item",
           "title": "EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding",
           "description": "Yuan-Ming Li, Wei-Jin Huang, An-Lan Wang, Ling-An Zeng, Jing-Ke Meng, and Wei-Shi Zheng. In ECCV 2024. [code]",
           "children": [],
@@ -4448,36 +4478,6 @@
               "action-understanding",
               "dataset",
               "egocentric-vision"
-            ]
-          },
-          "first_seen": "2026-08-29T01:08:37.430Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
-          "description": "Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [project page] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Code for HOPformer released in ECCV 2026 Paper \"Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation\"",
-            "homepage": "https://sid2697.github.io/epic-contact/",
-            "id": 1283976546,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-06T08:34:59Z",
-            "open_issues": 1,
-            "owner": "Sid2697",
-            "repo": "HOPformer",
-            "stars": 38,
-            "topics": [
-              "3d",
-              "arctic",
-              "egocentric-videos",
-              "egocentric-vision",
-              "epic-kitchens",
-              "hand-object-interaction",
-              "in-the-wild",
-              "pose-estimation"
             ]
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4671,7 +4671,7 @@
             "open_issues": 4,
             "owner": "lmur98",
             "repo": "AFFttention",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4719,7 +4719,7 @@
             "open_issues": 4,
             "owner": "cvg",
             "repo": "lamaria",
-            "stars": 167,
+            "stars": 168,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5527,6 +5527,27 @@
         },
         {
           "node_type": "item",
+          "title": "EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video Generation",
+          "description": "Xiaofeng Wang, Kang Zhao, Feng Liu, Jiayu Wang, Guosheng Zhao, Xiaoyi Bao, Zheng Zhu, Yingya Zhang, and Xingang Wang. In NeurIPS 2025. [project page] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[Nips 2025] EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video Generation",
+            "homepage": null,
+            "id": 888250766,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2025-07-31T08:57:54Z",
+            "open_issues": 3,
+            "owner": "JeffWang987",
+            "repo": "EgoVid",
+            "stars": 145,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:08:37.430Z"
+        },
+        {
+          "node_type": "item",
           "title": "HourVideo: 1-Hour Video-Language Understanding",
           "description": "Keshigeyan Chandrasegaran, Agrim Gupta, Lea M. Hadzic, Taran Kota, Jimming He, Cristóbal Eyzaguirre, Zane Durante, Manling Li, Jiajun Wu, and Li Fei-Fei. In NeurIPS 2024. [project page] [code]",
           "children": [],
@@ -5562,27 +5583,6 @@
               "video-language-understanding",
               "visual-reasoning"
             ]
-          },
-          "first_seen": "2026-08-29T01:08:37.430Z"
-        },
-        {
-          "node_type": "item",
-          "title": "EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video Generation",
-          "description": "Xiaofeng Wang, Kang Zhao, Feng Liu, Jiayu Wang, Guosheng Zhao, Xiaoyi Bao, Zheng Zhu, Yingya Zhang, and Xingang Wang. In NeurIPS 2025. [project page] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[Nips 2025] EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video Generation",
-            "homepage": null,
-            "id": 888250766,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2025-07-31T08:57:54Z",
-            "open_issues": 3,
-            "owner": "JeffWang987",
-            "repo": "EgoVid",
-            "stars": 144,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
         },
@@ -6065,7 +6065,7 @@
                 "open_issues": 12,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 459,
+                "stars": 460,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6144,7 +6144,7 @@
                 "open_issues": 12,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 459,
+                "stars": 460,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6211,7 +6211,7 @@
                 "open_issues": 4,
                 "owner": "cvg",
                 "repo": "lamaria",
-                "stars": 167,
+                "stars": 168,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6329,6 +6329,36 @@
             },
             {
               "node_type": "item",
+              "title": "EPIC-Contact",
+              "description": "About 2,300 egocentric video clips (62,300 annotated frames) of bimanual hand-object interactions across nine everyday kitchen objects, for in-the-wild 3D hand-object pose estimation. [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code for HOPformer released in ECCV 2026 Paper \"Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation\"",
+                "homepage": "https://sid2697.github.io/epic-contact/",
+                "id": 1283976546,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-06T08:34:59Z",
+                "open_issues": 1,
+                "owner": "Sid2697",
+                "repo": "HOPformer",
+                "stars": 40,
+                "topics": [
+                  "3d",
+                  "arctic",
+                  "egocentric-videos",
+                  "egocentric-vision",
+                  "epic-kitchens",
+                  "hand-object-interaction",
+                  "in-the-wild",
+                  "pose-estimation"
+                ]
+              },
+              "first_seen": "2026-08-29T01:08:37.430Z"
+            },
+            {
+              "node_type": "item",
               "title": "EgoPER",
               "description": "28 hours of egocentric procedural cooking videos across 5 tasks with normal and erroneous executions, multiple modalities (audio, depth, hand tracking), frame-wise step labels, and object bounding boxes for error detection. [paper] [code]",
               "children": [],
@@ -6375,36 +6405,6 @@
                   "action-understanding",
                   "dataset",
                   "egocentric-vision"
-                ]
-              },
-              "first_seen": "2026-08-29T01:08:37.430Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EPIC-Contact",
-              "description": "About 2,300 egocentric video clips (62,300 annotated frames) of bimanual hand-object interactions across nine everyday kitchen objects, for in-the-wild 3D hand-object pose estimation. [paper] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Code for HOPformer released in ECCV 2026 Paper \"Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation\"",
-                "homepage": "https://sid2697.github.io/epic-contact/",
-                "id": 1283976546,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-06T08:34:59Z",
-                "open_issues": 1,
-                "owner": "Sid2697",
-                "repo": "HOPformer",
-                "stars": 38,
-                "topics": [
-                  "3d",
-                  "arctic",
-                  "egocentric-videos",
-                  "egocentric-vision",
-                  "epic-kitchens",
-                  "hand-object-interaction",
-                  "in-the-wild",
-                  "pose-estimation"
                 ]
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T20:14:03.258Z",
+    "last_updated": "2026-09-09T20:00:08.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
@@ -6580,7 +6580,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-07-06T16:41:29Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "Sid2697",
       "repo": "awesome-egocentric-vision",
       "stars": 346,
