@@ -587,7 +587,7 @@
             "open_issues": 1,
             "owner": "hyf015",
             "repo": "egocentric-gaze-prediction",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2761,7 +2761,7 @@
             "open_issues": 3,
             "owner": "zju3dv",
             "repo": "EgoAgent",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2788,7 +2788,7 @@
             "open_issues": 4,
             "owner": "cvg",
             "repo": "lamaria",
-            "stars": 168,
+            "stars": 171,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3072,7 +3072,7 @@
             "open_issues": 0,
             "owner": "mf-zhang",
             "repo": "IMU-Video-MAE",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4376,7 +4376,7 @@
             "open_issues": 1,
             "owner": "hyf015",
             "repo": "egocentric-gaze-prediction",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4650,7 +4650,7 @@
             "open_issues": 0,
             "owner": "mf-zhang",
             "repo": "IMU-Video-MAE",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4719,7 +4719,7 @@
             "open_issues": 4,
             "owner": "cvg",
             "repo": "lamaria",
-            "stars": 168,
+            "stars": 171,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4931,7 +4931,7 @@
             "open_issues": 3,
             "owner": "zju3dv",
             "repo": "EgoAgent",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6090,7 +6090,7 @@
                 "open_issues": 9,
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 383,
+                "stars": 385,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6169,7 +6169,7 @@
                 "open_issues": 9,
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 383,
+                "stars": 385,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6211,7 +6211,7 @@
                 "open_issues": 4,
                 "owner": "cvg",
                 "repo": "lamaria",
-                "stars": 168,
+                "stars": 171,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T20:00:08.931Z",
+    "last_updated": "2026-09-10T20:00:22.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
