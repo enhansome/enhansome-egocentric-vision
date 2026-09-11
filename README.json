@@ -960,7 +960,7 @@
             "open_issues": 3,
             "owner": "jianwang-mpi",
             "repo": "egowholemocap",
-            "stars": 53,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1066,6 +1066,32 @@
         },
         {
           "node_type": "item",
+          "title": "EgoPoseFormer: A Simple Baseline for Stereo Egocentric 3D Human Pose Estimation",
+          "description": "Chenhongyi Yang, Anastasia Tkach, Shreyas Hampali, Linguang Zhang, Elliot J. Crowley, and Cem Keskin. In ECCV 2024. [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[ECCV 2024] EgoPoseFormer: A Simple Baseline for Stereo Egocentric 3D Human Pose Estimation",
+            "homepage": null,
+            "id": 830029754,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-03-06T09:42:41Z",
+            "open_issues": 4,
+            "owner": "ChenhongyiYang",
+            "repo": "egoposeformer",
+            "stars": 33,
+            "topics": [
+              "eccv2024",
+              "egocentric-vision",
+              "human-pose-estimation",
+              "pose-estimation"
+            ]
+          },
+          "first_seen": "2026-08-29T01:08:37.430Z"
+        },
+        {
+          "node_type": "item",
           "title": "Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation",
           "description": "Ruicong Liu, Takehiko Ohkawa, Mingfang Zhang, and Yoichi Sato. In CVPR 2024. [code]",
           "children": [],
@@ -1087,32 +1113,6 @@
         },
         {
           "node_type": "item",
-          "title": "EgoPoseFormer: A Simple Baseline for Stereo Egocentric 3D Human Pose Estimation",
-          "description": "Chenhongyi Yang, Anastasia Tkach, Shreyas Hampali, Linguang Zhang, Elliot J. Crowley, and Cem Keskin. In ECCV 2024. [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[ECCV 2024] EgoPoseFormer: A Simple Baseline for Stereo Egocentric 3D Human Pose Estimation",
-            "homepage": null,
-            "id": 830029754,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-03-06T09:42:41Z",
-            "open_issues": 4,
-            "owner": "ChenhongyiYang",
-            "repo": "egoposeformer",
-            "stars": 32,
-            "topics": [
-              "eccv2024",
-              "egocentric-vision",
-              "human-pose-estimation",
-              "pose-estimation"
-            ]
-          },
-          "first_seen": "2026-08-29T01:08:37.430Z"
-        },
-        {
-          "node_type": "item",
           "title": "3D Human Pose Perception from Egocentric Stereo Videos",
           "description": "Hiroyasu Akada, Jian Wang, Vladislav Golyanik, and Christian Theobalt. In CVPR 2024. [code]",
           "children": [],
@@ -1127,7 +1127,7 @@
             "open_issues": 0,
             "owner": "hiroyasuakada",
             "repo": "3D-Human-Pose-Perception-from-Egocentric-Stereo-Videos",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1242,7 +1242,7 @@
             "open_issues": 1,
             "owner": "zc-alexfan",
             "repo": "arctic",
-            "stars": 507,
+            "stars": 509,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -1281,7 +1281,7 @@
             "open_issues": 3,
             "owner": "snuvclab",
             "repo": "ParaHome",
-            "stars": 244,
+            "stars": 245,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1393,6 +1393,27 @@
         },
         {
           "node_type": "item",
+          "title": "Are Synthetic Data Useful for Egocentric Hand-Object Interaction Detection?",
+          "description": "Rosario Leonardi, Antonino Furnari, Francesco Ragusa, and Giovanni Maria Farinella. In ECCV 2024. [project page] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This repository contains the official implementation, data generation tools, and benchmark datasets for our research on synthetic data for Egocentric Hand-Object Interaction Detection.",
+            "homepage": null,
+            "id": 823529286,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-04-01T14:45:59Z",
+            "open_issues": 1,
+            "owner": "fpv-iplab",
+            "repo": "HOI-Synth",
+            "stars": 17,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:08:37.430Z"
+        },
+        {
+          "node_type": "item",
           "title": "Hand-Object Contact Prediction via Motion-Based Pseudo-Labeling and Guided Progressive Label Correction",
           "description": "Takuma Yagi, Md Tasnimul Hasan, and Yoichi Sato. In BMVC 2021. [project page] [code]",
           "children": [],
@@ -1408,27 +1429,6 @@
             "owner": "takumayagi",
             "repo": "hand_object_contact_prediction",
             "stars": 17,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:08:37.430Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Are Synthetic Data Useful for Egocentric Hand-Object Interaction Detection?",
-          "description": "Rosario Leonardi, Antonino Furnari, Francesco Ragusa, and Giovanni Maria Farinella. In ECCV 2024. [project page] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This repository contains the official implementation, data generation tools, and benchmark datasets for our research on synthetic data for Egocentric Hand-Object Interaction Detection.",
-            "homepage": null,
-            "id": 823529286,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-04-01T14:45:59Z",
-            "open_issues": 1,
-            "owner": "fpv-iplab",
-            "repo": "HOI-Synth",
-            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1476,7 +1476,7 @@
             "open_issues": 5,
             "owner": "showlab",
             "repo": "EgoVLP",
-            "stars": 261,
+            "stars": 262,
             "topics": [
               "egocentric-vision",
               "pretraining",
@@ -2009,7 +2009,7 @@
             "open_issues": 12,
             "owner": "EvolvingLMMs-Lab",
             "repo": "EgoLife",
-            "stars": 460,
+            "stars": 461,
             "topics": [
               "egocentric-vision",
               "omnimodal",
@@ -2095,7 +2095,7 @@
             "open_issues": 5,
             "owner": "egoschema",
             "repo": "EgoSchema",
-            "stars": 118,
+            "stars": 119,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2629,7 +2629,7 @@
             "open_issues": 14,
             "owner": "DAVIAN-Robotics",
             "repo": "EgoX",
-            "stars": 752,
+            "stars": 753,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2785,7 +2785,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-11-10T11:06:16Z",
-            "open_issues": 4,
+            "open_issues": 3,
             "owner": "cvg",
             "repo": "lamaria",
             "stars": 171,
@@ -3141,7 +3141,7 @@
             "open_issues": 14,
             "owner": "DAVIAN-Robotics",
             "repo": "EgoX",
-            "stars": 752,
+            "stars": 753,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3183,7 +3183,7 @@
             "open_issues": 1,
             "owner": "zc-alexfan",
             "repo": "arctic",
-            "stars": 507,
+            "stars": 509,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -3222,7 +3222,7 @@
             "open_issues": 12,
             "owner": "EvolvingLMMs-Lab",
             "repo": "EgoLife",
-            "stars": 460,
+            "stars": 461,
             "topics": [
               "egocentric-vision",
               "omnimodal",
@@ -3274,7 +3274,7 @@
             "open_issues": 3,
             "owner": "snuvclab",
             "repo": "ParaHome",
-            "stars": 244,
+            "stars": 245,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3533,7 +3533,7 @@
             "open_issues": 3,
             "owner": "jianwang-mpi",
             "repo": "egowholemocap",
-            "stars": 53,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3890,7 +3890,7 @@
             "open_issues": 0,
             "owner": "hiroyasuakada",
             "repo": "3D-Human-Pose-Perception-from-Egocentric-Stereo-Videos",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4505,6 +4505,32 @@
         },
         {
           "node_type": "item",
+          "title": "EgoPoseFormer: A Simple Baseline for Stereo Egocentric 3D Human Pose Estimation",
+          "description": "Chenhongyi Yang, Anastasia Tkach, Shreyas Hampali, Linguang Zhang, Elliot J. Crowley, and Cem Keskin. In ECCV 2024. [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[ECCV 2024] EgoPoseFormer: A Simple Baseline for Stereo Egocentric 3D Human Pose Estimation",
+            "homepage": null,
+            "id": 830029754,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-03-06T09:42:41Z",
+            "open_issues": 4,
+            "owner": "ChenhongyiYang",
+            "repo": "egoposeformer",
+            "stars": 33,
+            "topics": [
+              "eccv2024",
+              "egocentric-vision",
+              "human-pose-estimation",
+              "pose-estimation"
+            ]
+          },
+          "first_seen": "2026-08-29T01:08:37.430Z"
+        },
+        {
+          "node_type": "item",
           "title": "ActionVOS: Actions as Prompts for Video Object Segmentation",
           "description": "Liangyang Ouyang, Ruicong Liu, Yifei Huang, Ryosuke Furuta, and Yoichi Sato. In ECCV 2024. [code]",
           "children": [],
@@ -4521,32 +4547,6 @@
             "repo": "ActionVOS",
             "stars": 32,
             "topics": []
-          },
-          "first_seen": "2026-08-29T01:08:37.430Z"
-        },
-        {
-          "node_type": "item",
-          "title": "EgoPoseFormer: A Simple Baseline for Stereo Egocentric 3D Human Pose Estimation",
-          "description": "Chenhongyi Yang, Anastasia Tkach, Shreyas Hampali, Linguang Zhang, Elliot J. Crowley, and Cem Keskin. In ECCV 2024. [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[ECCV 2024] EgoPoseFormer: A Simple Baseline for Stereo Egocentric 3D Human Pose Estimation",
-            "homepage": null,
-            "id": 830029754,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-03-06T09:42:41Z",
-            "open_issues": 4,
-            "owner": "ChenhongyiYang",
-            "repo": "egoposeformer",
-            "stars": 32,
-            "topics": [
-              "eccv2024",
-              "egocentric-vision",
-              "human-pose-estimation",
-              "pose-estimation"
-            ]
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
         },
@@ -4629,7 +4629,7 @@
             "open_issues": 1,
             "owner": "fpv-iplab",
             "repo": "HOI-Synth",
-            "stars": 16,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4716,7 +4716,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-11-10T11:06:16Z",
-            "open_issues": 4,
+            "open_issues": 3,
             "owner": "cvg",
             "repo": "lamaria",
             "stars": 171,
@@ -5490,7 +5490,7 @@
             "open_issues": 5,
             "owner": "showlab",
             "repo": "EgoVLP",
-            "stars": 261,
+            "stars": 262,
             "topics": [
               "egocentric-vision",
               "pretraining",
@@ -5602,7 +5602,7 @@
             "open_issues": 5,
             "owner": "egoschema",
             "repo": "EgoSchema",
-            "stars": 118,
+            "stars": 119,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6065,7 +6065,7 @@
                 "open_issues": 12,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6086,9 +6086,9 @@
                 "id": 1041036182,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2025-08-20T20:41:20Z",
+                "last_commit": "2026-09-11T15:56:23Z",
                 "open_issues": 9,
-                "owner": "apple",
+                "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
                 "stars": 385,
                 "topics": []
@@ -6144,7 +6144,7 @@
                 "open_issues": 12,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6165,9 +6165,9 @@
                 "id": 1041036182,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2025-08-20T20:41:20Z",
+                "last_commit": "2026-09-11T15:56:23Z",
                 "open_issues": 9,
-                "owner": "apple",
+                "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
                 "stars": 385,
                 "topics": []
@@ -6190,7 +6190,7 @@
                 "open_issues": 3,
                 "owner": "snuvclab",
                 "repo": "ParaHome",
-                "stars": 244,
+                "stars": 245,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6208,7 +6208,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-11-10T11:06:16Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "cvg",
                 "repo": "lamaria",
                 "stars": 171,
@@ -6232,7 +6232,7 @@
                 "open_issues": 5,
                 "owner": "egoschema",
                 "repo": "EgoSchema",
-                "stars": 118,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T20:00:22.649Z",
+    "last_updated": "2026-09-11T19:59:58.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
