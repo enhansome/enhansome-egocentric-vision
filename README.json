@@ -939,7 +939,7 @@
             "open_issues": 3,
             "owner": "chaitanya100100",
             "repo": "UniEgoMotion",
-            "stars": 65,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1523,7 +1523,7 @@
             "open_issues": 0,
             "owner": "amathislab",
             "repo": "EPFL-Smart-Kitchen",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "behavior",
               "kitchen",
@@ -2978,7 +2978,7 @@
             "open_issues": 0,
             "owner": "eth-siplab",
             "repo": "egoEMOTION",
-            "stars": 30,
+            "stars": 31,
             "topics": [
               "affective-computing",
               "computer-vision",
@@ -3034,7 +3034,7 @@
             "open_issues": 1,
             "owner": "eth-siplab",
             "repo": "egoPPG",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "affective-computing",
               "camera",
@@ -4910,7 +4910,7 @@
             "open_issues": 3,
             "owner": "chaitanya100100",
             "repo": "UniEgoMotion",
-            "stars": 65,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5115,7 +5115,7 @@
             "open_issues": 1,
             "owner": "eth-siplab",
             "repo": "egoPPG",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "affective-computing",
               "camera",
@@ -5672,6 +5672,32 @@
         },
         {
           "node_type": "item",
+          "title": "EPFL-Smart-Kitchen: An Ego-Exo Multi-Modal Dataset for Challenging Action and Motion Understanding in Video-Language Models",
+          "description": "Andy Bonnetto, Haozhe Qi, Franklin Leong, Matea Tashkovska, Mahdi Rad, Solaiman Shokur, Friedhelm Hummel, Silvestro Micera, Marc Pollefeys, and Alexander Mathis. In NeurIPS 2025. [project page] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "EPFL-Smart-Kitchen-30 dataset is a multi-view action dataset with synchronized exocentric, egocentric, depth, IMUs, eye gaze, body and hand kinematics spanning 29.7 hours of 16 subjects cooking four different recipes.",
+            "homepage": "https://amathislab.github.io/EPFL-Smart-Kitchen/",
+            "id": 992571489,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-05-22T15:20:59Z",
+            "open_issues": 0,
+            "owner": "amathislab",
+            "repo": "EPFL-Smart-Kitchen",
+            "stars": 32,
+            "topics": [
+              "behavior",
+              "kitchen",
+              "pose-estimation",
+              "vlm"
+            ]
+          },
+          "first_seen": "2026-08-29T01:08:37.430Z"
+        },
+        {
+          "node_type": "item",
           "title": "EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views",
           "description": "Yuhang Yang, Wei Zhai, Chengfeng Wang, Chengjun Yu, Yang Cao, and Zheng-Jun Zha. In NeurIPS 2024. [project page] [code]",
           "children": [],
@@ -5693,32 +5719,6 @@
         },
         {
           "node_type": "item",
-          "title": "EPFL-Smart-Kitchen: An Ego-Exo Multi-Modal Dataset for Challenging Action and Motion Understanding in Video-Language Models",
-          "description": "Andy Bonnetto, Haozhe Qi, Franklin Leong, Matea Tashkovska, Mahdi Rad, Solaiman Shokur, Friedhelm Hummel, Silvestro Micera, Marc Pollefeys, and Alexander Mathis. In NeurIPS 2025. [project page] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "EPFL-Smart-Kitchen-30 dataset is a multi-view action dataset with synchronized exocentric, egocentric, depth, IMUs, eye gaze, body and hand kinematics spanning 29.7 hours of 16 subjects cooking four different recipes.",
-            "homepage": "https://amathislab.github.io/EPFL-Smart-Kitchen/",
-            "id": 992571489,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-05-22T15:20:59Z",
-            "open_issues": 0,
-            "owner": "amathislab",
-            "repo": "EPFL-Smart-Kitchen",
-            "stars": 31,
-            "topics": [
-              "behavior",
-              "kitchen",
-              "pose-estimation",
-              "vlm"
-            ]
-          },
-          "first_seen": "2026-08-29T01:08:37.430Z"
-        },
-        {
-          "node_type": "item",
           "title": "egoEMOTION: Egocentric Vision and Physiological Signals for Emotion and Personality Recognition in Real-World Tasks",
           "description": "Matthias Jammot, Björn Braun, Paul Streli, Rafael Wampfler, and Christian Holz. In NeurIPS 2025. [project page] [code]",
           "children": [],
@@ -5733,7 +5733,7 @@
             "open_issues": 0,
             "owner": "eth-siplab",
             "repo": "egoEMOTION",
-            "stars": 30,
+            "stars": 31,
             "topics": [
               "affective-computing",
               "computer-vision",
@@ -6111,7 +6111,7 @@
                 "open_issues": 0,
                 "owner": "amathislab",
                 "repo": "EPFL-Smart-Kitchen",
-                "stars": 31,
+                "stars": 32,
                 "topics": [
                   "behavior",
                   "kitchen",
@@ -6467,7 +6467,7 @@
                 "open_issues": 0,
                 "owner": "amathislab",
                 "repo": "EPFL-Smart-Kitchen",
-                "stars": 31,
+                "stars": 32,
                 "topics": [
                   "behavior",
                   "kitchen",
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:59:58.527Z",
+    "last_updated": "2026-09-12T19:37:26.376Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
@@ -6583,7 +6583,7 @@
       "open_issues": 4,
       "owner": "Sid2697",
       "repo": "awesome-egocentric-vision",
-      "stars": 346,
+      "stars": 347,
       "topics": [
         "activity-recognition",
         "awesome",
