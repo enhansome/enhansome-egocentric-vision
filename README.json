@@ -1050,7 +1050,7 @@
             "open_issues": 1,
             "owner": "Sid2697",
             "repo": "HOPformer",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "3d",
               "arctic",
@@ -2629,7 +2629,7 @@
             "open_issues": 14,
             "owner": "DAVIAN-Robotics",
             "repo": "EgoX",
-            "stars": 753,
+            "stars": 754,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3141,7 +3141,7 @@
             "open_issues": 14,
             "owner": "DAVIAN-Robotics",
             "repo": "EgoX",
-            "stars": 753,
+            "stars": 754,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4408,6 +4408,36 @@
         },
         {
           "node_type": "item",
+          "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
+          "description": "Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [project page] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Code for HOPformer released in ECCV 2026 Paper \"Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation\"",
+            "homepage": "https://sid2697.github.io/epic-contact/",
+            "id": 1283976546,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-06T08:34:59Z",
+            "open_issues": 1,
+            "owner": "Sid2697",
+            "repo": "HOPformer",
+            "stars": 41,
+            "topics": [
+              "3d",
+              "arctic",
+              "egocentric-videos",
+              "egocentric-vision",
+              "epic-kitchens",
+              "hand-object-interaction",
+              "in-the-wild",
+              "pose-estimation"
+            ]
+          },
+          "first_seen": "2026-08-29T01:08:37.430Z"
+        },
+        {
+          "node_type": "item",
           "title": "EgoCVR: An Egocentric Benchmark for Fine-Grained Composed Video Retrieval",
           "description": "Thomas Hummel, Shyamgopal Karthik, Mariana-Iuliana Georgescu, and Zeynep Akata. In ECCV 2024. [code]",
           "children": [],
@@ -4424,36 +4454,6 @@
             "repo": "EgoCVR",
             "stars": 41,
             "topics": []
-          },
-          "first_seen": "2026-08-29T01:08:37.430Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
-          "description": "Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [project page] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Code for HOPformer released in ECCV 2026 Paper \"Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation\"",
-            "homepage": "https://sid2697.github.io/epic-contact/",
-            "id": 1283976546,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-06T08:34:59Z",
-            "open_issues": 1,
-            "owner": "Sid2697",
-            "repo": "HOPformer",
-            "stars": 40,
-            "topics": [
-              "3d",
-              "arctic",
-              "egocentric-videos",
-              "egocentric-vision",
-              "epic-kitchens",
-              "hand-object-interaction",
-              "in-the-wild",
-              "pose-estimation"
-            ]
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
         },
@@ -6343,7 +6343,7 @@
                 "open_issues": 1,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 40,
+                "stars": 41,
                 "topics": [
                   "3d",
                   "arctic",
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T19:37:26.376Z",
+    "last_updated": "2026-09-13T19:45:01.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
@@ -6583,7 +6583,7 @@
       "open_issues": 4,
       "owner": "Sid2697",
       "repo": "awesome-egocentric-vision",
-      "stars": 347,
+      "stars": 348,
       "topics": [
         "activity-recognition",
         "awesome",
