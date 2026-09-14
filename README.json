@@ -1029,7 +1029,7 @@
             "open_issues": 1,
             "owner": "abcamiletto",
             "repo": "frame",
-            "stars": 43,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1050,7 +1050,7 @@
             "open_issues": 1,
             "owner": "Sid2697",
             "repo": "HOPformer",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "3d",
               "arctic",
@@ -1242,7 +1242,7 @@
             "open_issues": 1,
             "owner": "zc-alexfan",
             "repo": "arctic",
-            "stars": 509,
+            "stars": 508,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -2205,7 +2205,7 @@
             "open_issues": 3,
             "owner": "zhousheng97",
             "repo": "EgoTextVQA",
-            "stars": 52,
+            "stars": 53,
             "topics": [
               "egocentric-qa-assistance",
               "mllm-evaluation",
@@ -2629,7 +2629,7 @@
             "open_issues": 14,
             "owner": "DAVIAN-Robotics",
             "repo": "EgoX",
-            "stars": 754,
+            "stars": 755,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3141,7 +3141,7 @@
             "open_issues": 14,
             "owner": "DAVIAN-Robotics",
             "repo": "EgoX",
-            "stars": 754,
+            "stars": 755,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3183,7 +3183,7 @@
             "open_issues": 1,
             "owner": "zc-alexfan",
             "repo": "arctic",
-            "stars": 509,
+            "stars": 508,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -3554,7 +3554,7 @@
             "open_issues": 3,
             "owner": "zhousheng97",
             "repo": "EgoTextVQA",
-            "stars": 52,
+            "stars": 53,
             "topics": [
               "egocentric-qa-assistance",
               "mllm-evaluation",
@@ -3649,7 +3649,7 @@
             "open_issues": 1,
             "owner": "abcamiletto",
             "repo": "frame",
-            "stars": 43,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4422,7 +4422,7 @@
             "open_issues": 1,
             "owner": "Sid2697",
             "repo": "HOPformer",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "3d",
               "arctic",
@@ -6343,7 +6343,7 @@
                 "open_issues": 1,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 41,
+                "stars": 42,
                 "topics": [
                   "3d",
                   "arctic",
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T19:45:01.396Z",
+    "last_updated": "2026-09-14T21:02:55.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
