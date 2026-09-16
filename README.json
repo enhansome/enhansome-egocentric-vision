@@ -939,7 +939,7 @@
             "open_issues": 3,
             "owner": "chaitanya100100",
             "repo": "UniEgoMotion",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1281,7 +1281,7 @@
             "open_issues": 3,
             "owner": "snuvclab",
             "repo": "ParaHome",
-            "stars": 244,
+            "stars": 245,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2413,7 +2413,7 @@
             "open_issues": 2,
             "owner": "Rh-Dang",
             "repo": "ECBench",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2784,7 +2784,7 @@
             "id": 1032393632,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2025-11-10T11:06:16Z",
+            "last_commit": "2026-09-15T21:31:13Z",
             "open_issues": 3,
             "owner": "cvg",
             "repo": "lamaria",
@@ -2932,8 +2932,8 @@
             "id": 825993269,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2025-04-11T14:08:37Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-16T13:51:54Z",
+            "open_issues": 3,
             "owner": "ExplainableML",
             "repo": "EgoCVR",
             "stars": 41,
@@ -3274,7 +3274,7 @@
             "open_issues": 3,
             "owner": "snuvclab",
             "repo": "ParaHome",
-            "stars": 244,
+            "stars": 245,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4016,7 +4016,7 @@
             "open_issues": 2,
             "owner": "Rh-Dang",
             "repo": "ECBench",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4448,8 +4448,8 @@
             "id": 825993269,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2025-04-11T14:08:37Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-16T13:51:54Z",
+            "open_issues": 3,
             "owner": "ExplainableML",
             "repo": "EgoCVR",
             "stars": 41,
@@ -4715,7 +4715,7 @@
             "id": 1032393632,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2025-11-10T11:06:16Z",
+            "last_commit": "2026-09-15T21:31:13Z",
             "open_issues": 3,
             "owner": "cvg",
             "repo": "lamaria",
@@ -4910,7 +4910,7 @@
             "open_issues": 3,
             "owner": "chaitanya100100",
             "repo": "UniEgoMotion",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6190,7 +6190,7 @@
                 "open_issues": 3,
                 "owner": "snuvclab",
                 "repo": "ParaHome",
-                "stars": 244,
+                "stars": 245,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6207,7 +6207,7 @@
                 "id": 1032393632,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2025-11-10T11:06:16Z",
+                "last_commit": "2026-09-15T21:31:13Z",
                 "open_issues": 3,
                 "owner": "cvg",
                 "repo": "lamaria",
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T20:25:30.408Z",
+    "last_updated": "2026-09-16T20:25:40.938Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
@@ -6583,7 +6583,7 @@
       "open_issues": 4,
       "owner": "Sid2697",
       "repo": "awesome-egocentric-vision",
-      "stars": 347,
+      "stars": 348,
       "topics": [
         "activity-recognition",
         "awesome",
