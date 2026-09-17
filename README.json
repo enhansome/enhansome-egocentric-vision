@@ -130,7 +130,7 @@
             "open_issues": 3,
             "owner": "Yuhan-Shen",
             "repo": "ProTAS",
-            "stars": 39,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1323,7 +1323,7 @@
             "open_issues": 2,
             "owner": "Tao-11-chen",
             "repo": "ForeHOI",
-            "stars": 101,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2629,7 +2629,7 @@
             "open_issues": 14,
             "owner": "DAVIAN-Robotics",
             "repo": "EgoX",
-            "stars": 755,
+            "stars": 756,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3141,7 +3141,7 @@
             "open_issues": 14,
             "owner": "DAVIAN-Robotics",
             "repo": "EgoX",
-            "stars": 755,
+            "stars": 756,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3339,7 +3339,7 @@
             "open_issues": 2,
             "owner": "Tao-11-chen",
             "repo": "ForeHOI",
-            "stars": 101,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3656,6 +3656,27 @@
         },
         {
           "node_type": "item",
+          "title": "Progress-Aware Online Action Segmentation for Egocentric Procedural Task Videos",
+          "description": "Yuhan Shen and Ehsan Elhamifar. In CVPR 2024. [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Progress-Aware Online Action Segmentation for Egocentric Procedural Task Videos",
+            "homepage": null,
+            "id": 817861678,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2024-09-09T14:23:43Z",
+            "open_issues": 3,
+            "owner": "Yuhan-Shen",
+            "repo": "ProTAS",
+            "stars": 40,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:08:37.430Z"
+        },
+        {
+          "node_type": "item",
           "title": "Ego-Exo: Transferring Visual Representations From Third-Person to First-Person Videos",
           "description": "Yanghao Li, Tushar Nagarajan, Bo Xiong, Kristen Grauman. In CVPR 2021. [code]",
           "children": [],
@@ -3699,27 +3720,6 @@
               "error-detection",
               "procedural-learning"
             ]
-          },
-          "first_seen": "2026-08-29T01:08:37.430Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Progress-Aware Online Action Segmentation for Egocentric Procedural Task Videos",
-          "description": "Yuhan Shen and Ehsan Elhamifar. In CVPR 2024. [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Progress-Aware Online Action Segmentation for Egocentric Procedural Task Videos",
-            "homepage": null,
-            "id": 817861678,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-09-09T14:23:43Z",
-            "open_issues": 3,
-            "owner": "Yuhan-Shen",
-            "repo": "ProTAS",
-            "stars": 39,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
         },
@@ -6090,7 +6090,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 387,
+                "stars": 388,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6169,7 +6169,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 387,
+                "stars": 388,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T20:25:40.938Z",
+    "last_updated": "2026-09-17T20:32:21.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
