@@ -1747,7 +1747,7 @@
             "open_issues": 4,
             "owner": "OpenGVLab",
             "repo": "EgoExoLearn",
-            "stars": 88,
+            "stars": 89,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2719,7 +2719,7 @@
             "open_issues": 3,
             "owner": "vita-epfl",
             "repo": "GEM",
-            "stars": 114,
+            "stars": 115,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2788,7 +2788,7 @@
             "open_issues": 3,
             "owner": "cvg",
             "repo": "lamaria",
-            "stars": 171,
+            "stars": 172,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3318,7 +3318,7 @@
             "open_issues": 3,
             "owner": "vita-epfl",
             "repo": "GEM",
-            "stars": 114,
+            "stars": 115,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3381,7 +3381,7 @@
             "open_issues": 4,
             "owner": "OpenGVLab",
             "repo": "EgoExoLearn",
-            "stars": 88,
+            "stars": 89,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4719,7 +4719,7 @@
             "open_issues": 3,
             "owner": "cvg",
             "repo": "lamaria",
-            "stars": 171,
+            "stars": 172,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6090,7 +6090,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 388,
+                "stars": 391,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6169,7 +6169,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 388,
+                "stars": 391,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6211,7 +6211,7 @@
                 "open_issues": 3,
                 "owner": "cvg",
                 "repo": "lamaria",
-                "stars": 171,
+                "stars": 172,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T20:32:21.932Z",
+    "last_updated": "2026-09-18T19:56:13.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
