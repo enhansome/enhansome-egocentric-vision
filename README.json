@@ -566,7 +566,7 @@
             "open_issues": 2,
             "owner": "fpv-iplab",
             "repo": "rulstm",
-            "stars": 137,
+            "stars": 136,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1576,7 +1576,7 @@
             "open_issues": 3,
             "owner": "robert80203",
             "repo": "EgoPER_official",
-            "stars": 39,
+            "stars": 40,
             "topics": [
               "action-segmentation",
               "computer-vision",
@@ -2009,7 +2009,7 @@
             "open_issues": 12,
             "owner": "EvolvingLMMs-Lab",
             "repo": "EgoLife",
-            "stars": 461,
+            "stars": 462,
             "topics": [
               "egocentric-vision",
               "omnimodal",
@@ -2434,7 +2434,7 @@
             "open_issues": 8,
             "owner": "iLearn-Lab",
             "repo": "CVPR25-OSGNet",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3222,7 +3222,7 @@
             "open_issues": 12,
             "owner": "EvolvingLMMs-Lab",
             "repo": "EgoLife",
-            "stars": 461,
+            "stars": 462,
             "topics": [
               "egocentric-vision",
               "omnimodal",
@@ -3656,6 +3656,33 @@
         },
         {
           "node_type": "item",
+          "title": "Error Detection in Egocentric Procedural Task Videos",
+          "description": "Shih-Po Lee, Zijia Lu, Zekun Zhang, Minh Hoai, and Ehsan Elhamifar. In CVPR 2024. [project page] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The official implementation of Error Detection in Egocentric Procedural Task Videos",
+            "homepage": null,
+            "id": 708485039,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2025-09-20T18:27:20Z",
+            "open_issues": 3,
+            "owner": "robert80203",
+            "repo": "EgoPER_official",
+            "stars": 40,
+            "topics": [
+              "action-segmentation",
+              "computer-vision",
+              "deep-learning",
+              "error-detection",
+              "procedural-learning"
+            ]
+          },
+          "first_seen": "2026-08-29T01:08:37.430Z"
+        },
+        {
+          "node_type": "item",
           "title": "Progress-Aware Online Action Segmentation for Egocentric Procedural Task Videos",
           "description": "Yuhan Shen and Ehsan Elhamifar. In CVPR 2024. [code]",
           "children": [],
@@ -3693,33 +3720,6 @@
             "repo": "Ego-Exo",
             "stars": 40,
             "topics": []
-          },
-          "first_seen": "2026-08-29T01:08:37.430Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Error Detection in Egocentric Procedural Task Videos",
-          "description": "Shih-Po Lee, Zijia Lu, Zekun Zhang, Minh Hoai, and Ehsan Elhamifar. In CVPR 2024. [project page] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The official implementation of Error Detection in Egocentric Procedural Task Videos",
-            "homepage": null,
-            "id": 708485039,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2025-09-20T18:27:20Z",
-            "open_issues": 3,
-            "owner": "robert80203",
-            "repo": "EgoPER_official",
-            "stars": 39,
-            "topics": [
-              "action-segmentation",
-              "computer-vision",
-              "deep-learning",
-              "error-detection",
-              "procedural-learning"
-            ]
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
         },
@@ -4037,7 +4037,7 @@
             "open_issues": 8,
             "owner": "iLearn-Lab",
             "repo": "CVPR25-OSGNet",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4740,7 +4740,7 @@
             "open_issues": 2,
             "owner": "fpv-iplab",
             "repo": "rulstm",
-            "stars": 137,
+            "stars": 136,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6065,7 +6065,7 @@
                 "open_issues": 12,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 461,
+                "stars": 462,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6144,7 +6144,7 @@
                 "open_issues": 12,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 461,
+                "stars": 462,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6373,7 +6373,7 @@
                 "open_issues": 3,
                 "owner": "robert80203",
                 "repo": "EgoPER_official",
-                "stars": 39,
+                "stars": 40,
                 "topics": [
                   "action-segmentation",
                   "computer-vision",
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:56:13.928Z",
+    "last_updated": "2026-09-19T19:34:30.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
