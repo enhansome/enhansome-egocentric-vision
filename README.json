@@ -1281,7 +1281,7 @@
             "open_issues": 3,
             "owner": "snuvclab",
             "repo": "ParaHome",
-            "stars": 245,
+            "stars": 246,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1393,27 +1393,6 @@
         },
         {
           "node_type": "item",
-          "title": "Are Synthetic Data Useful for Egocentric Hand-Object Interaction Detection?",
-          "description": "Rosario Leonardi, Antonino Furnari, Francesco Ragusa, and Giovanni Maria Farinella. In ECCV 2024. [project page] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This repository contains the official implementation, data generation tools, and benchmark datasets for our research on synthetic data for Egocentric Hand-Object Interaction Detection.",
-            "homepage": null,
-            "id": 823529286,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-04-01T14:45:59Z",
-            "open_issues": 1,
-            "owner": "fpv-iplab",
-            "repo": "HOI-Synth",
-            "stars": 17,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:08:37.430Z"
-        },
-        {
-          "node_type": "item",
           "title": "Hand-Object Contact Prediction via Motion-Based Pseudo-Labeling and Guided Progressive Label Correction",
           "description": "Takuma Yagi, Md Tasnimul Hasan, and Yoichi Sato. In BMVC 2021. [project page] [code]",
           "children": [],
@@ -1428,6 +1407,27 @@
             "open_issues": 0,
             "owner": "takumayagi",
             "repo": "hand_object_contact_prediction",
+            "stars": 18,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:08:37.430Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Are Synthetic Data Useful for Egocentric Hand-Object Interaction Detection?",
+          "description": "Rosario Leonardi, Antonino Furnari, Francesco Ragusa, and Giovanni Maria Farinella. In ECCV 2024. [project page] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This repository contains the official implementation, data generation tools, and benchmark datasets for our research on synthetic data for Egocentric Hand-Object Interaction Detection.",
+            "homepage": null,
+            "id": 823529286,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-04-01T14:45:59Z",
+            "open_issues": 1,
+            "owner": "fpv-iplab",
+            "repo": "HOI-Synth",
             "stars": 17,
             "topics": []
           },
@@ -2009,7 +2009,7 @@
             "open_issues": 12,
             "owner": "EvolvingLMMs-Lab",
             "repo": "EgoLife",
-            "stars": 462,
+            "stars": 463,
             "topics": [
               "egocentric-vision",
               "omnimodal",
@@ -2535,7 +2535,7 @@
             "id": 1099728320,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-04-03T13:12:20Z",
+            "last_commit": "2026-09-20T15:10:45Z",
             "open_issues": 0,
             "owner": "Ryougetsu3606",
             "repo": "MyEgo",
@@ -2836,7 +2836,7 @@
             "open_issues": 10,
             "owner": "google-research-datasets",
             "repo": "sanpo_dataset",
-            "stars": 58,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3222,7 +3222,7 @@
             "open_issues": 12,
             "owner": "EvolvingLMMs-Lab",
             "repo": "EgoLife",
-            "stars": 462,
+            "stars": 463,
             "topics": [
               "egocentric-vision",
               "omnimodal",
@@ -3274,7 +3274,7 @@
             "open_issues": 3,
             "owner": "snuvclab",
             "repo": "ParaHome",
-            "stars": 245,
+            "stars": 246,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4211,7 +4211,7 @@
             "id": 1099728320,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-04-03T13:12:20Z",
+            "last_commit": "2026-09-20T15:10:45Z",
             "open_issues": 0,
             "owner": "Ryougetsu3606",
             "repo": "MyEgo",
@@ -5277,7 +5277,7 @@
             "open_issues": 10,
             "owner": "google-research-datasets",
             "repo": "sanpo_dataset",
-            "stars": 58,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5463,7 +5463,7 @@
             "open_issues": 0,
             "owner": "takumayagi",
             "repo": "hand_object_contact_prediction",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6065,7 +6065,7 @@
                 "open_issues": 12,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 462,
+                "stars": 463,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6144,7 +6144,7 @@
                 "open_issues": 12,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 462,
+                "stars": 463,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6190,7 +6190,7 @@
                 "open_issues": 3,
                 "owner": "snuvclab",
                 "repo": "ParaHome",
-                "stars": 245,
+                "stars": 246,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6552,7 +6552,7 @@
                 "id": 1099728320,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-04-03T13:12:20Z",
+                "last_commit": "2026-09-20T15:10:45Z",
                 "open_issues": 0,
                 "owner": "Ryougetsu3606",
                 "repo": "MyEgo",
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T19:34:30.117Z",
+    "last_updated": "2026-09-20T19:42:14.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
