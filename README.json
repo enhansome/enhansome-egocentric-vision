@@ -1015,6 +1015,36 @@
         },
         {
           "node_type": "item",
+          "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
+          "description": "Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [project page] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Code for HOPformer released in ECCV 2026 Paper \"Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation\"",
+            "homepage": "https://sid2697.github.io/epic-contact/",
+            "id": 1283976546,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-06T08:34:59Z",
+            "open_issues": 1,
+            "owner": "Sid2697",
+            "repo": "HOPformer",
+            "stars": 44,
+            "topics": [
+              "3d",
+              "arctic",
+              "egocentric-videos",
+              "egocentric-vision",
+              "epic-kitchens",
+              "hand-object-interaction",
+              "in-the-wild",
+              "pose-estimation"
+            ]
+          },
+          "first_seen": "2026-08-29T01:08:37.430Z"
+        },
+        {
+          "node_type": "item",
           "title": "FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video",
           "description": "Andrea Boscolo Camiletto, Jian Wang, Eduardo Alvarado, Rishabh Dabral, Thabo Beeler, Marc Habermann, and Christian Theobalt. In CVPR 2025. [project page] [code]",
           "children": [],
@@ -1031,36 +1061,6 @@
             "repo": "frame",
             "stars": 44,
             "topics": []
-          },
-          "first_seen": "2026-08-29T01:08:37.430Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
-          "description": "Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [project page] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Code for HOPformer released in ECCV 2026 Paper \"Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation\"",
-            "homepage": "https://sid2697.github.io/epic-contact/",
-            "id": 1283976546,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-06T08:34:59Z",
-            "open_issues": 1,
-            "owner": "Sid2697",
-            "repo": "HOPformer",
-            "stars": 43,
-            "topics": [
-              "3d",
-              "arctic",
-              "egocentric-videos",
-              "egocentric-vision",
-              "epic-kitchens",
-              "hand-object-interaction",
-              "in-the-wild",
-              "pose-estimation"
-            ]
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
         },
@@ -1281,7 +1281,7 @@
             "open_issues": 3,
             "owner": "snuvclab",
             "repo": "ParaHome",
-            "stars": 246,
+            "stars": 247,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2116,7 +2116,7 @@
             "open_issues": 5,
             "owner": "google-deepmind",
             "repo": "neptune",
-            "stars": 98,
+            "stars": 99,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2345,7 +2345,7 @@
             "open_issues": 5,
             "owner": "InternRobotics",
             "repo": "EgoThinker",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2675,7 +2675,7 @@
             "open_issues": 4,
             "owner": "snap-research",
             "repo": "EgoEdit",
-            "stars": 157,
+            "stars": 158,
             "topics": [
               "video-editing"
             ]
@@ -3295,7 +3295,7 @@
             "open_issues": 3,
             "owner": "snuvclab",
             "repo": "ParaHome",
-            "stars": 246,
+            "stars": 247,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3316,7 +3316,7 @@
             "open_issues": 4,
             "owner": "snap-research",
             "repo": "EgoEdit",
-            "stars": 157,
+            "stars": 158,
             "topics": [
               "video-editing"
             ]
@@ -3381,7 +3381,7 @@
             "open_issues": 5,
             "owner": "google-deepmind",
             "repo": "neptune",
-            "stars": 98,
+            "stars": 99,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4443,7 +4443,7 @@
             "open_issues": 1,
             "owner": "Sid2697",
             "repo": "HOPformer",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "3d",
               "arctic",
@@ -5810,7 +5810,7 @@
             "open_issues": 5,
             "owner": "InternRobotics",
             "repo": "EgoThinker",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6232,7 +6232,7 @@
                 "open_issues": 3,
                 "owner": "snuvclab",
                 "repo": "ParaHome",
-                "stars": 246,
+                "stars": 247,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6295,7 +6295,7 @@
                 "open_issues": 5,
                 "owner": "google-deepmind",
                 "repo": "neptune",
-                "stars": 98,
+                "stars": 99,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6385,7 +6385,7 @@
                 "open_issues": 1,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 43,
+                "stars": 44,
                 "topics": [
                   "3d",
                   "arctic",
@@ -6655,7 +6655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T21:13:33.375Z",
+    "last_updated": "2026-09-22T20:27:41.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
