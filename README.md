@@ -229,7 +229,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * [Deep future gaze: Gaze anticipation on egocentric videos using adversarial networks](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Deep_Future_Gaze_CVPR_2017_paper.pdf) - Mengmi Zhang, Keng Teck Ma, Joo Hwee Lim, Qi Zhao, and Jiashi Feng. In CVPR 2017. [\[code\]](https://github.com/Mengmi/deepfuturegaze_gan) ⭐ 33 | 🐛 0 | 🌐 Lua | 📅 2020-03-12
 
-* [FIction: 4D Future Interaction Prediction from Video](https://arxiv.org/abs/2412.00932) - Kumar Ashutosh, Georgios Pavlakos, and Kristen Grauman. In CVPR 2025. [\[code\]](https://github.com/thechargedneutron/FIction) ⭐ 21 | 🐛 5 | 🌐 Python | 📅 2025-03-19
+* [FIction: 4D Future Interaction Prediction from Video](https://arxiv.org/abs/2412.00932) - Kumar Ashutosh, Georgios Pavlakos, and Kristen Grauman. In CVPR 2025. [\[code\]](https://github.com/thechargedneutron/FIction) ⭐ 22 | 🐛 5 | 🌐 Python | 📅 2025-03-19
 
 * [Uncertainty-aware State Space Transformer for Egocentric 3D Hand Trajectory Forecasting](https://openaccess.thecvf.com/content/ICCV2023/papers/Bao_Uncertainty-aware_State_Space_Transformer_for_Egocentric_3D_Hand_Trajectory_Forecasting_ICCV_2023_paper.pdf) - Wentao Bao, Lele Chen, Libing Zeng, Zhong Li, Yi Xu, Junsong Yuan, and Yu Kong. In ICCV 2023. [\[project page\]](https://web.archive.org/web/20231211050832/https://actionlab-cv.github.io/EgoHandTrajPred/) [\[code\]](https://github.com/oppo-us-research/USST) ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2024-07-26
 
@@ -792,7 +792,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * [EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video Generation](https://arxiv.org/abs/2411.08380) - Xiaofeng Wang, Kang Zhao, Feng Liu, Jiayu Wang, Guosheng Zhao, Xiaoyi Bao, Zheng Zhu, Yingya Zhang, and Xingang Wang. In NeurIPS 2025. [\[project page\]](https://egovid.github.io/) [\[code\]](https://github.com/JeffWang987/EgoVid) ⭐ 145 | 🐛 3 | 🌐 Python | 📅 2025-07-31
 
-* [GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control](https://openaccess.thecvf.com/content/CVPR2025/papers/Hassan_GEM_A_Generalizable_Ego-Vision_Multimodal_World_Model_for_Fine-Grained_Ego-Motion_CVPR_2025_paper.pdf) - Mariam Hassan, Sebastian Stapf, Ahmad Rahimi, et al. In CVPR 2025. [\[project page\]](https://vita-epfl.github.io/GEM.github.io/) [\[code\]](https://github.com/vita-epfl/GEM) ⭐ 115 | 🐛 3 | 🌐 Python | 📅 2025-10-16
+* [GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control](https://openaccess.thecvf.com/content/CVPR2025/papers/Hassan_GEM_A_Generalizable_Ego-Vision_Multimodal_World_Model_for_Fine-Grained_Ego-Motion_CVPR_2025_paper.pdf) - Mariam Hassan, Sebastian Stapf, Ahmad Rahimi, et al. In CVPR 2025. [\[project page\]](https://vita-epfl.github.io/GEM.github.io/) [\[code\]](https://github.com/vita-epfl/GEM) ⭐ 116 | 🐛 3 | 🌐 Python | 📅 2025-10-16
 
 * [Exocentric-to-Egocentric Video Generation](https://openreview.net/forum?id=UHDCbIrCFL) - Jia-Wei Liu, Weijia Mao, Zhongcong Xu, Jussi Keppo, and Mike Zheng Shou. In NeurIPS 2024. [\[code\]](https://github.com/showlab/Exo2Ego-V) ⭐ 62 | 🐛 2 | 🌐 Python | 📅 2025-04-28
 
@@ -984,7 +984,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * [EgoEdit: Dataset, Real-Time Streaming Model, and Benchmark for Egocentric Video Editing](https://arxiv.org/abs/2512.06065) - Runjia Li, Moayed Haji-Ali, Ashkan Mirzaei, Chaoyang Wang, Arpit Sahni, Ivan Skorokhodov, Aliaksandr Siarohin, Tomas Jakab, Junlin Han, Sergey Tulyakov, Philip Torr, and Willi Menapace. In CVPR 2026. [\[project page\]](https://snap-research.github.io/EgoEdit) [\[code\]](https://github.com/snap-research/EgoEdit) ⭐ 158 | 🐛 4 | 🌐 Python | 📅 2026-04-05
 
-* [GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control](https://openaccess.thecvf.com/content/CVPR2025/papers/Hassan_GEM_A_Generalizable_Ego-Vision_Multimodal_World_Model_for_Fine-Grained_Ego-Motion_CVPR_2025_paper.pdf) - Mariam Hassan, Sebastian Stapf, Ahmad Rahimi, et al. In CVPR 2025. [\[project page\]](https://vita-epfl.github.io/GEM.github.io/) [\[code\]](https://github.com/vita-epfl/GEM) ⭐ 115 | 🐛 3 | 🌐 Python | 📅 2025-10-16
+* [GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control](https://openaccess.thecvf.com/content/CVPR2025/papers/Hassan_GEM_A_Generalizable_Ego-Vision_Multimodal_World_Model_for_Fine-Grained_Ego-Motion_CVPR_2025_paper.pdf) - Mariam Hassan, Sebastian Stapf, Ahmad Rahimi, et al. In CVPR 2025. [\[project page\]](https://vita-epfl.github.io/GEM.github.io/) [\[code\]](https://github.com/vita-epfl/GEM) ⭐ 116 | 🐛 3 | 🌐 Python | 📅 2025-10-16
 
 * [ForeHOI: Feed-forward 3D Object Reconstruction from Daily Hand-Object Interaction Videos](https://arxiv.org/abs/2602.06226) - Yuantao Chen, Jiahao Chang, Chongjie Ye, Chaoran Zhang, Zhaojie Fang, Chenghong Li, and Xiaoguang Han. In CVPR 2026. [\[project page\]](https://tao-11-chen.github.io/project_pages/ForeHOI/) [\[code\]](https://github.com/Tao-11-chen/ForeHOI) ⭐ 102 | 🐛 2 | 🌐 Python | 📅 2026-08-10
 
@@ -1042,7 +1042,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * [First Person Action Recognition Using Deep Learned Descriptors](https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S12-15.pdf) - Suriya Singh, Chetan Arora, and C.V. Jawahar. In CVPR 2016. [\[project page\]](http://cvit.iiit.ac.in/research/projects/cvit-projects/first-person-action-recognition) [\[code\]](https://github.com/suriyasingh/EgoConvNet) ⭐ 26 | 🐛 2 | 🌐 C++ | 📅 2024-06-15
 
-* [FIction: 4D Future Interaction Prediction from Video](https://arxiv.org/abs/2412.00932) - Kumar Ashutosh, Georgios Pavlakos, and Kristen Grauman. In CVPR 2025. [\[code\]](https://github.com/thechargedneutron/FIction) ⭐ 21 | 🐛 5 | 🌐 Python | 📅 2025-03-19
+* [FIction: 4D Future Interaction Prediction from Video](https://arxiv.org/abs/2412.00932) - Kumar Ashutosh, Georgios Pavlakos, and Kristen Grauman. In CVPR 2025. [\[code\]](https://github.com/thechargedneutron/FIction) ⭐ 22 | 🐛 5 | 🌐 Python | 📅 2025-03-19
 
 * [Instance Tracking in 3D Scenes from Egocentric Videos](https://arxiv.org/abs/2312.04117) - Yunhan Zhao, Haoyu Ma, Shu Kong, and Charless Fowlkes. In CVPR 2024. [\[code\]](https://github.com/IT3DEgo/IT3DEgo) ⭐ 21 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-06-27
 
@@ -1870,4 +1870,4 @@ This is a work in progress. Contributions welcome! Read the [contribution guidel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._

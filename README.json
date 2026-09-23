@@ -650,7 +650,7 @@
             "open_issues": 5,
             "owner": "thechargedneutron",
             "repo": "FIction",
-            "stars": 21,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2719,7 +2719,7 @@
             "open_issues": 3,
             "owner": "vita-epfl",
             "repo": "GEM",
-            "stars": 115,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3339,7 +3339,7 @@
             "open_issues": 3,
             "owner": "vita-epfl",
             "repo": "GEM",
-            "stars": 115,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3974,7 +3974,7 @@
             "open_issues": 5,
             "owner": "thechargedneutron",
             "repo": "FIction",
-            "stars": 21,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6655,7 +6655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T20:27:41.508Z",
+    "last_updated": "2026-09-23T20:40:03.896Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
