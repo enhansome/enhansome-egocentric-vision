@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "facebookresearch",
             "repo": "LaViLa",
-            "stars": 534,
+            "stars": 535,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1127,7 +1127,7 @@
             "open_issues": 0,
             "owner": "hiroyasuakada",
             "repo": "3D-Human-Pose-Perception-from-Egocentric-Stereo-Videos",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2675,7 +2675,7 @@
             "open_issues": 4,
             "owner": "snap-research",
             "repo": "EgoEdit",
-            "stars": 158,
+            "stars": 159,
             "topics": [
               "video-editing"
             ]
@@ -3183,7 +3183,7 @@
             "open_issues": 19,
             "owner": "facebookresearch",
             "repo": "LaViLa",
-            "stars": 534,
+            "stars": 535,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3316,7 +3316,7 @@
             "open_issues": 4,
             "owner": "snap-research",
             "repo": "EgoEdit",
-            "stars": 158,
+            "stars": 159,
             "topics": [
               "video-editing"
             ]
@@ -3872,6 +3872,27 @@
         },
         {
           "node_type": "item",
+          "title": "3D Human Pose Perception from Egocentric Stereo Videos",
+          "description": "Hiroyasu Akada, Jian Wang, Vladislav Golyanik, and Christian Theobalt. In CVPR 2024. [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The official code of our CVPR 2024 paper, \"3D Human Pose Perception from Egocentric Stereo Videos\".",
+            "homepage": null,
+            "id": 747296679,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2025-12-12T12:44:35Z",
+            "open_issues": 0,
+            "owner": "hiroyasuakada",
+            "repo": "3D-Human-Pose-Perception-from-Egocentric-Stereo-Videos",
+            "stars": 31,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:08:37.430Z"
+        },
+        {
+          "node_type": "item",
           "title": "Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos",
           "description": "Shoubin Yu, Lei Shu, Antoine Yang, Yao Fu, Srinivas Sunkara, Maria Wang, Jindong Chen, Mohit Bansal, and Boqing Gong. In CVPR 2026. [project page] [code]",
           "children": [],
@@ -3892,27 +3913,6 @@
               "videounderstanding",
               "webagent"
             ]
-          },
-          "first_seen": "2026-08-29T01:08:37.430Z"
-        },
-        {
-          "node_type": "item",
-          "title": "3D Human Pose Perception from Egocentric Stereo Videos",
-          "description": "Hiroyasu Akada, Jian Wang, Vladislav Golyanik, and Christian Theobalt. In CVPR 2024. [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The official code of our CVPR 2024 paper, \"3D Human Pose Perception from Egocentric Stereo Videos\".",
-            "homepage": null,
-            "id": 747296679,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2025-12-12T12:44:35Z",
-            "open_issues": 0,
-            "owner": "hiroyasuakada",
-            "repo": "3D-Human-Pose-Perception-from-Egocentric-Stereo-Videos",
-            "stars": 30,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
         },
@@ -6655,7 +6655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:45:32.433Z",
+    "last_updated": "2026-09-25T20:43:53.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
