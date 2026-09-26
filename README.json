@@ -2629,7 +2629,7 @@
             "open_issues": 14,
             "owner": "DAVIAN-Robotics",
             "repo": "EgoX",
-            "stars": 757,
+            "stars": 758,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3162,7 +3162,7 @@
             "open_issues": 14,
             "owner": "DAVIAN-Robotics",
             "repo": "EgoX",
-            "stars": 757,
+            "stars": 758,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6655,7 +6655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T20:43:53.387Z",
+    "last_updated": "2026-09-26T20:07:17.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
