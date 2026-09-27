@@ -1242,7 +1242,7 @@
             "open_issues": 1,
             "owner": "zc-alexfan",
             "repo": "arctic",
-            "stars": 509,
+            "stars": 510,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -1523,7 +1523,7 @@
             "open_issues": 0,
             "owner": "amathislab",
             "repo": "EPFL-Smart-Kitchen",
-            "stars": 32,
+            "stars": 33,
             "topics": [
               "behavior",
               "kitchen",
@@ -1877,7 +1877,7 @@
             "open_issues": 0,
             "owner": "Maria-SanVil",
             "repo": "O-MaMa",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2158,7 +2158,7 @@
             "open_issues": 0,
             "owner": "AdaCheng",
             "repo": "EgoThink",
-            "stars": 67,
+            "stars": 68,
             "topics": [
               "egocentric-vision",
               "mllm-evaluation"
@@ -3204,7 +3204,7 @@
             "open_issues": 1,
             "owner": "zc-alexfan",
             "repo": "arctic",
-            "stars": 509,
+            "stars": 510,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -3430,6 +3430,30 @@
         },
         {
           "node_type": "item",
+          "title": "EgoThink: Evaluating First-Person Perspective Thinking Capability of Vision-Language Models",
+          "description": "Sijie Cheng, Zhicheng Guo, Jingwen Wu, Kechen Fang, Peng Li, Huaping Liu, and Yang Liu. In CVPR 2024. [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[CVPR'24 Highlight] The official code and data for paper \"EgoThink: Evaluating First-Person Perspective Thinking Capability of Vision-Language Models\"",
+            "homepage": "https://adacheng.github.io/EgoThink/",
+            "id": 727759812,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-03-25T03:06:25Z",
+            "open_issues": 0,
+            "owner": "AdaCheng",
+            "repo": "EgoThink",
+            "stars": 68,
+            "topics": [
+              "egocentric-vision",
+              "mllm-evaluation"
+            ]
+          },
+          "first_seen": "2026-08-29T01:08:37.430Z"
+        },
+        {
+          "node_type": "item",
           "title": "Multi-Modal Domain Adaptation for Fine-Grained Action Recognition",
           "description": "Jonathan Munro and Dima Damen. In CVPR 2020. [project page] [code]",
           "children": [],
@@ -3446,30 +3470,6 @@
             "repo": "MM-SADA-code",
             "stars": 68,
             "topics": []
-          },
-          "first_seen": "2026-08-29T01:08:37.430Z"
-        },
-        {
-          "node_type": "item",
-          "title": "EgoThink: Evaluating First-Person Perspective Thinking Capability of Vision-Language Models",
-          "description": "Sijie Cheng, Zhicheng Guo, Jingwen Wu, Kechen Fang, Peng Li, Huaping Liu, and Yang Liu. In CVPR 2024. [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[CVPR'24 Highlight] The official code and data for paper \"EgoThink: Evaluating First-Person Perspective Thinking Capability of Vision-Language Models\"",
-            "homepage": "https://adacheng.github.io/EgoThink/",
-            "id": 727759812,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2025-03-25T03:06:25Z",
-            "open_issues": 0,
-            "owner": "AdaCheng",
-            "repo": "EgoThink",
-            "stars": 67,
-            "topics": [
-              "egocentric-vision",
-              "mllm-evaluation"
-            ]
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
         },
@@ -5250,7 +5250,7 @@
             "open_issues": 0,
             "owner": "Maria-SanVil",
             "repo": "O-MaMa",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5728,7 +5728,7 @@
             "open_issues": 0,
             "owner": "amathislab",
             "repo": "EPFL-Smart-Kitchen",
-            "stars": 32,
+            "stars": 33,
             "topics": [
               "behavior",
               "kitchen",
@@ -6153,7 +6153,7 @@
                 "open_issues": 0,
                 "owner": "amathislab",
                 "repo": "EPFL-Smart-Kitchen",
-                "stars": 32,
+                "stars": 33,
                 "topics": [
                   "behavior",
                   "kitchen",
@@ -6474,6 +6474,32 @@
             },
             {
               "node_type": "item",
+              "title": "EPFL-Smart-Kitchen-30",
+              "description": "29.7 hours of 16 subjects cooking four recipes with synchronized exocentric (9 RGB-D cameras) and egocentric (HoloLens 2) video, depth, IMUs, eye gaze, and body/hand kinematics, densely annotated for four action and motion understanding benchmarks. [paper]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "EPFL-Smart-Kitchen-30 dataset is a multi-view action dataset with synchronized exocentric, egocentric, depth, IMUs, eye gaze, body and hand kinematics spanning 29.7 hours of 16 subjects cooking four different recipes.",
+                "homepage": "https://amathislab.github.io/EPFL-Smart-Kitchen/",
+                "id": 992571489,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-05-22T15:20:59Z",
+                "open_issues": 0,
+                "owner": "amathislab",
+                "repo": "EPFL-Smart-Kitchen",
+                "stars": 33,
+                "topics": [
+                  "behavior",
+                  "kitchen",
+                  "pose-estimation",
+                  "vlm"
+                ]
+              },
+              "first_seen": "2026-08-29T01:08:37.430Z"
+            },
+            {
+              "node_type": "item",
               "title": "Object Search Dataset",
               "description": "57 sequences of 55 subjects on search and retrieval tasks.",
               "children": [],
@@ -6490,32 +6516,6 @@
                 "repo": "deepfuturegaze_gan",
                 "stars": 33,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T01:08:37.430Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EPFL-Smart-Kitchen-30",
-              "description": "29.7 hours of 16 subjects cooking four recipes with synchronized exocentric (9 RGB-D cameras) and egocentric (HoloLens 2) video, depth, IMUs, eye gaze, and body/hand kinematics, densely annotated for four action and motion understanding benchmarks. [paper]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "EPFL-Smart-Kitchen-30 dataset is a multi-view action dataset with synchronized exocentric, egocentric, depth, IMUs, eye gaze, body and hand kinematics spanning 29.7 hours of 16 subjects cooking four different recipes.",
-                "homepage": "https://amathislab.github.io/EPFL-Smart-Kitchen/",
-                "id": 992571489,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-05-22T15:20:59Z",
-                "open_issues": 0,
-                "owner": "amathislab",
-                "repo": "EPFL-Smart-Kitchen",
-                "stars": 32,
-                "topics": [
-                  "behavior",
-                  "kitchen",
-                  "pose-estimation",
-                  "vlm"
-                ]
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
             },
@@ -6655,7 +6655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T20:07:17.723Z",
+    "last_updated": "2026-09-27T20:21:55.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
