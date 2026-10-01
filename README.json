@@ -1793,7 +1793,7 @@
             "open_issues": 0,
             "owner": "ardamamur",
             "repo": "EgoExOR",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2009,7 +2009,7 @@
             "open_issues": 12,
             "owner": "EvolvingLMMs-Lab",
             "repo": "EgoLife",
-            "stars": 465,
+            "stars": 466,
             "topics": [
               "egocentric-vision",
               "omnimodal",
@@ -2074,7 +2074,7 @@
             "open_issues": 9,
             "owner": "OpenGVLab",
             "repo": "EgoVideo",
-            "stars": 136,
+            "stars": 137,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2257,7 +2257,7 @@
             "open_issues": 1,
             "owner": "InternRobotics",
             "repo": "EgoHOD",
-            "stars": 38,
+            "stars": 39,
             "topics": []
           },
           "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3243,7 +3243,7 @@
             "open_issues": 12,
             "owner": "EvolvingLMMs-Lab",
             "repo": "EgoLife",
-            "stars": 465,
+            "stars": 466,
             "topics": [
               "egocentric-vision",
               "omnimodal",
@@ -5796,27 +5796,6 @@
         },
         {
           "node_type": "item",
-          "title": "EgoThinker: Unveiling Egocentric Reasoning with Spatio-Temporal CoT",
-          "description": "Baoqi Pei, Yifei Huang, Jilan Xu, Yuping He, Guo Chen, Fei Wu, Yu Qiao, and Jiangmiao Pang. In NeurIPS 2025. [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Official implementation of EgoThinker at NIPS 2025",
-            "homepage": null,
-            "id": 1080975816,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2025-11-25T08:56:39Z",
-            "open_issues": 5,
-            "owner": "InternRobotics",
-            "repo": "EgoThinker",
-            "stars": 30,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:08:37.430Z"
-        },
-        {
-          "node_type": "item",
           "title": "EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding",
           "description": "Ege Özsoy, Arda Mamur, Felix Tristram, Chantal Pellegrini, Magdalena Wysocki, Benjamin Busam, and Nassir Navab. In NeurIPS 2025. [code]",
           "children": [],
@@ -5831,6 +5810,27 @@
             "open_issues": 0,
             "owner": "ardamamur",
             "repo": "EgoExOR",
+            "stars": 31,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:08:37.430Z"
+        },
+        {
+          "node_type": "item",
+          "title": "EgoThinker: Unveiling Egocentric Reasoning with Spatio-Temporal CoT",
+          "description": "Baoqi Pei, Yifei Huang, Jilan Xu, Yuping He, Guo Chen, Fei Wu, Yu Qiao, and Jiangmiao Pang. In NeurIPS 2025. [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official implementation of EgoThinker at NIPS 2025",
+            "homepage": null,
+            "id": 1080975816,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2025-11-25T08:56:39Z",
+            "open_issues": 5,
+            "owner": "InternRobotics",
+            "repo": "EgoThinker",
             "stars": 30,
             "topics": []
           },
@@ -6107,7 +6107,7 @@
                 "open_issues": 12,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 465,
+                "stars": 466,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6186,7 +6186,7 @@
                 "open_issues": 12,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 465,
+                "stars": 466,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6535,7 +6535,7 @@
                 "open_issues": 0,
                 "owner": "ardamamur",
                 "repo": "EgoExOR",
-                "stars": 30,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6655,7 +6655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T21:31:40.490Z",
+    "last_updated": "2026-10-01T21:59:12.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
