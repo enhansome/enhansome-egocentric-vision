@@ -1242,7 +1242,7 @@
             "open_issues": 1,
             "owner": "zc-alexfan",
             "repo": "arctic",
-            "stars": 511,
+            "stars": 512,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -2006,7 +2006,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2025-03-19T01:42:16Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "EvolvingLMMs-Lab",
             "repo": "EgoLife",
             "stars": 466,
@@ -2232,7 +2232,7 @@
             "open_issues": 0,
             "owner": "gabrielegoletto",
             "repo": "AMEGO",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "eccv2024",
               "egocentric-vision",
@@ -3204,7 +3204,7 @@
             "open_issues": 1,
             "owner": "zc-alexfan",
             "repo": "arctic",
-            "stars": 511,
+            "stars": 512,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -3240,7 +3240,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2025-03-19T01:42:16Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "EvolvingLMMs-Lab",
             "repo": "EgoLife",
             "stars": 466,
@@ -4418,7 +4418,7 @@
             "open_issues": 0,
             "owner": "gabrielegoletto",
             "repo": "AMEGO",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "eccv2024",
               "egocentric-vision",
@@ -6104,7 +6104,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-03-19T01:42:16Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
                 "stars": 466,
@@ -6183,7 +6183,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-03-19T01:42:16Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
                 "stars": 466,
@@ -6655,7 +6655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T21:59:12.143Z",
+    "last_updated": "2026-10-02T21:26:18.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
