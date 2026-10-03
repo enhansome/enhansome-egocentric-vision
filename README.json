@@ -2085,7 +2085,7 @@
                     "open_issues": 13,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "EgoLife",
-                    "stars": 466,
+                    "stars": 467,
                     "topics": [
                       "egocentric-vision",
                       "omnimodal",
@@ -3359,7 +3359,7 @@
                     "open_issues": 13,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "EgoLife",
-                    "stars": 466,
+                    "stars": 467,
                     "topics": [
                       "egocentric-vision",
                       "omnimodal",
@@ -6273,7 +6273,7 @@
                 "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 466,
+                "stars": 467,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6352,7 +6352,7 @@
                 "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 466,
+                "stars": 467,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6821,7 +6821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:41:28.026Z",
+    "last_updated": "2026-10-03T20:10:35.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
