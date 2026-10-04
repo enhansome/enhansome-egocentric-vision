@@ -996,7 +996,7 @@
                     "open_issues": 3,
                     "owner": "jianwang-mpi",
                     "repo": "egowholemocap",
-                    "stars": 54,
+                    "stars": 55,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1017,7 +1017,7 @@
                     "open_issues": 4,
                     "owner": "rawalkhirodkar",
                     "repo": "egohumans",
-                    "stars": 52,
+                    "stars": 53,
                     "topics": [
                       "egocentric-vision",
                       "human-pose-estimation",
@@ -2713,7 +2713,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 758,
+                    "stars": 760,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3278,7 +3278,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 758,
+                    "stars": 760,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3635,27 +3635,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "TIM: A Time Interval Machine for Audio-Visual Action Recognition",
-                  "description": "Jacob Chalk, Jaesung Huh, Evangelos Kazakos, Andrew Zisserman, and Dima Damen. In CVPR 2024. [project page] [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Codebase for the paper: \"TIM: A Time Interval Machine for Audio-Visual Action Recognition\"",
-                    "homepage": null,
-                    "id": 777712468,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2024-11-07T03:17:12Z",
-                    "open_issues": 0,
-                    "owner": "JacobChalk",
-                    "repo": "TIM",
-                    "stars": 54,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:08:37.430Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement",
                   "description": "Jian Wang, Zhe Cao, Diogo Luvizon, Lingjie Liu, Kripasindhu Sarkar, Danhang Tang, Thabo Beeler, and Christian Theobalt. In CVPR 2024. [code]",
                   "children": [],
@@ -3670,6 +3649,27 @@
                     "open_issues": 3,
                     "owner": "jianwang-mpi",
                     "repo": "egowholemocap",
+                    "stars": 55,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:08:37.430Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "TIM: A Time Interval Machine for Audio-Visual Action Recognition",
+                  "description": "Jacob Chalk, Jaesung Huh, Evangelos Kazakos, Andrew Zisserman, and Dima Damen. In CVPR 2024. [project page] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Codebase for the paper: \"TIM: A Time Interval Machine for Audio-Visual Action Recognition\"",
+                    "homepage": null,
+                    "id": 777712468,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-11-07T03:17:12Z",
+                    "open_issues": 0,
+                    "owner": "JacobChalk",
+                    "repo": "TIM",
                     "stars": 54,
                     "topics": []
                   },
@@ -5126,7 +5126,7 @@
                     "open_issues": 4,
                     "owner": "rawalkhirodkar",
                     "repo": "egohumans",
-                    "stars": 52,
+                    "stars": 53,
                     "topics": [
                       "egocentric-vision",
                       "human-pose-estimation",
@@ -6524,7 +6524,7 @@
                 "open_issues": 4,
                 "owner": "rawalkhirodkar",
                 "repo": "egohumans",
-                "stars": 52,
+                "stars": 53,
                 "topics": [
                   "egocentric-vision",
                   "human-pose-estimation",
@@ -6821,7 +6821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T20:10:35.413Z",
+    "last_updated": "2026-10-04T20:23:40.835Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
