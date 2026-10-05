@@ -158,7 +158,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 <details>
 <summary>Show papers (28)</summary>
 
-* [First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations](https://openaccess.thecvf.com/content_cvpr_2018/papers/Garcia-Hernando_First-Person_Hand_Action_CVPR_2018_paper.pdf) - Guillermo Garcia-Hernando, Shanxin Yuan, Seungryul Baek, and Tae-Kyun Kim. In CVPR 2018. [\[project page\]](https://guiggh.github.io/publications/first-person-hands/) [\[code\]](https://github.com/guiggh/hand_pose_action) ⭐ 272 | 🐛 2 | 🌐 Python | 📅 2019-02-20
+* [First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations](https://openaccess.thecvf.com/content_cvpr_2018/papers/Garcia-Hernando_First-Person_Hand_Action_CVPR_2018_paper.pdf) - Guillermo Garcia-Hernando, Shanxin Yuan, Seungryul Baek, and Tae-Kyun Kim. In CVPR 2018. [\[project page\]](https://guiggh.github.io/publications/first-person-hands/) [\[code\]](https://github.com/guiggh/hand_pose_action) ⭐ 273 | 🐛 2 | 🌐 Python | 📅 2019-02-20
 
 * [EgoObjects: A Large-Scale Egocentric Dataset for Fine-Grained Object Understanding](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_EgoObjects_A_Large-Scale_Egocentric_Dataset_for_Fine-Grained_Object_Understanding_ICCV_2023_paper.pdf) - Chenchen Zhu, Fanyi Xiao, Andres Alvarado, Yasmine Babaei, Jiabo Hu, Hichem El-Mohri, Sean Culatana, Roshan Sumbaly, and Zhicheng Yan. In ICCV 2023. [\[project page\]](https://research.facebook.com/blog/2023/3/egoobjects-large-scale-egocentric-dataset-for-category-and-instance-level-object-understanding/) [\[code\]](https://github.com/facebookresearch/EgoObjects) ⚠️ Archived
 
@@ -978,7 +978,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * [EgoLife: Towards Egocentric Life Assistant](https://arxiv.org/abs/2503.03803) - Jingkang Yang, Shuai Liu, Hongming Guo, et al. In CVPR 2025. [\[code\]](https://github.com/EvolvingLMMs-Lab/EgoLife) ⭐ 467 | 🐛 13 | 🌐 Python | 📅 2025-03-19
 
-* [First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations](https://openaccess.thecvf.com/content_cvpr_2018/papers/Garcia-Hernando_First-Person_Hand_Action_CVPR_2018_paper.pdf) - Guillermo Garcia-Hernando, Shanxin Yuan, Seungryul Baek, and Tae-Kyun Kim. In CVPR 2018. [\[project page\]](https://guiggh.github.io/publications/first-person-hands/) [\[code\]](https://github.com/guiggh/hand_pose_action) ⭐ 272 | 🐛 2 | 🌐 Python | 📅 2019-02-20
+* [First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations](https://openaccess.thecvf.com/content_cvpr_2018/papers/Garcia-Hernando_First-Person_Hand_Action_CVPR_2018_paper.pdf) - Guillermo Garcia-Hernando, Shanxin Yuan, Seungryul Baek, and Tae-Kyun Kim. In CVPR 2018. [\[project page\]](https://guiggh.github.io/publications/first-person-hands/) [\[code\]](https://github.com/guiggh/hand_pose_action) ⭐ 273 | 🐛 2 | 🌐 Python | 📅 2019-02-20
 
 * [ParaHome: Parameterizing Everyday Home Activities Towards 3D Generative Modeling of Human-Object Interactions](https://arxiv.org/abs/2401.10232) - Jeonghwan Kim, Jisoo Kim, Jeonghyeon Na, and Hanbyul Joo. In CVPR 2025. [\[code\]](https://github.com/canoneod/ParaHome) ⭐ 249 | 🐛 3 | 🌐 Python | 📅 2025-12-24
 
@@ -1870,4 +1870,4 @@ This is a work in progress. Contributions welcome! Read the [contribution guidel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
