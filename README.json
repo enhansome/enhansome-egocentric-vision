@@ -475,7 +475,7 @@
                     "open_issues": 2,
                     "owner": "IT3DEgo",
                     "repo": "IT3DEgo",
-                    "stars": 21,
+                    "stars": 20,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -996,7 +996,7 @@
                     "open_issues": 3,
                     "owner": "jianwang-mpi",
                     "repo": "egowholemocap",
-                    "stars": 55,
+                    "stars": 56,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1346,7 +1346,7 @@
                     "open_issues": 13,
                     "owner": "owenzlz",
                     "repo": "EgoHOS",
-                    "stars": 152,
+                    "stars": 151,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1528,7 +1528,7 @@
                     "open_issues": 5,
                     "owner": "showlab",
                     "repo": "EgoVLP",
-                    "stars": 262,
+                    "stars": 263,
                     "topics": [
                       "egocentric-vision",
                       "pretraining",
@@ -1663,7 +1663,7 @@
                     "open_issues": 6,
                     "owner": "Sid2697",
                     "repo": "EgoProceL-egocentric-procedure-learning",
-                    "stars": 35,
+                    "stars": 36,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3649,7 +3649,7 @@
                     "open_issues": 3,
                     "owner": "jianwang-mpi",
                     "repo": "egowholemocap",
-                    "stars": 55,
+                    "stars": 56,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4111,7 +4111,7 @@
                     "open_issues": 2,
                     "owner": "IT3DEgo",
                     "repo": "IT3DEgo",
-                    "stars": 21,
+                    "stars": 20,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4450,7 +4450,7 @@
                     "open_issues": 13,
                     "owner": "owenzlz",
                     "repo": "EgoHOS",
-                    "stars": 152,
+                    "stars": 151,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4643,7 +4643,7 @@
                     "open_issues": 6,
                     "owner": "Sid2697",
                     "repo": "EgoProceL-egocentric-procedure-learning",
-                    "stars": 35,
+                    "stars": 36,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5688,7 +5688,7 @@
                     "open_issues": 5,
                     "owner": "showlab",
                     "repo": "EgoVLP",
-                    "stars": 262,
+                    "stars": 263,
                     "topics": [
                       "egocentric-vision",
                       "pretraining",
@@ -6722,7 +6722,7 @@
                 "open_issues": 2,
                 "owner": "LaVi-Lab",
                 "repo": "EgoMask",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6821,7 +6821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T23:20:57.717Z",
+    "last_updated": "2026-10-06T10:15:58.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
