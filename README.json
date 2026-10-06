@@ -1061,11 +1061,11 @@
                     "id": 1283976546,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-06T08:34:59Z",
+                    "last_commit": "2026-10-06T11:52:08Z",
                     "open_issues": 1,
                     "owner": "Sid2697",
                     "repo": "HOPformer",
-                    "stars": 45,
+                    "stars": 46,
                     "topics": [
                       "3d",
                       "arctic",
@@ -4563,11 +4563,11 @@
                     "id": 1283976546,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-06T08:34:59Z",
+                    "last_commit": "2026-10-06T11:52:08Z",
                     "open_issues": 1,
                     "owner": "Sid2697",
                     "repo": "HOPformer",
-                    "stars": 45,
+                    "stars": 46,
                     "topics": [
                       "3d",
                       "arctic",
@@ -6547,11 +6547,11 @@
                 "id": 1283976546,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-06T08:34:59Z",
+                "last_commit": "2026-10-06T11:52:08Z",
                 "open_issues": 1,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 45,
+                "stars": 46,
                 "topics": [
                   "3d",
                   "arctic",
@@ -6821,7 +6821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:15:58.332Z",
+    "last_updated": "2026-10-06T21:52:42.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
