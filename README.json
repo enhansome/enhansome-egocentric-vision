@@ -1163,7 +1163,7 @@
                     "open_issues": 0,
                     "owner": "hiroyasuakada",
                     "repo": "3D-Human-Pose-Perception-from-Egocentric-Stereo-Videos",
-                    "stars": 31,
+                    "stars": 32,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1632,7 +1632,7 @@
                     "id": 708485039,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2025-09-20T18:27:20Z",
+                    "last_commit": "2026-10-07T13:15:01Z",
                     "open_issues": 3,
                     "owner": "robert80203",
                     "repo": "EgoPER_official",
@@ -2803,7 +2803,7 @@
                     "open_issues": 3,
                     "owner": "vita-epfl",
                     "repo": "GEM",
-                    "stars": 115,
+                    "stars": 116,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2876,11 +2876,11 @@
                     "id": 1032393632,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-15T21:31:13Z",
+                    "last_commit": "2026-10-07T11:31:51Z",
                     "open_issues": 5,
                     "owner": "cvg",
                     "repo": "lamaria",
-                    "stars": 172,
+                    "stars": 173,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3455,7 +3455,7 @@
                     "open_issues": 3,
                     "owner": "vita-epfl",
                     "repo": "GEM",
-                    "stars": 115,
+                    "stars": 116,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3803,7 +3803,7 @@
                     "id": 708485039,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2025-09-20T18:27:20Z",
+                    "last_commit": "2026-10-07T13:15:01Z",
                     "open_issues": 3,
                     "owner": "robert80203",
                     "repo": "EgoPER_official",
@@ -4002,7 +4002,7 @@
                     "open_issues": 0,
                     "owner": "hiroyasuakada",
                     "repo": "3D-Human-Pose-Perception-from-Egocentric-Stereo-Videos",
-                    "stars": 31,
+                    "stars": 32,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4889,11 +4889,11 @@
                     "id": 1032393632,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-15T21:31:13Z",
+                    "last_commit": "2026-10-07T11:31:51Z",
                     "open_issues": 5,
                     "owner": "cvg",
                     "repo": "lamaria",
-                    "stars": 172,
+                    "stars": 173,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6415,11 +6415,11 @@
                 "id": 1032393632,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-15T21:31:13Z",
+                "last_commit": "2026-10-07T11:31:51Z",
                 "open_issues": 5,
                 "owner": "cvg",
                 "repo": "lamaria",
-                "stars": 172,
+                "stars": 173,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6577,7 +6577,7 @@
                 "id": 708485039,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2025-09-20T18:27:20Z",
+                "last_commit": "2026-10-07T13:15:01Z",
                 "open_issues": 3,
                 "owner": "robert80203",
                 "repo": "EgoPER_official",
@@ -6821,7 +6821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:52:42.774Z",
+    "last_updated": "2026-10-07T22:14:49.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
