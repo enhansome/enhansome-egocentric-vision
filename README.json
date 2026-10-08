@@ -1636,7 +1636,7 @@
                     "open_issues": 3,
                     "owner": "robert80203",
                     "repo": "EgoPER_official",
-                    "stars": 42,
+                    "stars": 43,
                     "topics": [
                       "action-segmentation",
                       "computer-vision",
@@ -1812,7 +1812,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-08-26T05:59:00Z",
-                    "open_issues": 4,
+                    "open_issues": 3,
                     "owner": "OpenGVLab",
                     "repo": "EgoExoLearn",
                     "stars": 89,
@@ -2559,27 +2559,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "X-LeBench: A Benchmark for Extremely Long Egocentric Video Understanding",
-                  "description": "Wenqi Zhou, Kai Cao, Hao Zheng, Yunze Liu, Xinyi Zheng, Miao Liu, Per Ola Kristensson, Walterio W. Mayol-Cuevas, Fan Zhang, Weizhe Lin, and Junxiao Shen. In Findings of EMNLP 2025. [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "X-LeBench: A Benchmark for Extremely Long Egocentric Video Understanding",
-                    "homepage": null,
-                    "id": 955592440,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2025-03-26T23:14:50Z",
-                    "open_issues": 2,
-                    "owner": "X-Intelligence-Labs",
-                    "repo": "X-LeBench",
-                    "stars": 10,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:08:37.430Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Gaze-VLM: Bridging Gaze and VLMs through Attention Regularization for Egocentric Understanding",
                   "description": "Anupam Pani and Yanchao Yang. In NeurIPS 2025. [code]",
                   "children": [],
@@ -2594,6 +2573,27 @@
                     "open_issues": 2,
                     "owner": "anupampani",
                     "repo": "Gaze-VLM",
+                    "stars": 11,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:08:37.430Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "X-LeBench: A Benchmark for Extremely Long Egocentric Video Understanding",
+                  "description": "Wenqi Zhou, Kai Cao, Hao Zheng, Yunze Liu, Xinyi Zheng, Miao Liu, Per Ola Kristensson, Walterio W. Mayol-Cuevas, Fan Zhang, Weizhe Lin, and Junxiao Shen. In Findings of EMNLP 2025. [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "X-LeBench: A Benchmark for Extremely Long Egocentric Video Understanding",
+                    "homepage": null,
+                    "id": 955592440,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2025-03-26T23:14:50Z",
+                    "open_issues": 2,
+                    "owner": "X-Intelligence-Labs",
+                    "repo": "X-LeBench",
                     "stars": 10,
                     "topics": []
                   },
@@ -2877,10 +2877,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-07T11:31:51Z",
-                    "open_issues": 5,
+                    "open_issues": 4,
                     "owner": "cvg",
                     "repo": "lamaria",
-                    "stars": 173,
+                    "stars": 175,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3515,7 +3515,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-08-26T05:59:00Z",
-                    "open_issues": 4,
+                    "open_issues": 3,
                     "owner": "OpenGVLab",
                     "repo": "EgoExoLearn",
                     "stars": 89,
@@ -3807,7 +3807,7 @@
                     "open_issues": 3,
                     "owner": "robert80203",
                     "repo": "EgoPER_official",
-                    "stars": 42,
+                    "stars": 43,
                     "topics": [
                       "action-segmentation",
                       "computer-vision",
@@ -4890,10 +4890,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-07T11:31:51Z",
-                    "open_issues": 5,
+                    "open_issues": 4,
                     "owner": "cvg",
                     "repo": "lamaria",
-                    "stars": 173,
+                    "stars": 175,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6129,7 +6129,7 @@
                     "open_issues": 2,
                     "owner": "anupampani",
                     "repo": "Gaze-VLM",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6298,7 +6298,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 393,
+                "stars": 394,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6377,7 +6377,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 393,
+                "stars": 394,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6416,10 +6416,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-07T11:31:51Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "cvg",
                 "repo": "lamaria",
-                "stars": 173,
+                "stars": 175,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6581,7 +6581,7 @@
                 "open_issues": 3,
                 "owner": "robert80203",
                 "repo": "EgoPER_official",
-                "stars": 42,
+                "stars": 43,
                 "topics": [
                   "action-segmentation",
                   "computer-vision",
@@ -6821,7 +6821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T22:14:49.282Z",
+    "last_updated": "2026-10-08T22:24:54.604Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
