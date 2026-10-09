@@ -975,7 +975,7 @@
                     "open_issues": 3,
                     "owner": "chaitanya100100",
                     "repo": "UniEgoMotion",
-                    "stars": 67,
+                    "stars": 68,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1286,7 +1286,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 512,
+                    "stars": 511,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -1734,7 +1734,7 @@
                     "open_issues": 1,
                     "owner": "showlab",
                     "repo": "Q2A",
-                    "stars": 23,
+                    "stars": 22,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1815,7 +1815,7 @@
                     "open_issues": 3,
                     "owner": "OpenGVLab",
                     "repo": "EgoExoLearn",
-                    "stars": 89,
+                    "stars": 90,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2085,7 +2085,7 @@
                     "open_issues": 13,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "EgoLife",
-                    "stars": 467,
+                    "stars": 469,
                     "topics": [
                       "egocentric-vision",
                       "omnimodal",
@@ -2713,7 +2713,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 760,
+                    "stars": 759,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2877,10 +2877,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-07T11:31:51Z",
-                    "open_issues": 4,
+                    "open_issues": 3,
                     "owner": "cvg",
                     "repo": "lamaria",
-                    "stars": 175,
+                    "stars": 176,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3278,7 +3278,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 760,
+                    "stars": 759,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3320,7 +3320,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 512,
+                    "stars": 511,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -3359,7 +3359,7 @@
                     "open_issues": 13,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "EgoLife",
-                    "stars": 467,
+                    "stars": 469,
                     "topics": [
                       "egocentric-vision",
                       "omnimodal",
@@ -3518,7 +3518,7 @@
                     "open_issues": 3,
                     "owner": "OpenGVLab",
                     "repo": "EgoExoLearn",
-                    "stars": 89,
+                    "stars": 90,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4753,7 +4753,7 @@
                     "open_issues": 1,
                     "owner": "showlab",
                     "repo": "Q2A",
-                    "stars": 23,
+                    "stars": 22,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4890,10 +4890,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-07T11:31:51Z",
-                    "open_issues": 4,
+                    "open_issues": 3,
                     "owner": "cvg",
                     "repo": "lamaria",
-                    "stars": 175,
+                    "stars": 176,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5084,7 +5084,7 @@
                     "open_issues": 3,
                     "owner": "chaitanya100100",
                     "repo": "UniEgoMotion",
-                    "stars": 67,
+                    "stars": 68,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6273,7 +6273,7 @@
                 "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 467,
+                "stars": 469,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6298,7 +6298,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 394,
+                "stars": 393,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6352,7 +6352,7 @@
                 "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 467,
+                "stars": 469,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6377,7 +6377,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 394,
+                "stars": 393,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6416,10 +6416,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-07T11:31:51Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "cvg",
                 "repo": "lamaria",
-                "stars": 175,
+                "stars": 176,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6821,7 +6821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T22:24:54.604Z",
+    "last_updated": "2026-10-09T21:52:05.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
