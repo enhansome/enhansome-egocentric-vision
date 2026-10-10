@@ -2489,7 +2489,7 @@
                     "open_issues": 2,
                     "owner": "Rh-Dang",
                     "repo": "ECBench",
-                    "stars": 19,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2615,7 +2615,7 @@
                     "open_issues": 0,
                     "owner": "Ryougetsu3606",
                     "repo": "MyEgo",
-                    "stars": 6,
+                    "stars": 7,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2713,7 +2713,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 759,
+                    "stars": 760,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2782,7 +2782,7 @@
                     "open_issues": 3,
                     "owner": "JeffWang987",
                     "repo": "EgoVid",
-                    "stars": 145,
+                    "stars": 146,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3278,7 +3278,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 759,
+                    "stars": 760,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4097,6 +4097,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "ECBench: Can Multi-modal Foundation Models Understand the Egocentric World? A Holistic Embodied Cognition Benchmark",
+                  "description": "Ronghao Dang, Yuqian Yuan, Wenqi Zhang, Yifei Xin, Boqiang Zhang, Long Li, Liuyi Wang, Qinyang Zeng, Xin Li, and Lidong Bing. In CVPR 2025. [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A Holistic Embodied Cognition Benchmark",
+                    "homepage": null,
+                    "id": 913817005,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2025-04-03T02:54:58Z",
+                    "open_issues": 2,
+                    "owner": "Rh-Dang",
+                    "repo": "ECBench",
+                    "stars": 21,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:08:37.430Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Instance Tracking in 3D Scenes from Egocentric Videos",
                   "description": "Yunhan Zhao, Haoyu Ma, Shu Kong, and Charless Fowlkes. In CVPR 2024. [code]",
                   "children": [],
@@ -4132,27 +4153,6 @@
                     "open_issues": 0,
                     "owner": "abhi-rf",
                     "repo": "egoflow",
-                    "stars": 19,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:08:37.430Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "ECBench: Can Multi-modal Foundation Models Understand the Egocentric World? A Holistic Embodied Cognition Benchmark",
-                  "description": "Ronghao Dang, Yuqian Yuan, Wenqi Zhang, Yifei Xin, Boqiang Zhang, Long Li, Liuyi Wang, Qinyang Zeng, Xin Li, and Lidong Bing. In CVPR 2025. [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A Holistic Embodied Cognition Benchmark",
-                    "homepage": null,
-                    "id": 913817005,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2025-04-03T02:54:58Z",
-                    "open_issues": 2,
-                    "owner": "Rh-Dang",
-                    "repo": "ECBench",
                     "stars": 19,
                     "topics": []
                   },
@@ -4317,6 +4317,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Ego-Grounding for Personalized Question-Answering in Egocentric Videos",
+                  "description": "Junbin Xiao, Shenglang Zhang, Pengxiang Zhu, and Angela Yao. In CVPR 2026. [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR 2026] The dataset and code for \"Ego-Grounding for Personalized Question-Answering in Egocentric Videos\"",
+                    "homepage": null,
+                    "id": 1099728320,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-09-20T15:10:45Z",
+                    "open_issues": 0,
+                    "owner": "Ryougetsu3606",
+                    "repo": "MyEgo",
+                    "stars": 7,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:08:37.430Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Bootstrap Your Own Views: Masked Ego-Exo Modeling for Fine-grained View-invariant Video Representations",
                   "description": "Jungin Park, Jiyoung Lee, and Kwanghoon Sohn. In CVPR 2025. [code]",
                   "children": [],
@@ -4332,27 +4353,6 @@
                     "owner": "park-jungin",
                     "repo": "byov",
                     "stars": 7,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:08:37.430Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Ego-Grounding for Personalized Question-Answering in Egocentric Videos",
-                  "description": "Junbin Xiao, Shenglang Zhang, Pengxiang Zhu, and Angela Yao. In CVPR 2026. [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[CVPR 2026] The dataset and code for \"Ego-Grounding for Personalized Question-Answering in Egocentric Videos\"",
-                    "homepage": null,
-                    "id": 1099728320,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-09-20T15:10:45Z",
-                    "open_issues": 0,
-                    "owner": "Ryougetsu3606",
-                    "repo": "MyEgo",
-                    "stars": 6,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5739,7 +5739,7 @@
                     "open_issues": 3,
                     "owner": "JeffWang987",
                     "repo": "EgoVid",
-                    "stars": 145,
+                    "stars": 146,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6785,7 +6785,7 @@
                 "open_issues": 0,
                 "owner": "Ryougetsu3606",
                 "repo": "MyEgo",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6821,7 +6821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:52:05.443Z",
+    "last_updated": "2026-10-10T20:41:20.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
