@@ -1286,7 +1286,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 511,
+                    "stars": 512,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -1636,7 +1636,7 @@
                     "open_issues": 3,
                     "owner": "robert80203",
                     "repo": "EgoPER_official",
-                    "stars": 43,
+                    "stars": 44,
                     "topics": [
                       "action-segmentation",
                       "computer-vision",
@@ -1815,7 +1815,7 @@
                     "open_issues": 3,
                     "owner": "OpenGVLab",
                     "repo": "EgoExoLearn",
-                    "stars": 90,
+                    "stars": 91,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2713,7 +2713,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 760,
+                    "stars": 759,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3278,7 +3278,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 760,
+                    "stars": 759,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3320,7 +3320,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 511,
+                    "stars": 512,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -3518,7 +3518,7 @@
                     "open_issues": 3,
                     "owner": "OpenGVLab",
                     "repo": "EgoExoLearn",
-                    "stars": 90,
+                    "stars": 91,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3772,6 +3772,33 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Error Detection in Egocentric Procedural Task Videos",
+                  "description": "Shih-Po Lee, Zijia Lu, Zekun Zhang, Minh Hoai, and Ehsan Elhamifar. In CVPR 2024. [project page] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "The official implementation of Error Detection in Egocentric Procedural Task Videos",
+                    "homepage": null,
+                    "id": 708485039,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-10-07T13:15:01Z",
+                    "open_issues": 3,
+                    "owner": "robert80203",
+                    "repo": "EgoPER_official",
+                    "stars": 44,
+                    "topics": [
+                      "action-segmentation",
+                      "computer-vision",
+                      "deep-learning",
+                      "error-detection",
+                      "procedural-learning"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T01:08:37.430Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video",
                   "description": "Andrea Boscolo Camiletto, Jian Wang, Eduardo Alvarado, Rishabh Dabral, Thabo Beeler, Marc Habermann, and Christian Theobalt. In CVPR 2025. [project page] [code]",
                   "children": [],
@@ -3788,33 +3815,6 @@
                     "repo": "frame",
                     "stars": 44,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:08:37.430Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Error Detection in Egocentric Procedural Task Videos",
-                  "description": "Shih-Po Lee, Zijia Lu, Zekun Zhang, Minh Hoai, and Ehsan Elhamifar. In CVPR 2024. [project page] [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "The official implementation of Error Detection in Egocentric Procedural Task Videos",
-                    "homepage": null,
-                    "id": 708485039,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-10-07T13:15:01Z",
-                    "open_issues": 3,
-                    "owner": "robert80203",
-                    "repo": "EgoPER_official",
-                    "stars": 43,
-                    "topics": [
-                      "action-segmentation",
-                      "computer-vision",
-                      "deep-learning",
-                      "error-detection",
-                      "procedural-learning"
-                    ]
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
                 },
@@ -6298,7 +6298,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 393,
+                "stars": 394,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6377,7 +6377,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 393,
+                "stars": 394,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6581,7 +6581,7 @@
                 "open_issues": 3,
                 "owner": "robert80203",
                 "repo": "EgoPER_official",
-                "stars": 43,
+                "stars": 44,
                 "topics": [
                   "action-segmentation",
                   "computer-vision",
@@ -6821,7 +6821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T21:03:28.505Z",
+    "last_updated": "2026-10-12T23:45:11.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
