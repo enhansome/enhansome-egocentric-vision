@@ -361,7 +361,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2019-02-20T17:41:37Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "guiggh",
                     "repo": "hand_pose_action",
                     "stars": 273,
@@ -754,7 +754,7 @@
                     "open_issues": 0,
                     "owner": "ZhaofengSHI",
                     "repo": "DCPGN",
-                    "stars": 4,
+                    "stars": 5,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3381,7 +3381,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2019-02-20T17:41:37Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "guiggh",
                     "repo": "hand_pose_action",
                     "stars": 273,
@@ -4359,6 +4359,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Test-time Ego-Exo-centric Adaptation for Action Anticipation via Multi-Label Prototype Growing and Dual-Clue Consistency",
+                  "description": "Zhaofeng Shi, Heqian Qiu, Lanxiao Wang, Qingbo Wu, Fanman Meng, Lili Pan, and Hongliang Li. In CVPR 2026. [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Code of Test-time Ego-Exo-centric Adaptation for Action Anticipation via Multi-Label Prototype Growing and Dual-Clue Consistency (CVPR2026)",
+                    "homepage": null,
+                    "id": 1163320190,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-04-03T07:59:12Z",
+                    "open_issues": 0,
+                    "owner": "ZhaofengSHI",
+                    "repo": "DCPGN",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:08:37.430Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Sound Bridge: Associating Egocentric and Exocentric Videos via Audio Cues",
                   "description": "Sihong Huang, Jiaxin Wu, Xiaoyong Wei, Yi Cai, Dongmei Jiang, and Yaowei Wang. In CVPR 2025. [code]",
                   "children": [],
@@ -4374,27 +4395,6 @@
                     "owner": "shhuangcoder",
                     "repo": "SoundBridge",
                     "stars": 5,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:08:37.430Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Test-time Ego-Exo-centric Adaptation for Action Anticipation via Multi-Label Prototype Growing and Dual-Clue Consistency",
-                  "description": "Zhaofeng Shi, Heqian Qiu, Lanxiao Wang, Qingbo Wu, Fanman Meng, Lili Pan, and Hongliang Li. In CVPR 2026. [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Code of Test-time Ego-Exo-centric Adaptation for Action Anticipation via Multi-Label Prototype Growing and Dual-Clue Consistency (CVPR2026)",
-                    "homepage": null,
-                    "id": 1163320190,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-04-03T07:59:12Z",
-                    "open_issues": 0,
-                    "owner": "ZhaofengSHI",
-                    "repo": "DCPGN",
-                    "stars": 4,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6298,7 +6298,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 395,
+                "stars": 396,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6377,7 +6377,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 395,
+                "stars": 396,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6821,7 +6821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T21:56:47.881Z",
+    "last_updated": "2026-10-14T20:56:49.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
