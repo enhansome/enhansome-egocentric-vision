@@ -1286,7 +1286,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 512,
+                    "stars": 513,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -1367,7 +1367,7 @@
                     "open_issues": 2,
                     "owner": "Tao-11-chen",
                     "repo": "ForeHOI",
-                    "stars": 102,
+                    "stars": 103,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2085,7 +2085,7 @@
                     "open_issues": 13,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "EgoLife",
-                    "stars": 469,
+                    "stars": 470,
                     "topics": [
                       "egocentric-vision",
                       "omnimodal",
@@ -2713,7 +2713,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 760,
+                    "stars": 759,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2800,7 +2800,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-10-16T09:11:48Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "vita-epfl",
                     "repo": "GEM",
                     "stars": 116,
@@ -3278,7 +3278,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 760,
+                    "stars": 759,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3320,7 +3320,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 512,
+                    "stars": 513,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -3359,7 +3359,7 @@
                     "open_issues": 13,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "EgoLife",
-                    "stars": 469,
+                    "stars": 470,
                     "topics": [
                       "egocentric-vision",
                       "omnimodal",
@@ -3452,7 +3452,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-10-16T09:11:48Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "vita-epfl",
                     "repo": "GEM",
                     "stars": 116,
@@ -3476,7 +3476,7 @@
                     "open_issues": 2,
                     "owner": "Tao-11-chen",
                     "repo": "ForeHOI",
-                    "stars": 102,
+                    "stars": 103,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6273,7 +6273,7 @@
                 "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 469,
+                "stars": 470,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6298,7 +6298,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 396,
+                "stars": 397,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6352,7 +6352,7 @@
                 "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 469,
+                "stars": 470,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6377,7 +6377,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 396,
+                "stars": 397,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6821,7 +6821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:56:49.759Z",
+    "last_updated": "2026-10-15T20:31:03.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
@@ -6830,7 +6830,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-21T15:25:07Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "Sid2697",
       "repo": "awesome-egocentric-vision",
       "stars": 349,
