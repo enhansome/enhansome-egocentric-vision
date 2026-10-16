@@ -1325,7 +1325,7 @@
                     "open_issues": 3,
                     "owner": "snuvclab",
                     "repo": "ParaHome",
-                    "stars": 249,
+                    "stars": 250,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1705,7 +1705,7 @@
                     "open_issues": 2,
                     "owner": "fpv-iplab",
                     "repo": "Differentiable-Task-Graph-Learning",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": [
                       "egocentric-videos",
                       "maximum-likelihood",
@@ -2615,7 +2615,7 @@
                     "open_issues": 0,
                     "owner": "Ryougetsu3606",
                     "repo": "MyEgo",
-                    "stars": 7,
+                    "stars": 6,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2948,17 +2948,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "EgoTraj: Real-World Egocentric Human Trajectory Dataset for Multimodal Prediction (2026)",
-                    "homepage": null,
+                    "description": "EgoTraj (ECCV 2026): real-world egocentric human trajectory dataset with 6-DoF head pose, 3D eye gaze, RGB video and scene annotations from Meta Quest Pro",
+                    "homepage": "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/14919.pdf",
                     "id": 1198622402,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-03T21:32:39Z",
+                    "last_commit": "2026-10-16T16:34:09Z",
                     "open_issues": 1,
                     "owner": "yehiahmad",
                     "repo": "EgoTraj",
                     "stars": 10,
-                    "topics": []
+                    "topics": [
+                      "computer-vision",
+                      "dataset",
+                      "eccv2026",
+                      "egocentric",
+                      "egocentric-vision",
+                      "eye-tracking",
+                      "gaze",
+                      "gaze-estimation",
+                      "head-pose",
+                      "human-motion-prediction",
+                      "human-trajectory-prediction",
+                      "meta-quest-pro",
+                      "mixed-reality",
+                      "multimodal",
+                      "navigation-world-model",
+                      "pedestrian-trajectory-prediction",
+                      "robotics",
+                      "trajectory-prediction",
+                      "wearable-computing",
+                      "world-model"
+                    ]
                   },
                   "first_seen": "2026-09-21T21:13:33.375Z"
                 }
@@ -3411,7 +3432,7 @@
                     "open_issues": 3,
                     "owner": "snuvclab",
                     "repo": "ParaHome",
-                    "stars": 249,
+                    "stars": 250,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4317,27 +4338,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Ego-Grounding for Personalized Question-Answering in Egocentric Videos",
-                  "description": "Junbin Xiao, Shenglang Zhang, Pengxiang Zhu, and Angela Yao. In CVPR 2026. [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[CVPR 2026] The dataset and code for \"Ego-Grounding for Personalized Question-Answering in Egocentric Videos\"",
-                    "homepage": null,
-                    "id": 1099728320,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-09-20T15:10:45Z",
-                    "open_issues": 0,
-                    "owner": "Ryougetsu3606",
-                    "repo": "MyEgo",
-                    "stars": 7,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:08:37.430Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Bootstrap Your Own Views: Masked Ego-Exo Modeling for Fine-grained View-invariant Video Representations",
                   "description": "Jungin Park, Jiyoung Lee, and Kwanghoon Sohn. In CVPR 2025. [code]",
                   "children": [],
@@ -4353,6 +4353,27 @@
                     "owner": "park-jungin",
                     "repo": "byov",
                     "stars": 7,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:08:37.430Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ego-Grounding for Personalized Question-Answering in Egocentric Videos",
+                  "description": "Junbin Xiao, Shenglang Zhang, Pengxiang Zhu, and Angela Yao. In CVPR 2026. [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR 2026] The dataset and code for \"Ego-Grounding for Personalized Question-Answering in Egocentric Videos\"",
+                    "homepage": null,
+                    "id": 1099728320,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-09-20T15:10:45Z",
+                    "open_issues": 0,
+                    "owner": "Ryougetsu3606",
+                    "repo": "MyEgo",
+                    "stars": 6,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4807,17 +4828,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "EgoTraj: Real-World Egocentric Human Trajectory Dataset for Multimodal Prediction (2026)",
-                    "homepage": null,
+                    "description": "EgoTraj (ECCV 2026): real-world egocentric human trajectory dataset with 6-DoF head pose, 3D eye gaze, RGB video and scene annotations from Meta Quest Pro",
+                    "homepage": "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/14919.pdf",
                     "id": 1198622402,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-03T21:32:39Z",
+                    "last_commit": "2026-10-16T16:34:09Z",
                     "open_issues": 1,
                     "owner": "yehiahmad",
                     "repo": "EgoTraj",
                     "stars": 10,
-                    "topics": []
+                    "topics": [
+                      "computer-vision",
+                      "dataset",
+                      "eccv2026",
+                      "egocentric",
+                      "egocentric-vision",
+                      "eye-tracking",
+                      "gaze",
+                      "gaze-estimation",
+                      "head-pose",
+                      "human-motion-prediction",
+                      "human-trajectory-prediction",
+                      "meta-quest-pro",
+                      "mixed-reality",
+                      "multimodal",
+                      "navigation-world-model",
+                      "pedestrian-trajectory-prediction",
+                      "robotics",
+                      "trajectory-prediction",
+                      "wearable-computing",
+                      "world-model"
+                    ]
                   },
                   "first_seen": "2026-09-21T21:13:33.375Z"
                 },
@@ -6008,7 +6050,7 @@
                     "open_issues": 2,
                     "owner": "fpv-iplab",
                     "repo": "Differentiable-Task-Graph-Learning",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": [
                       "egocentric-videos",
                       "maximum-likelihood",
@@ -6298,7 +6340,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 397,
+                "stars": 398,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6377,7 +6419,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 397,
+                "stars": 398,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6398,7 +6440,7 @@
                 "open_issues": 3,
                 "owner": "snuvclab",
                 "repo": "ParaHome",
-                "stars": 249,
+                "stars": 250,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6755,17 +6797,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "EgoTraj: Real-World Egocentric Human Trajectory Dataset for Multimodal Prediction (2026)",
-                "homepage": null,
+                "description": "EgoTraj (ECCV 2026): real-world egocentric human trajectory dataset with 6-DoF head pose, 3D eye gaze, RGB video and scene annotations from Meta Quest Pro",
+                "homepage": "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/14919.pdf",
                 "id": 1198622402,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T21:32:39Z",
+                "last_commit": "2026-10-16T16:34:09Z",
                 "open_issues": 1,
                 "owner": "yehiahmad",
                 "repo": "EgoTraj",
                 "stars": 10,
-                "topics": []
+                "topics": [
+                  "computer-vision",
+                  "dataset",
+                  "eccv2026",
+                  "egocentric",
+                  "egocentric-vision",
+                  "eye-tracking",
+                  "gaze",
+                  "gaze-estimation",
+                  "head-pose",
+                  "human-motion-prediction",
+                  "human-trajectory-prediction",
+                  "meta-quest-pro",
+                  "mixed-reality",
+                  "multimodal",
+                  "navigation-world-model",
+                  "pedestrian-trajectory-prediction",
+                  "robotics",
+                  "trajectory-prediction",
+                  "wearable-computing",
+                  "world-model"
+                ]
               },
               "first_seen": "2026-09-21T21:13:33.375Z"
             },
@@ -6785,7 +6848,7 @@
                 "open_issues": 0,
                 "owner": "Ryougetsu3606",
                 "repo": "MyEgo",
-                "stars": 7,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6821,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T20:31:03.202Z",
+    "last_updated": "2026-10-16T20:03:24.373Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
