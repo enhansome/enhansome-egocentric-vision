@@ -845,7 +845,7 @@
                     "open_issues": 4,
                     "owner": "sanweiliti",
                     "repo": "EgoBody",
-                    "stars": 125,
+                    "stars": 126,
                     "topics": [
                       "3d-human-pose",
                       "3d-vision",
@@ -1286,7 +1286,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 513,
+                    "stars": 514,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -1325,7 +1325,7 @@
                     "open_issues": 3,
                     "owner": "snuvclab",
                     "repo": "ParaHome",
-                    "stars": 250,
+                    "stars": 251,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2759,7 +2759,7 @@
                     "open_issues": 4,
                     "owner": "snap-research",
                     "repo": "EgoEdit",
-                    "stars": 159,
+                    "stars": 158,
                     "topics": [
                       "video-editing"
                     ]
@@ -2953,7 +2953,7 @@
                     "id": 1198622402,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-16T16:34:09Z",
+                    "last_commit": "2026-10-16T20:06:39Z",
                     "open_issues": 1,
                     "owner": "yehiahmad",
                     "repo": "EgoTraj",
@@ -3341,7 +3341,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 513,
+                    "stars": 514,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -3432,7 +3432,7 @@
                     "open_issues": 3,
                     "owner": "snuvclab",
                     "repo": "ParaHome",
-                    "stars": 250,
+                    "stars": 251,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3453,7 +3453,7 @@
                     "open_issues": 4,
                     "owner": "snap-research",
                     "repo": "EgoEdit",
-                    "stars": 159,
+                    "stars": 158,
                     "topics": [
                       "video-editing"
                     ]
@@ -4492,7 +4492,7 @@
                     "open_issues": 4,
                     "owner": "sanweiliti",
                     "repo": "EgoBody",
-                    "stars": 125,
+                    "stars": 126,
                     "topics": [
                       "3d-human-pose",
                       "3d-vision",
@@ -4833,7 +4833,7 @@
                     "id": 1198622402,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-16T16:34:09Z",
+                    "last_commit": "2026-10-16T20:06:39Z",
                     "open_issues": 1,
                     "owner": "yehiahmad",
                     "repo": "EgoTraj",
@@ -6440,7 +6440,7 @@
                 "open_issues": 3,
                 "owner": "snuvclab",
                 "repo": "ParaHome",
-                "stars": 250,
+                "stars": 251,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6802,7 +6802,7 @@
                 "id": 1198622402,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-16T16:34:09Z",
+                "last_commit": "2026-10-16T20:06:39Z",
                 "open_issues": 1,
                 "owner": "yehiahmad",
                 "repo": "EgoTraj",
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T20:03:24.373Z",
+    "last_updated": "2026-10-17T19:41:51.091Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
