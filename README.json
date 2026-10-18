@@ -2192,7 +2192,7 @@
                     "open_issues": 5,
                     "owner": "google-deepmind",
                     "repo": "neptune",
-                    "stars": 99,
+                    "stars": 100,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3518,7 +3518,7 @@
                     "open_issues": 5,
                     "owner": "google-deepmind",
                     "repo": "neptune",
-                    "stars": 99,
+                    "stars": 100,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6503,7 +6503,7 @@
                 "open_issues": 5,
                 "owner": "google-deepmind",
                 "repo": "neptune",
-                "stars": 99,
+                "stars": 100,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T19:41:51.091Z",
+    "last_updated": "2026-10-18T19:38:52.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
