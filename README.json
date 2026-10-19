@@ -691,7 +691,7 @@
                     "open_issues": 3,
                     "owner": "oppo-us-research",
                     "repo": "USST",
-                    "stars": 20,
+                    "stars": 19,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1116,7 +1116,7 @@
                     "open_issues": 4,
                     "owner": "ChenhongyiYang",
                     "repo": "egoposeformer",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": [
                       "eccv2024",
                       "egocentric-vision",
@@ -1286,7 +1286,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 514,
+                    "stars": 516,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -1346,7 +1346,7 @@
                     "open_issues": 13,
                     "owner": "owenzlz",
                     "repo": "EgoHOS",
-                    "stars": 151,
+                    "stars": 152,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2880,7 +2880,7 @@
                     "open_issues": 3,
                     "owner": "cvg",
                     "repo": "lamaria",
-                    "stars": 176,
+                    "stars": 177,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3341,7 +3341,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 514,
+                    "stars": 516,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -4471,7 +4471,7 @@
                     "open_issues": 13,
                     "owner": "owenzlz",
                     "repo": "EgoHOS",
-                    "stars": 151,
+                    "stars": 152,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4685,7 +4685,7 @@
                     "open_issues": 4,
                     "owner": "ChenhongyiYang",
                     "repo": "egoposeformer",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": [
                       "eccv2024",
                       "egocentric-vision",
@@ -4935,7 +4935,7 @@
                     "open_issues": 3,
                     "owner": "cvg",
                     "repo": "lamaria",
-                    "stars": 176,
+                    "stars": 177,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5264,7 +5264,7 @@
                     "open_issues": 3,
                     "owner": "oppo-us-research",
                     "repo": "USST",
-                    "stars": 20,
+                    "stars": 19,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6340,7 +6340,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 398,
+                "stars": 401,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6419,7 +6419,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 398,
+                "stars": 401,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6461,7 +6461,7 @@
                 "open_issues": 3,
                 "owner": "cvg",
                 "repo": "lamaria",
-                "stars": 176,
+                "stars": 177,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T19:38:52.329Z",
+    "last_updated": "2026-10-19T21:44:08.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
