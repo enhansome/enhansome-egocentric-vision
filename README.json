@@ -628,7 +628,7 @@
                     "open_issues": 3,
                     "owner": "lmb-freiburg",
                     "repo": "FLN-EPN-RPN",
-                    "stars": 35,
+                    "stars": 36,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1095,7 +1095,7 @@
                     "open_issues": 1,
                     "owner": "abcamiletto",
                     "repo": "frame",
-                    "stars": 44,
+                    "stars": 43,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1286,7 +1286,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 516,
+                    "stars": 517,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -1325,7 +1325,7 @@
                     "open_issues": 3,
                     "owner": "snuvclab",
                     "repo": "ParaHome",
-                    "stars": 251,
+                    "stars": 252,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1346,7 +1346,7 @@
                     "open_issues": 13,
                     "owner": "owenzlz",
                     "repo": "EgoHOS",
-                    "stars": 152,
+                    "stars": 153,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1861,7 +1861,7 @@
                     "open_issues": 0,
                     "owner": "ardamamur",
                     "repo": "EgoExOR",
-                    "stars": 31,
+                    "stars": 32,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2957,7 +2957,7 @@
                     "open_issues": 1,
                     "owner": "yehiahmad",
                     "repo": "EgoTraj",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": [
                       "computer-vision",
                       "dataset",
@@ -3341,7 +3341,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 516,
+                    "stars": 517,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -3432,7 +3432,7 @@
                     "open_issues": 3,
                     "owner": "snuvclab",
                     "repo": "ParaHome",
-                    "stars": 251,
+                    "stars": 252,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3834,7 +3834,7 @@
                     "open_issues": 1,
                     "owner": "abcamiletto",
                     "repo": "frame",
-                    "stars": 44,
+                    "stars": 43,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3904,27 +3904,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "EgoAVU: Egocentric Audio-Visual Understanding",
-                  "description": "Ashish Seth, Xinhao Mei, Changsheng Zhao, Varun Nagaraja, Ernie Chang, Gregory P. Meyer, Gael Le Lan, Yunyang Xiong, Vikas Chandra, Yangyang Shi, Dinesh Manocha, and Zhipeng Cai. In CVPR 2026. [project page] [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[CVPR 2026 highlight] Official release of EgoAVU Egocentric Audio-Visual Understanding",
-                    "homepage": null,
-                    "id": 1104804927,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-06-08T16:49:25Z",
-                    "open_issues": 0,
-                    "owner": "facebookresearch",
-                    "repo": "EgoAVU",
-                    "stars": 35,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:08:37.430Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Multimodal Future Localization and Emergence Prediction for Objects in Egocentric View With a Reachability Prior",
                   "description": "Osama Makansi, Ozgun Cicek, Kevin Buchicchio, and Thomas Brox. In CVPR 2020. [demo] [code] [project page]",
                   "children": [],
@@ -3939,6 +3918,27 @@
                     "open_issues": 3,
                     "owner": "lmb-freiburg",
                     "repo": "FLN-EPN-RPN",
+                    "stars": 36,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:08:37.430Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "EgoAVU: Egocentric Audio-Visual Understanding",
+                  "description": "Ashish Seth, Xinhao Mei, Changsheng Zhao, Varun Nagaraja, Ernie Chang, Gregory P. Meyer, Gael Le Lan, Yunyang Xiong, Vikas Chandra, Yangyang Shi, Dinesh Manocha, and Zhipeng Cai. In CVPR 2026. [project page] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR 2026 highlight] Official release of EgoAVU Egocentric Audio-Visual Understanding",
+                    "homepage": null,
+                    "id": 1104804927,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-06-08T16:49:25Z",
+                    "open_issues": 0,
+                    "owner": "facebookresearch",
+                    "repo": "EgoAVU",
                     "stars": 35,
                     "topics": []
                   },
@@ -4471,7 +4471,7 @@
                     "open_issues": 13,
                     "owner": "owenzlz",
                     "repo": "EgoHOS",
-                    "stars": 152,
+                    "stars": 153,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4837,7 +4837,7 @@
                     "open_issues": 1,
                     "owner": "yehiahmad",
                     "repo": "EgoTraj",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": [
                       "computer-vision",
                       "dataset",
@@ -5938,6 +5938,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding",
+                  "description": "Ege Özsoy, Arda Mamur, Felix Tristram, Chantal Pellegrini, Magdalena Wysocki, Benjamin Busam, and Nassir Navab. In NeurIPS 2025. [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Official code of the paper \"EgoExOR: EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding\" accepted at NeurIPS 2025",
+                    "homepage": null,
+                    "id": 983141665,
+                    "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-05-06T13:36:34Z",
+                    "open_issues": 0,
+                    "owner": "ardamamur",
+                    "repo": "EgoExOR",
+                    "stars": 32,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:08:37.430Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "egoEMOTION: Egocentric Vision and Physiological Signals for Emotion and Personality Recognition in Real-World Tasks",
                   "description": "Matthias Jammot, Björn Braun, Paul Streli, Rafael Wampfler, and Christian Holz. In NeurIPS 2025. [project page] [code]",
                   "children": [],
@@ -5988,27 +6009,6 @@
                     "owner": "yyvhang",
                     "repo": "EgoChoir_release",
                     "stars": 32,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:08:37.430Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding",
-                  "description": "Ege Özsoy, Arda Mamur, Felix Tristram, Chantal Pellegrini, Magdalena Wysocki, Benjamin Busam, and Nassir Navab. In NeurIPS 2025. [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official code of the paper \"EgoExOR: EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding\" accepted at NeurIPS 2025",
-                    "homepage": null,
-                    "id": 983141665,
-                    "language": "Jupyter Notebook",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-05-06T13:36:34Z",
-                    "open_issues": 0,
-                    "owner": "ardamamur",
-                    "repo": "EgoExOR",
-                    "stars": 31,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6440,7 +6440,7 @@
                 "open_issues": 3,
                 "owner": "snuvclab",
                 "repo": "ParaHome",
-                "stars": 251,
+                "stars": 252,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6743,7 +6743,7 @@
                 "open_issues": 0,
                 "owner": "ardamamur",
                 "repo": "EgoExOR",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6806,7 +6806,7 @@
                 "open_issues": 1,
                 "owner": "yehiahmad",
                 "repo": "EgoTraj",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "computer-vision",
                   "dataset",
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T21:44:08.926Z",
+    "last_updated": "2026-10-20T20:50:36.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
