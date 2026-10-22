@@ -1065,7 +1065,7 @@
                     "open_issues": 1,
                     "owner": "Sid2697",
                     "repo": "HOPformer",
-                    "stars": 46,
+                    "stars": 47,
                     "topics": [
                       "3d",
                       "arctic",
@@ -1086,7 +1086,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Official implementation of the paper \"FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video\" [CVPR 2025 Highlight]",
+                    "description": "[CVPR 2025 Highlight] Official implementation of the paper \"FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video\" ",
                     "homepage": "https://vcai.mpi-inf.mpg.de/projects/FRAME/",
                     "id": 953025503,
                     "language": "Python",
@@ -1286,7 +1286,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 517,
+                    "stars": 521,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -1325,7 +1325,7 @@
                     "open_issues": 3,
                     "owner": "snuvclab",
                     "repo": "ParaHome",
-                    "stars": 252,
+                    "stars": 253,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1815,7 +1815,7 @@
                     "open_issues": 3,
                     "owner": "OpenGVLab",
                     "repo": "EgoExoLearn",
-                    "stars": 91,
+                    "stars": 92,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1861,7 +1861,7 @@
                     "open_issues": 1,
                     "owner": "ardamamur",
                     "repo": "EgoExOR",
-                    "stars": 32,
+                    "stars": 33,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2713,7 +2713,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 759,
+                    "stars": 761,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3299,7 +3299,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 759,
+                    "stars": 761,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3341,7 +3341,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 517,
+                    "stars": 521,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -3432,7 +3432,7 @@
                     "open_issues": 3,
                     "owner": "snuvclab",
                     "repo": "ParaHome",
-                    "stars": 252,
+                    "stars": 253,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3539,7 +3539,7 @@
                     "open_issues": 3,
                     "owner": "OpenGVLab",
                     "repo": "EgoExoLearn",
-                    "stars": 91,
+                    "stars": 92,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3825,7 +3825,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Official implementation of the paper \"FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video\" [CVPR 2025 Highlight]",
+                    "description": "[CVPR 2025 Highlight] Official implementation of the paper \"FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video\" ",
                     "homepage": "https://vcai.mpi-inf.mpg.de/projects/FRAME/",
                     "id": 953025503,
                     "language": "Python",
@@ -4549,6 +4549,36 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
+                  "description": "Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [project page] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Code for HOPformer released in ECCV 2026 Paper \"Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation\"",
+                    "homepage": "https://sid2697.github.io/epic-contact/",
+                    "id": 1283976546,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-10-06T11:52:08Z",
+                    "open_issues": 1,
+                    "owner": "Sid2697",
+                    "repo": "HOPformer",
+                    "stars": 47,
+                    "topics": [
+                      "3d",
+                      "arctic",
+                      "egocentric-videos",
+                      "egocentric-vision",
+                      "epic-kitchens",
+                      "hand-object-interaction",
+                      "in-the-wild",
+                      "pose-estimation"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T01:08:37.430Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "AMEGO: Active Memory from long EGOcentric videos",
                   "description": "Gabriele Goletto, Tushar Nagarajan, Giuseppe Averta, and Dima Damen. In ECCV 2024. [project page] [code]",
                   "children": [],
@@ -4568,36 +4598,6 @@
                       "eccv2024",
                       "egocentric-vision",
                       "hand-object-interaction"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T01:08:37.430Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
-                  "description": "Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [project page] [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Code for HOPformer released in ECCV 2026 Paper \"Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation\"",
-                    "homepage": "https://sid2697.github.io/epic-contact/",
-                    "id": 1283976546,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-10-06T11:52:08Z",
-                    "open_issues": 1,
-                    "owner": "Sid2697",
-                    "repo": "HOPformer",
-                    "stars": 46,
-                    "topics": [
-                      "3d",
-                      "arctic",
-                      "egocentric-videos",
-                      "egocentric-vision",
-                      "epic-kitchens",
-                      "hand-object-interaction",
-                      "in-the-wild",
-                      "pose-estimation"
                     ]
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5952,7 +5952,7 @@
                     "open_issues": 1,
                     "owner": "ardamamur",
                     "repo": "EgoExOR",
-                    "stars": 32,
+                    "stars": 33,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6340,7 +6340,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 401,
+                "stars": 402,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6419,7 +6419,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 401,
+                "stars": 402,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6440,7 +6440,7 @@
                 "open_issues": 3,
                 "owner": "snuvclab",
                 "repo": "ParaHome",
-                "stars": 252,
+                "stars": 253,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6593,7 +6593,7 @@
                 "open_issues": 1,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 46,
+                "stars": 47,
                 "topics": [
                   "3d",
                   "arctic",
@@ -6708,6 +6708,27 @@
             },
             {
               "node_type": "item",
+              "title": "EgoExOR",
+              "description": "94 minutes (84,553 frames at 15 FPS) of two emulated spine procedures combining egocentric data (RGB, gaze, hand tracking, audio) from wearable glasses with exocentric RGB-D and ultrasound, annotated with 568,235 scene-graph triplets. [paper]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official code of the paper \"EgoExOR: EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding\" accepted at NeurIPS 2025",
+                "homepage": null,
+                "id": 983141665,
+                "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
+                "last_commit": "2026-05-06T13:36:34Z",
+                "open_issues": 1,
+                "owner": "ardamamur",
+                "repo": "EgoExOR",
+                "stars": 33,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:08:37.430Z"
+            },
+            {
+              "node_type": "item",
               "title": "Object Search Dataset",
               "description": "57 sequences of 55 subjects on search and retrieval tasks.",
               "children": [],
@@ -6723,27 +6744,6 @@
                 "owner": "Mengmi",
                 "repo": "deepfuturegaze_gan",
                 "stars": 33,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:08:37.430Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EgoExOR",
-              "description": "94 minutes (84,553 frames at 15 FPS) of two emulated spine procedures combining egocentric data (RGB, gaze, hand tracking, audio) from wearable glasses with exocentric RGB-D and ultrasound, annotated with 568,235 scene-graph triplets. [paper]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official code of the paper \"EgoExOR: EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding\" accepted at NeurIPS 2025",
-                "homepage": null,
-                "id": 983141665,
-                "language": "Jupyter Notebook",
-                "license": "Apache-2.0",
-                "last_commit": "2026-05-06T13:36:34Z",
-                "open_issues": 1,
-                "owner": "ardamamur",
-                "repo": "EgoExOR",
-                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T20:52:34.259Z",
+    "last_updated": "2026-10-22T20:46:11.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
