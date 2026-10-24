@@ -44,7 +44,7 @@
                     "open_issues": 5,
                     "owner": "ekazakos",
                     "repo": "temporal-binding-network",
-                    "stars": 112,
+                    "stars": 113,
                     "topics": [
                       "action-recognition",
                       "audio-visual",
@@ -1325,7 +1325,7 @@
                     "open_issues": 3,
                     "owner": "snuvclab",
                     "repo": "ParaHome",
-                    "stars": 253,
+                    "stars": 252,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1836,7 +1836,7 @@
                     "open_issues": 1,
                     "owner": "iSEE-Laboratory",
                     "repo": "EgoExo-Fitness",
-                    "stars": 39,
+                    "stars": 40,
                     "topics": [
                       "action-understanding",
                       "dataset",
@@ -2880,7 +2880,7 @@
                     "open_issues": 3,
                     "owner": "cvg",
                     "repo": "lamaria",
-                    "stars": 178,
+                    "stars": 179,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3432,7 +3432,7 @@
                     "open_issues": 3,
                     "owner": "snuvclab",
                     "repo": "ParaHome",
-                    "stars": 253,
+                    "stars": 252,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4639,7 +4639,7 @@
                     "open_issues": 1,
                     "owner": "iSEE-Laboratory",
                     "repo": "EgoExo-Fitness",
-                    "stars": 39,
+                    "stars": 40,
                     "topics": [
                       "action-understanding",
                       "dataset",
@@ -4935,7 +4935,7 @@
                     "open_issues": 3,
                     "owner": "cvg",
                     "repo": "lamaria",
-                    "stars": 178,
+                    "stars": 179,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4977,7 +4977,7 @@
                     "open_issues": 5,
                     "owner": "ekazakos",
                     "repo": "temporal-binding-network",
-                    "stars": 112,
+                    "stars": 113,
                     "topics": [
                       "action-recognition",
                       "audio-visual",
@@ -6440,7 +6440,7 @@
                 "open_issues": 3,
                 "owner": "snuvclab",
                 "repo": "ParaHome",
-                "stars": 253,
+                "stars": 252,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6461,7 +6461,7 @@
                 "open_issues": 3,
                 "owner": "cvg",
                 "repo": "lamaria",
-                "stars": 178,
+                "stars": 179,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6650,7 +6650,7 @@
                 "open_issues": 1,
                 "owner": "iSEE-Laboratory",
                 "repo": "EgoExo-Fitness",
-                "stars": 39,
+                "stars": 40,
                 "topics": [
                   "action-understanding",
                   "dataset",
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T20:37:31.476Z",
+    "last_updated": "2026-10-24T19:44:53.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
