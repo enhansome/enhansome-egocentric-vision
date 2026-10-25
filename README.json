@@ -1286,7 +1286,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 521,
+                    "stars": 522,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -2824,7 +2824,7 @@
                     "open_issues": 2,
                     "owner": "showlab",
                     "repo": "Exo2Ego-V",
-                    "stars": 61,
+                    "stars": 62,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2880,7 +2880,7 @@
                     "open_issues": 3,
                     "owner": "cvg",
                     "repo": "lamaria",
-                    "stars": 179,
+                    "stars": 180,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3163,7 +3163,7 @@
                     "open_issues": 3,
                     "owner": "ChanganVR",
                     "repo": "action2sound",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3341,7 +3341,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 521,
+                    "stars": 522,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -4718,27 +4718,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "EgoBody3M: Egocentric Body Tracking on a VR Headset using a Diverse Dataset",
-                  "description": "Amy Zhao, Chengcheng Tang, Lezi Wang, Yijing Li, Mihika Dave, Lingling Tao, Christopher D. Twigg, and Robert Y. Wang. In ECCV 2024. [dataset]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "EgoBody3M Egocentric Body Tracking on a VR Headset using a Diverse Dataset",
-                    "homepage": null,
-                    "id": 832751811,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2024-10-01T07:54:35Z",
-                    "open_issues": 0,
-                    "owner": "facebookresearch",
-                    "repo": "EgoBody3M",
-                    "stars": 26,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:08:37.430Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Action2Sound: Ambient-Aware Generation of Action Sounds from Egocentric Videos",
                   "description": "Changan Chen, Puyuan Peng, Ami Baid, Zihui Xue, Wei-Ning Hsu, David Harwath, and Kristen Grauman. In ECCV 2024. [project page] [code]",
                   "children": [],
@@ -4753,6 +4732,27 @@
                     "open_issues": 3,
                     "owner": "ChanganVR",
                     "repo": "action2sound",
+                    "stars": 27,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:08:37.430Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "EgoBody3M: Egocentric Body Tracking on a VR Headset using a Diverse Dataset",
+                  "description": "Amy Zhao, Chengcheng Tang, Lezi Wang, Yijing Li, Mihika Dave, Lingling Tao, Christopher D. Twigg, and Robert Y. Wang. In ECCV 2024. [dataset]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "EgoBody3M Egocentric Body Tracking on a VR Headset using a Diverse Dataset",
+                    "homepage": null,
+                    "id": 832751811,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2024-10-01T07:54:35Z",
+                    "open_issues": 0,
+                    "owner": "facebookresearch",
+                    "repo": "EgoBody3M",
                     "stars": 26,
                     "topics": []
                   },
@@ -4935,7 +4935,7 @@
                     "open_issues": 3,
                     "owner": "cvg",
                     "repo": "lamaria",
-                    "stars": 179,
+                    "stars": 180,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5863,7 +5863,7 @@
                     "open_issues": 2,
                     "owner": "showlab",
                     "repo": "Exo2Ego-V",
-                    "stars": 61,
+                    "stars": 62,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6461,7 +6461,7 @@
                 "open_issues": 3,
                 "owner": "cvg",
                 "repo": "lamaria",
-                "stars": 179,
+                "stars": 180,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T19:44:53.897Z",
+    "last_updated": "2026-10-25T19:55:33.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
@@ -6896,7 +6896,7 @@
       "open_issues": 4,
       "owner": "Sid2697",
       "repo": "awesome-egocentric-vision",
-      "stars": 350,
+      "stars": 351,
       "topics": [
         "activity-recognition",
         "awesome",
