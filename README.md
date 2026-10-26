@@ -479,7 +479,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 <details>
 <summary>Show papers (22)</summary>
 
-* [ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation](https://arctic.is.tue.mpg.de) - Zicong Fan, Omid Taheri, Dimitrios Tzionas, Muhammed Kocabas, Manuel Kaufmann, Michael J. Black, Otmar Hilliges. In CVPR 2023. [\[code\]](https://github.com/zc-alexfan/arctic) ⭐ 522 | 🐛 1 | 🌐 Python | 📅 2026-03-04
+* [ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation](https://arctic.is.tue.mpg.de) - Zicong Fan, Omid Taheri, Dimitrios Tzionas, Muhammed Kocabas, Manuel Kaufmann, Michael J. Black, Otmar Hilliges. In CVPR 2023. [\[code\]](https://github.com/zc-alexfan/arctic) ⭐ 524 | 🐛 1 | 🌐 Python | 📅 2026-03-04
 
 * [ParaHome: Parameterizing Everyday Home Activities Towards 3D Generative Modeling of Human-Object Interactions](https://arxiv.org/abs/2401.10232) - Jeonghwan Kim, Jisoo Kim, Jeonghyeon Na, and Hanbyul Joo. In CVPR 2025. [\[code\]](https://github.com/canoneod/ParaHome) ⭐ 252 | 🐛 3 | 🌐 Python | 📅 2025-12-24
 
@@ -607,7 +607,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * [HiERO: Understanding the Hierarchy of Human Behavior Enhances Reasoning on Egocentric Videos](https://arxiv.org/abs/2505.12911) - Simone Alberto Peirone, Francesca Pistilli, and Giuseppe Averta. In ICCV 2025. [\[project page\]](https://sapeirone.github.io/HiERO/) [\[code\]](https://github.com/sapeirone/HiERO) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2026-05-22
 
-* [IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants](https://arxiv.org/abs/2511.19684) - Vivek Chavan, Yasmina Imgrund, Tung Dao, Sanwantri Bai, Bosong Wang, Ze Lu, Oliver Heimann, and Jörg Krüger. In NeurIPS 2025. [\[project page\]](https://indego-dataset.github.io/) [\[code\]](https://github.com/Vivek9Chavan/IndEgo/) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2026-03-02 [\[dataset\]](https://huggingface.co/datasets/FraunhoferIPK/IndEgo)
+* [IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants](https://arxiv.org/abs/2511.19684) - Vivek Chavan, Yasmina Imgrund, Tung Dao, Sanwantri Bai, Bosong Wang, Ze Lu, Oliver Heimann, and Jörg Krüger. In NeurIPS 2025. [\[project page\]](https://indego-dataset.github.io/) [\[code\]](https://github.com/Vivek9Chavan/IndEgo/) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2026-03-02 [\[dataset\]](https://huggingface.co/datasets/FraunhoferIPK/IndEgo)
 
 * [Egocentric Procedure Parsing](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6402.pdf) - Anubhav Anubhav, Archit Kambhamettu, Vatsal Agarwal, Pulkit Kumar, and Abhinav Shrivastava. In ECCV 2026.
 
@@ -891,7 +891,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * [egoPPG: Heart Rate Estimation from Eye-Tracking Cameras in Egocentric Systems to Benefit Downstream Vision Tasks](https://arxiv.org/abs/2502.20879) - Björn Braun, Rayan Armani, Manuel Meier, Max Moebus, and Christian Holz. In ICCV 2025. [\[project page\]](https://siplab.org/projects/egoPPG) [\[code\]](https://github.com/eth-siplab/egoPPG) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-03-20
 
-* [Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition](https://arxiv.org/abs/2407.06628) - Mingfang Zhang, Yifei Huang, Ruicong Liu, and Yoichi Sato. In ECCV 2024. [\[code\]](https://github.com/mf-zhang/IMU-Video-MAE) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2024-11-26
+* [Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition](https://arxiv.org/abs/2407.06628) - Mingfang Zhang, Yifei Huang, Ruicong Liu, and Yoichi Sato. In ECCV 2024. [\[code\]](https://github.com/mf-zhang/IMU-Video-MAE) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-11-26
 
 * [EGO-SLAM: A Robust Monocular SLAM for Egocentric Videos](https://www.cse.iitd.ac.in/~chetan/papers/wacv19-egoslam.pdf) - Suvam Patra, Kartikeya Gupta, Faran Ahmad, Chetan Arora, and Subhashis Banerjee. In WACV 2019. [\[code\]](https://github.com/IITD-COMPUTER-VISION-GROUP/ego-slam) ⭐ 11 | 🐛 0 | 🌐 C++ | 📅 2019-06-10
 
@@ -974,7 +974,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * \[Learning Video Representations from Large Language Models]\(<https://arxiv.org/pdf/2212.04501.pdf>; <https://facebookresearch.github.io/LaViLa>) - Yue Zhao, Ishan Misra, Philipp Krähenbühl, Rohit Girdhar. In CVPR 2023. [\[project page\]](https://facebookresearch.github.io/LaViLa/) [\[code\]](https://github.com/facebookresearch/LaViLa) ⚠️ Archived [\[demo\]](https://huggingface.co/spaces/nateraw/lavila)
 
-* [ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation](https://arctic.is.tue.mpg.de) - Zicong Fan, Omid Taheri, Dimitrios Tzionas, Muhammed Kocabas, Manuel Kaufmann, Michael J. Black, Otmar Hilliges. In CVPR 2023. [\[code\]](https://github.com/zc-alexfan/arctic) ⭐ 522 | 🐛 1 | 🌐 Python | 📅 2026-03-04
+* [ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation](https://arctic.is.tue.mpg.de) - Zicong Fan, Omid Taheri, Dimitrios Tzionas, Muhammed Kocabas, Manuel Kaufmann, Michael J. Black, Otmar Hilliges. In CVPR 2023. [\[code\]](https://github.com/zc-alexfan/arctic) ⭐ 524 | 🐛 1 | 🌐 Python | 📅 2026-03-04
 
 * [EgoLife: Towards Egocentric Life Assistant](https://arxiv.org/abs/2503.03803) - Jingkang Yang, Shuai Liu, Hongming Guo, et al. In CVPR 2025. [\[code\]](https://github.com/EvolvingLMMs-Lab/EgoLife) ⭐ 471 | 🐛 13 | 🌐 Python | 📅 2025-03-19
 
@@ -1301,7 +1301,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * [Are Synthetic Data Useful for Egocentric Hand-Object Interaction Detection?](https://arxiv.org/abs/2312.02672) - Rosario Leonardi, Antonino Furnari, Francesco Ragusa, and Giovanni Maria Farinella. In ECCV 2024. [\[project page\]](https://fpv-iplab.github.io/HOI-Synth/) [\[code\]](https://github.com/fpv-iplab/HOI-Synth) ⭐ 17 | 🐛 1 | 📅 2026-09-28
 
-* [Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition](https://arxiv.org/abs/2407.06628) - Mingfang Zhang, Yifei Huang, Ruicong Liu, and Yoichi Sato. In ECCV 2024. [\[code\]](https://github.com/mf-zhang/IMU-Video-MAE) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2024-11-26
+* [Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition](https://arxiv.org/abs/2407.06628) - Mingfang Zhang, Yifei Huang, Ruicong Liu, and Yoichi Sato. In ECCV 2024. [\[code\]](https://github.com/mf-zhang/IMU-Video-MAE) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-11-26
 
 * [EgoTraj: Real-World Egocentric Human Trajectory](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/14919.pdf) - Ahmad Yehia, Abduallah Mohamed, Tianyi Wang, Kun Qian, Jiseop Byeon, Junfeng Jiao, and Christian Claudel. In ECCV 2026. [\[project page\]](https://github.com/yehiahmad/EgoTraj) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2026-10-16
 
@@ -1675,7 +1675,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * [Gaze-VLM: Bridging Gaze and VLMs through Attention Regularization for Egocentric Understanding](https://arxiv.org/abs/2510.21356) - Anupam Pani and Yanchao Yang. In NeurIPS 2025. [\[code\]](https://github.com/anupampani/Gaze-VLM) ⭐ 11 | 🐛 2 | 🌐 Python | 📅 2026-01-19
 
-* [IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants](https://arxiv.org/abs/2511.19684) - Vivek Chavan, Yasmina Imgrund, Tung Dao, Sanwantri Bai, Bosong Wang, Ze Lu, Oliver Heimann, and Jörg Krüger. In NeurIPS 2025. [\[project page\]](https://indego-dataset.github.io/) [\[code\]](https://github.com/Vivek9Chavan/IndEgo/) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2026-03-02 [\[dataset\]](https://huggingface.co/datasets/FraunhoferIPK/IndEgo)
+* [IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants](https://arxiv.org/abs/2511.19684) - Vivek Chavan, Yasmina Imgrund, Tung Dao, Sanwantri Bai, Bosong Wang, Ze Lu, Oliver Heimann, and Jörg Krüger. In NeurIPS 2025. [\[project page\]](https://indego-dataset.github.io/) [\[code\]](https://github.com/Vivek9Chavan/IndEgo/) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2026-03-02 [\[dataset\]](https://huggingface.co/datasets/FraunhoferIPK/IndEgo)
 
 * [MEgoHand: Multimodal Egocentric Hand-Object Interaction Motion Generation](https://arxiv.org/abs/2505.16602) - Bohan Zhou, Yi Zhan, Zhongbin Zhang, and Zongqing Lu. In NeurIPS 2025. [\[project page\]](https://beingbeyond.github.io/MEgoHand/) [\[code\]](https://github.com/BeingBeyond/MEgoHand) ⭐ 8 | 🐛 1 | 📅 2025-05-26
 
@@ -1870,4 +1870,4 @@ This is a work in progress. Contributions welcome! Read the [contribution guidel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._

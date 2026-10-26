@@ -1286,7 +1286,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 522,
+                    "stars": 524,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -1777,7 +1777,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-03-02T19:18:13Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "Vivek9Chavan",
                     "repo": "IndEgo",
                     "stars": 10,
@@ -3222,7 +3222,7 @@
                     "open_issues": 0,
                     "owner": "mf-zhang",
                     "repo": "IMU-Video-MAE",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3341,7 +3341,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 522,
+                    "stars": 524,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -4816,7 +4816,7 @@
                     "open_issues": 0,
                     "owner": "mf-zhang",
                     "repo": "IMU-Video-MAE",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6189,7 +6189,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-03-02T19:18:13Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "Vivek9Chavan",
                     "repo": "IndEgo",
                     "stars": 10,
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:55:33.763Z",
+    "last_updated": "2026-10-26T21:50:18.840Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
