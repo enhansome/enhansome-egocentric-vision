@@ -503,6 +503,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "EgoXtreme: A Dataset for Robust Object Pose Estimation in Egocentric Views under Extreme Conditions",
+                  "description": "Taegyoon Yoon, Yegyu Han, Seojin Ji, Jaewoo Park, Sojeong Kim, Taein Kwon, and Hyung-Sin Kim. In CVPR 2026. [project page] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1114866267,
+                    "language": "HTML",
+                    "license": "MIT",
+                    "last_commit": "2026-06-16T02:08:53Z",
+                    "open_issues": 1,
+                    "owner": "taegyoun88",
+                    "repo": "EgoXtreme",
+                    "stars": 12,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:08:37.430Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Is Tracking Really More Challenging in First Person Egocentric Vision?",
                   "description": "Matteo Dunnhofer, Zaira Manigrasso, and Christian Micheloni. In ICCV 2025. [project page] [code]",
                   "children": [],
@@ -532,27 +553,6 @@
                       "visual-tracking",
                       "vot2021"
                     ]
-                  },
-                  "first_seen": "2026-08-29T01:08:37.430Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "EgoXtreme: A Dataset for Robust Object Pose Estimation in Egocentric Views under Extreme Conditions",
-                  "description": "Taegyoon Yoon, Yegyu Han, Seojin Ji, Jaewoo Park, Sojeong Kim, Taein Kwon, and Hyung-Sin Kim. In CVPR 2026. [project page] [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 1114866267,
-                    "language": "HTML",
-                    "license": "MIT",
-                    "last_commit": "2026-06-16T02:08:53Z",
-                    "open_issues": 1,
-                    "owner": "taegyoun88",
-                    "repo": "EgoXtreme",
-                    "stars": 11,
-                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
                 }
@@ -975,7 +975,7 @@
                     "open_issues": 3,
                     "owner": "chaitanya100100",
                     "repo": "UniEgoMotion",
-                    "stars": 68,
+                    "stars": 69,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -993,7 +993,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-09-15T01:07:54Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "jianwang-mpi",
                     "repo": "egowholemocap",
                     "stars": 56,
@@ -1286,7 +1286,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 524,
+                    "stars": 523,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -1325,7 +1325,7 @@
                     "open_issues": 3,
                     "owner": "snuvclab",
                     "repo": "ParaHome",
-                    "stars": 252,
+                    "stars": 253,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1367,7 +1367,7 @@
                     "open_issues": 2,
                     "owner": "Tao-11-chen",
                     "repo": "ForeHOI",
-                    "stars": 103,
+                    "stars": 104,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1575,7 +1575,7 @@
                     "open_issues": 0,
                     "owner": "amathislab",
                     "repo": "EPFL-Smart-Kitchen",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": [
                       "behavior",
                       "kitchen",
@@ -2713,7 +2713,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 762,
+                    "stars": 764,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2936,7 +2936,7 @@
                     "open_issues": 10,
                     "owner": "google-research-datasets",
                     "repo": "sanpo_dataset",
-                    "stars": 62,
+                    "stars": 64,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3299,7 +3299,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 762,
+                    "stars": 764,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3341,7 +3341,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 524,
+                    "stars": 523,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -3432,7 +3432,7 @@
                     "open_issues": 3,
                     "owner": "snuvclab",
                     "repo": "ParaHome",
-                    "stars": 252,
+                    "stars": 253,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3497,7 +3497,7 @@
                     "open_issues": 2,
                     "owner": "Tao-11-chen",
                     "repo": "ForeHOI",
-                    "stars": 103,
+                    "stars": 104,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3667,7 +3667,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-09-15T01:07:54Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "jianwang-mpi",
                     "repo": "egowholemocap",
                     "stars": 56,
@@ -4283,7 +4283,7 @@
                     "open_issues": 1,
                     "owner": "taegyoun88",
                     "repo": "EgoXtreme",
-                    "stars": 11,
+                    "stars": 12,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5126,7 +5126,7 @@
                     "open_issues": 3,
                     "owner": "chaitanya100100",
                     "repo": "UniEgoMotion",
-                    "stars": 68,
+                    "stars": 69,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5501,7 +5501,7 @@
                     "open_issues": 10,
                     "owner": "google-research-datasets",
                     "repo": "sanpo_dataset",
-                    "stars": 62,
+                    "stars": 64,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5926,7 +5926,7 @@
                     "open_issues": 0,
                     "owner": "amathislab",
                     "repo": "EPFL-Smart-Kitchen",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": [
                       "behavior",
                       "kitchen",
@@ -6340,7 +6340,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 402,
+                "stars": 404,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6361,7 +6361,7 @@
                 "open_issues": 0,
                 "owner": "amathislab",
                 "repo": "EPFL-Smart-Kitchen",
-                "stars": 33,
+                "stars": 34,
                 "topics": [
                   "behavior",
                   "kitchen",
@@ -6419,7 +6419,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 402,
+                "stars": 404,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6440,7 +6440,7 @@
                 "open_issues": 3,
                 "owner": "snuvclab",
                 "repo": "ParaHome",
-                "stars": 252,
+                "stars": 253,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6696,7 +6696,7 @@
                 "open_issues": 0,
                 "owner": "amathislab",
                 "repo": "EPFL-Smart-Kitchen",
-                "stars": 33,
+                "stars": 34,
                 "topics": [
                   "behavior",
                   "kitchen",
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T21:50:18.840Z",
+    "last_updated": "2026-10-27T21:27:50.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
