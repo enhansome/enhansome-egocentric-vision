@@ -1702,7 +1702,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-01T07:17:11Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "fpv-iplab",
                     "repo": "Differentiable-Task-Graph-Learning",
                     "stars": 25,
@@ -2354,7 +2354,7 @@
                     "open_issues": 0,
                     "owner": "facebookresearch",
                     "repo": "EgoAVU",
-                    "stars": 35,
+                    "stars": 36,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3883,6 +3883,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "EgoAVU: Egocentric Audio-Visual Understanding",
+                  "description": "Ashish Seth, Xinhao Mei, Changsheng Zhao, Varun Nagaraja, Ernie Chang, Gregory P. Meyer, Gael Le Lan, Yunyang Xiong, Vikas Chandra, Yangyang Shi, Dinesh Manocha, and Zhipeng Cai. In CVPR 2026. [project page] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR 2026 highlight] Official release of EgoAVU Egocentric Audio-Visual Understanding",
+                    "homepage": null,
+                    "id": 1104804927,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-06-08T16:49:25Z",
+                    "open_issues": 0,
+                    "owner": "facebookresearch",
+                    "repo": "EgoAVU",
+                    "stars": 36,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:08:37.430Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Generalizing Hand Segmentation in Egocentric Videos with Uncertainty-Guided Model Adaptation",
                   "description": "Minjie Cai, Feng Lu, and Yoichi Sato. In CVPR 2020. [code]",
                   "children": [],
@@ -3919,27 +3940,6 @@
                     "owner": "lmb-freiburg",
                     "repo": "FLN-EPN-RPN",
                     "stars": 36,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:08:37.430Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "EgoAVU: Egocentric Audio-Visual Understanding",
-                  "description": "Ashish Seth, Xinhao Mei, Changsheng Zhao, Varun Nagaraja, Ernie Chang, Gregory P. Meyer, Gael Le Lan, Yunyang Xiong, Vikas Chandra, Yangyang Shi, Dinesh Manocha, and Zhipeng Cai. In CVPR 2026. [project page] [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[CVPR 2026 highlight] Official release of EgoAVU Egocentric Audio-Visual Understanding",
-                    "homepage": null,
-                    "id": 1104804927,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-06-08T16:49:25Z",
-                    "open_issues": 0,
-                    "owner": "facebookresearch",
-                    "repo": "EgoAVU",
-                    "stars": 35,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6047,7 +6047,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-01T07:17:11Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "fpv-iplab",
                     "repo": "Differentiable-Task-Graph-Learning",
                     "stars": 25,
@@ -6675,7 +6675,7 @@
                 "open_issues": 0,
                 "owner": "facebookresearch",
                 "repo": "EgoAVU",
-                "stars": 35,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T21:27:50.435Z",
+    "last_updated": "2026-10-28T21:53:10.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
