@@ -113,7 +113,7 @@
                     "open_issues": 0,
                     "owner": "JacobChalk",
                     "repo": "TIM",
-                    "stars": 54,
+                    "stars": 53,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -131,7 +131,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2024-09-09T14:23:43Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "Yuhan-Shen",
                     "repo": "ProTAS",
                     "stars": 41,
@@ -975,7 +975,7 @@
                     "open_issues": 3,
                     "owner": "chaitanya100100",
                     "repo": "UniEgoMotion",
-                    "stars": 68,
+                    "stars": 69,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2085,7 +2085,7 @@
                     "open_issues": 13,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "EgoLife",
-                    "stars": 471,
+                    "stars": 472,
                     "topics": [
                       "egocentric-vision",
                       "omnimodal",
@@ -2171,7 +2171,7 @@
                     "open_issues": 5,
                     "owner": "egoschema",
                     "repo": "EgoSchema",
-                    "stars": 122,
+                    "stars": 123,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2759,7 +2759,7 @@
                     "open_issues": 4,
                     "owner": "snap-research",
                     "repo": "EgoEdit",
-                    "stars": 158,
+                    "stars": 159,
                     "topics": [
                       "video-editing"
                     ]
@@ -3380,7 +3380,7 @@
                     "open_issues": 13,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "EgoLife",
-                    "stars": 471,
+                    "stars": 472,
                     "topics": [
                       "egocentric-vision",
                       "omnimodal",
@@ -3453,7 +3453,7 @@
                     "open_issues": 4,
                     "owner": "snap-research",
                     "repo": "EgoEdit",
-                    "stars": 158,
+                    "stars": 159,
                     "topics": [
                       "video-editing"
                     ]
@@ -3691,7 +3691,7 @@
                     "open_issues": 0,
                     "owner": "JacobChalk",
                     "repo": "TIM",
-                    "stars": 54,
+                    "stars": 53,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3852,7 +3852,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2024-09-09T14:23:43Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "Yuhan-Shen",
                     "repo": "ProTAS",
                     "stars": 41,
@@ -5126,7 +5126,7 @@
                     "open_issues": 3,
                     "owner": "chaitanya100100",
                     "repo": "UniEgoMotion",
-                    "stars": 68,
+                    "stars": 69,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5842,7 +5842,7 @@
                     "open_issues": 5,
                     "owner": "egoschema",
                     "repo": "EgoSchema",
-                    "stars": 122,
+                    "stars": 123,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6315,7 +6315,7 @@
                 "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 471,
+                "stars": 472,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6394,7 +6394,7 @@
                 "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 471,
+                "stars": 472,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6482,7 +6482,7 @@
                 "open_issues": 5,
                 "owner": "egoschema",
                 "repo": "EgoSchema",
-                "stars": 122,
+                "stars": 123,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:59:18.671Z",
+    "last_updated": "2026-10-30T21:40:53.530Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
