@@ -2936,7 +2936,7 @@
                     "open_issues": 10,
                     "owner": "google-research-datasets",
                     "repo": "sanpo_dataset",
-                    "stars": 64,
+                    "stars": 65,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5501,7 +5501,7 @@
                     "open_issues": 10,
                     "owner": "google-research-datasets",
                     "repo": "sanpo_dataset",
-                    "stars": 64,
+                    "stars": 65,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T20:39:33.280Z",
+    "last_updated": "2026-11-01T21:22:10.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
