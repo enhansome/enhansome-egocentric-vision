@@ -1286,7 +1286,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 525,
+                    "stars": 526,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -1388,7 +1388,7 @@
                     "open_issues": 0,
                     "owner": "Biscue5",
                     "repo": "EgoScaler",
-                    "stars": 50,
+                    "stars": 51,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1858,7 +1858,7 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-05-06T13:36:34Z",
-                    "open_issues": 1,
+                    "open_issues": 0,
                     "owner": "ardamamur",
                     "repo": "EgoExOR",
                     "stars": 33,
@@ -2936,7 +2936,7 @@
                     "open_issues": 10,
                     "owner": "google-research-datasets",
                     "repo": "sanpo_dataset",
-                    "stars": 65,
+                    "stars": 64,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3341,7 +3341,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 525,
+                    "stars": 526,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -3725,6 +3725,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision",
+                  "description": "Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, and Shinsuke Mori. In CVPR 2025. [project page] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR 2025 highlight] Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision",
+                    "homepage": "https://biscue5.github.io/egoscaler-project-page/",
+                    "id": 991095347,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-12-02T16:06:34Z",
+                    "open_issues": 0,
+                    "owner": "Biscue5",
+                    "repo": "EgoScaler",
+                    "stars": 51,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:08:37.430Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Balanced Spherical Grid for Egocentric View Synthesis",
                   "description": "Changwoon Choi · Sang Min Kim · Young Min Kim. In CVPR 2023. [code]",
                   "children": [],
@@ -3766,27 +3787,6 @@
                     "owner": "facebookresearch",
                     "repo": "you2me",
                     "stars": 51,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:08:37.430Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision",
-                  "description": "Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, and Shinsuke Mori. In CVPR 2025. [project page] [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[CVPR 2025 highlight] Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision",
-                    "homepage": "https://biscue5.github.io/egoscaler-project-page/",
-                    "id": 991095347,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-12-02T16:06:34Z",
-                    "open_issues": 0,
-                    "owner": "Biscue5",
-                    "repo": "EgoScaler",
-                    "stars": 50,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5501,7 +5501,7 @@
                     "open_issues": 10,
                     "owner": "google-research-datasets",
                     "repo": "sanpo_dataset",
-                    "stars": 65,
+                    "stars": 64,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5949,7 +5949,7 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-05-06T13:36:34Z",
-                    "open_issues": 1,
+                    "open_issues": 0,
                     "owner": "ardamamur",
                     "repo": "EgoExOR",
                     "stars": 33,
@@ -6340,7 +6340,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 405,
+                "stars": 406,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6419,7 +6419,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 405,
+                "stars": 406,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6719,7 +6719,7 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-06T13:36:34Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "ardamamur",
                 "repo": "EgoExOR",
                 "stars": 33,
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T21:22:10.461Z",
+    "last_updated": "2026-11-03T00:01:42.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
