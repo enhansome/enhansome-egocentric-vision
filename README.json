@@ -1061,7 +1061,7 @@
                     "id": 1283976546,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-06T11:52:08Z",
+                    "last_commit": "2026-11-06T09:08:13Z",
                     "open_issues": 1,
                     "owner": "Sid2697",
                     "repo": "HOPformer",
@@ -1780,7 +1780,7 @@
                     "open_issues": 2,
                     "owner": "Vivek9Chavan",
                     "repo": "IndEgo",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2004,7 +2004,7 @@
                     "id": 940322851,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2025-06-10T12:06:56Z",
+                    "last_commit": "2026-11-06T14:46:22Z",
                     "open_issues": 0,
                     "owner": "shhuangcoder",
                     "repo": "SoundBridge",
@@ -2713,7 +2713,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 766,
+                    "stars": 767,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2734,7 +2734,7 @@
                     "open_issues": 3,
                     "owner": "yuanpengtu",
                     "repo": "PlayerOne",
-                    "stars": 195,
+                    "stars": 194,
                     "topics": [
                       "humanmotion",
                       "image-to-video-generation",
@@ -3299,7 +3299,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 766,
+                    "stars": 767,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4411,7 +4411,7 @@
                     "id": 940322851,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2025-06-10T12:06:56Z",
+                    "last_commit": "2026-11-06T14:46:22Z",
                     "open_issues": 0,
                     "owner": "shhuangcoder",
                     "repo": "SoundBridge",
@@ -4559,7 +4559,7 @@
                     "id": 1283976546,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-06T11:52:08Z",
+                    "last_commit": "2026-11-06T09:08:13Z",
                     "open_issues": 1,
                     "owner": "Sid2697",
                     "repo": "HOPformer",
@@ -5756,7 +5756,7 @@
                     "open_issues": 3,
                     "owner": "yuanpengtu",
                     "repo": "PlayerOne",
-                    "stars": 195,
+                    "stars": 194,
                     "topics": [
                       "humanmotion",
                       "image-to-video-generation",
@@ -6192,7 +6192,7 @@
                     "open_issues": 2,
                     "owner": "Vivek9Chavan",
                     "repo": "IndEgo",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6589,7 +6589,7 @@
                 "id": 1283976546,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T11:52:08Z",
+                "last_commit": "2026-11-06T09:08:13Z",
                 "open_issues": 1,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:49:26.860Z",
+    "last_updated": "2026-11-06T22:21:28.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
