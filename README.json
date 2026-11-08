@@ -1636,7 +1636,7 @@
                     "open_issues": 3,
                     "owner": "robert80203",
                     "repo": "EgoPER_official",
-                    "stars": 44,
+                    "stars": 45,
                     "topics": [
                       "action-segmentation",
                       "computer-vision",
@@ -2713,7 +2713,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 767,
+                    "stars": 768,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2824,7 +2824,7 @@
                     "open_issues": 2,
                     "owner": "showlab",
                     "repo": "Exo2Ego-V",
-                    "stars": 62,
+                    "stars": 63,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3299,7 +3299,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 767,
+                    "stars": 768,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3807,7 +3807,7 @@
                     "open_issues": 3,
                     "owner": "robert80203",
                     "repo": "EgoPER_official",
-                    "stars": 44,
+                    "stars": 45,
                     "topics": [
                       "action-segmentation",
                       "computer-vision",
@@ -5863,7 +5863,7 @@
                     "open_issues": 2,
                     "owner": "showlab",
                     "repo": "Exo2Ego-V",
-                    "stars": 62,
+                    "stars": 63,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6340,7 +6340,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 407,
+                "stars": 408,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6419,7 +6419,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 407,
+                "stars": 408,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6623,7 +6623,7 @@
                 "open_issues": 3,
                 "owner": "robert80203",
                 "repo": "EgoPER_official",
-                "stars": 44,
+                "stars": 45,
                 "topics": [
                   "action-segmentation",
                   "computer-vision",
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T21:04:04.104Z",
+    "last_updated": "2026-11-08T21:20:49.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
