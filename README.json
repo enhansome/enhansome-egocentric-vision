@@ -514,7 +514,7 @@
                     "language": "HTML",
                     "license": "MIT",
                     "last_commit": "2026-06-16T02:08:53Z",
-                    "open_issues": 1,
+                    "open_issues": 0,
                     "owner": "taegyoun88",
                     "repo": "EgoXtreme",
                     "stars": 12,
@@ -1924,7 +1924,7 @@
                     "open_issues": 1,
                     "owner": "jack1ee",
                     "repo": "SAVAX",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2085,7 +2085,7 @@
                     "open_issues": 13,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "EgoLife",
-                    "stars": 474,
+                    "stars": 475,
                     "topics": [
                       "egocentric-vision",
                       "omnimodal",
@@ -3380,7 +3380,7 @@
                     "open_issues": 13,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "EgoLife",
-                    "stars": 474,
+                    "stars": 475,
                     "topics": [
                       "egocentric-vision",
                       "omnimodal",
@@ -4202,6 +4202,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "SAVA-X: Ego-to-Exo Imitation Error Detection via Scene-Adaptive View Alignment and Bidirectional Cross View Fusion",
+                  "description": "Xiang Li, Heqian Qiu, Lanxiao Wang, Benliu Qiu, Fanman Meng, Linfeng Xu, and Hongliang Li. In CVPR 2026. [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Code for [CVPR 2026] SAVA-X: Ego-to-Exo Imitation Error Detection via Scene-Adaptive View Alignment and Bidirectional Cross-View Fusion",
+                    "homepage": null,
+                    "id": 1174264128,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-04-19T13:32:00Z",
+                    "open_issues": 1,
+                    "owner": "jack1ee",
+                    "repo": "SAVAX",
+                    "stars": 14,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:08:37.430Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Attention-Propagation Network for Egocentric Heatmap to 3D Pose Lifting",
                   "description": "Taeho Kang and Youngki Lee. In CVPR 2024. [code]",
                   "children": [],
@@ -4248,27 +4269,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "SAVA-X: Ego-to-Exo Imitation Error Detection via Scene-Adaptive View Alignment and Bidirectional Cross View Fusion",
-                  "description": "Xiang Li, Heqian Qiu, Lanxiao Wang, Benliu Qiu, Fanman Meng, Linfeng Xu, and Hongliang Li. In CVPR 2026. [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Code for [CVPR 2026] SAVA-X: Ego-to-Exo Imitation Error Detection via Scene-Adaptive View Alignment and Bidirectional Cross-View Fusion",
-                    "homepage": null,
-                    "id": 1174264128,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-04-19T13:32:00Z",
-                    "open_issues": 1,
-                    "owner": "jack1ee",
-                    "repo": "SAVAX",
-                    "stars": 13,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:08:37.430Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "EgoXtreme: A Dataset for Robust Object Pose Estimation in Egocentric Views under Extreme Conditions",
                   "description": "Taegyoon Yoon, Yegyu Han, Seojin Ji, Jaewoo Park, Sojeong Kim, Taein Kwon, and Hyung-Sin Kim. In CVPR 2026. [project page] [code]",
                   "children": [],
@@ -4280,7 +4280,7 @@
                     "language": "HTML",
                     "license": "MIT",
                     "last_commit": "2026-06-16T02:08:53Z",
-                    "open_issues": 1,
+                    "open_issues": 0,
                     "owner": "taegyoun88",
                     "repo": "EgoXtreme",
                     "stars": 12,
@@ -6315,7 +6315,7 @@
                 "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 474,
+                "stars": 475,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6340,7 +6340,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 408,
+                "stars": 410,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6394,7 +6394,7 @@
                 "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 474,
+                "stars": 475,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6419,7 +6419,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 408,
+                "stars": 410,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T21:20:49.701Z",
+    "last_updated": "2026-11-10T00:50:30.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
