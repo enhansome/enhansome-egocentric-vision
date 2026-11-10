@@ -1286,7 +1286,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 531,
+                    "stars": 532,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -1388,7 +1388,7 @@
                     "open_issues": 0,
                     "owner": "Biscue5",
                     "repo": "EgoScaler",
-                    "stars": 52,
+                    "stars": 53,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2880,7 +2880,7 @@
                     "open_issues": 3,
                     "owner": "cvg",
                     "repo": "lamaria",
-                    "stars": 182,
+                    "stars": 183,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3341,7 +3341,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 531,
+                    "stars": 532,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -3698,6 +3698,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision",
+                  "description": "Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, and Shinsuke Mori. In CVPR 2025. [project page] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR 2025 highlight] Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision",
+                    "homepage": "https://biscue5.github.io/egoscaler-project-page/",
+                    "id": 991095347,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-12-02T16:06:34Z",
+                    "open_issues": 0,
+                    "owner": "Biscue5",
+                    "repo": "EgoScaler",
+                    "stars": 53,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:08:37.430Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "EgoTextVQA: Towards Egocentric Scene-Text Aware Video Question Answering",
                   "description": "Sheng Zhou, Junbin Xiao, Qingyun Li, Yicong Li, Xun Yang, Dan Guo, Meng Wang, Tat-Seng Chua, and Angela Yao. In CVPR 2025. [code]",
                   "children": [],
@@ -3720,27 +3741,6 @@
                       "scene-text-vqa",
                       "videoqa"
                     ]
-                  },
-                  "first_seen": "2026-08-29T01:08:37.430Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision",
-                  "description": "Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, and Shinsuke Mori. In CVPR 2025. [project page] [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[CVPR 2025 highlight] Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision",
-                    "homepage": "https://biscue5.github.io/egoscaler-project-page/",
-                    "id": 991095347,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-12-02T16:06:34Z",
-                    "open_issues": 0,
-                    "owner": "Biscue5",
-                    "repo": "EgoScaler",
-                    "stars": 52,
-                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
                 },
@@ -4935,7 +4935,7 @@
                     "open_issues": 3,
                     "owner": "cvg",
                     "repo": "lamaria",
-                    "stars": 182,
+                    "stars": 183,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6461,7 +6461,7 @@
                 "open_issues": 3,
                 "owner": "cvg",
                 "repo": "lamaria",
-                "stars": 182,
+                "stars": 183,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:50:30.928Z",
+    "last_updated": "2026-11-10T22:30:18.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",

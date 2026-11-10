@@ -479,7 +479,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 <details>
 <summary>Show papers (22)</summary>
 
-* [ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation](https://arctic.is.tue.mpg.de) - Zicong Fan, Omid Taheri, Dimitrios Tzionas, Muhammed Kocabas, Manuel Kaufmann, Michael J. Black, Otmar Hilliges. In CVPR 2023. [\[code\]](https://github.com/zc-alexfan/arctic) ⭐ 531 | 🐛 1 | 🌐 Python | 📅 2026-03-04
+* [ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation](https://arctic.is.tue.mpg.de) - Zicong Fan, Omid Taheri, Dimitrios Tzionas, Muhammed Kocabas, Manuel Kaufmann, Michael J. Black, Otmar Hilliges. In CVPR 2023. [\[code\]](https://github.com/zc-alexfan/arctic) ⭐ 532 | 🐛 1 | 🌐 Python | 📅 2026-03-04
 
 * [ParaHome: Parameterizing Everyday Home Activities Towards 3D Generative Modeling of Human-Object Interactions](https://arxiv.org/abs/2401.10232) - Jeonghwan Kim, Jisoo Kim, Jeonghyeon Na, and Hanbyul Joo. In CVPR 2025. [\[code\]](https://github.com/canoneod/ParaHome) ⭐ 254 | 🐛 3 | 🌐 Python | 📅 2025-12-24
 
@@ -487,7 +487,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * [ForeHOI: Feed-forward 3D Object Reconstruction from Daily Hand-Object Interaction Videos](https://arxiv.org/abs/2602.06226) - Yuantao Chen, Jiahao Chang, Chongjie Ye, Chaoran Zhang, Zhaojie Fang, Chenghong Li, and Xiaoguang Han. In CVPR 2026. [\[project page\]](https://tao-11-chen.github.io/project_pages/ForeHOI/) [\[code\]](https://github.com/Tao-11-chen/ForeHOI) ⭐ 106 | 🐛 2 | 🌐 Python | 📅 2026-08-10
 
-* [Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision](https://arxiv.org/abs/2506.03605) - Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, and Shinsuke Mori. In CVPR 2025. [\[project page\]](https://biscue5.github.io/egoscaler-project-page/) [\[code\]](https://github.com/Biscue5/EgoScaler) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2025-12-02
+* [Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision](https://arxiv.org/abs/2506.03605) - Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, and Shinsuke Mori. In CVPR 2025. [\[project page\]](https://biscue5.github.io/egoscaler-project-page/) [\[code\]](https://github.com/Biscue5/EgoScaler) ⭐ 53 | 🐛 0 | 🌐 Python | 📅 2025-12-02
 
 * [EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views](https://arxiv.org/abs/2405.13659) - Yuhang Yang, Wei Zhai, Chengfeng Wang, Chengjun Yu, Yang Cao, and Zheng-Jun Zha. In NeurIPS 2024. [\[project page\]](https://yyvhang.github.io/EgoChoir/) [\[code\]](https://github.com/yyvhang/EgoChoir_release) ⭐ 32 | 🐛 3 | 🌐 Python | 📅 2024-09-26
 
@@ -829,7 +829,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 <details>
 <summary>Show papers (8)</summary>
 
-* [Benchmarking Egocentric Visual-Inertial SLAM at City Scale](https://arxiv.org/abs/2509.26639) - Anusha Krishnan, Shaohui Liu, Paul-Edouard Sarlin, Oscar Gentilhomme, David Caruso, Maurizio Monge, Richard Newcombe, Jakob Engel, and Marc Pollefeys. In ICCV 2025. [\[project page\]](https://www.lamaria.ethz.ch) [\[code\]](https://github.com/cvg/lamaria) ⭐ 182 | 🐛 3 | 🌐 Python | 📅 2026-10-07
+* [Benchmarking Egocentric Visual-Inertial SLAM at City Scale](https://arxiv.org/abs/2509.26639) - Anusha Krishnan, Shaohui Liu, Paul-Edouard Sarlin, Oscar Gentilhomme, David Caruso, Maurizio Monge, Richard Newcombe, Jakob Engel, and Marc Pollefeys. In ICCV 2025. [\[project page\]](https://www.lamaria.ethz.ch) [\[code\]](https://github.com/cvg/lamaria) ⭐ 183 | 🐛 3 | 🌐 Python | 📅 2026-10-07
 
 * [DIV-FF: Dynamic Image-Video Feature Fields for Environment Understanding in Egocentric Videos](https://arxiv.org/abs/2503.08344) - Lorenzo Mur-Labadia, Jose J. Guerrero, and Ruben Martinez-Cantin. In CVPR 2025. [\[code\]](https://github.com/lmur98/DIV_FF_CVPR) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2025-03-25
 
@@ -974,7 +974,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * \[Learning Video Representations from Large Language Models]\(<https://arxiv.org/pdf/2212.04501.pdf>; <https://facebookresearch.github.io/LaViLa>) - Yue Zhao, Ishan Misra, Philipp Krähenbühl, Rohit Girdhar. In CVPR 2023. [\[project page\]](https://facebookresearch.github.io/LaViLa/) [\[code\]](https://github.com/facebookresearch/LaViLa) ⚠️ Archived [\[demo\]](https://huggingface.co/spaces/nateraw/lavila)
 
-* [ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation](https://arctic.is.tue.mpg.de) - Zicong Fan, Omid Taheri, Dimitrios Tzionas, Muhammed Kocabas, Manuel Kaufmann, Michael J. Black, Otmar Hilliges. In CVPR 2023. [\[code\]](https://github.com/zc-alexfan/arctic) ⭐ 531 | 🐛 1 | 🌐 Python | 📅 2026-03-04
+* [ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation](https://arctic.is.tue.mpg.de) - Zicong Fan, Omid Taheri, Dimitrios Tzionas, Muhammed Kocabas, Manuel Kaufmann, Michael J. Black, Otmar Hilliges. In CVPR 2023. [\[code\]](https://github.com/zc-alexfan/arctic) ⭐ 532 | 🐛 1 | 🌐 Python | 📅 2026-03-04
 
 * [EgoLife: Towards Egocentric Life Assistant](https://arxiv.org/abs/2503.03803) - Jingkang Yang, Shuai Liu, Hongming Guo, et al. In CVPR 2025. [\[code\]](https://github.com/EvolvingLMMs-Lab/EgoLife) ⭐ 475 | 🐛 13 | 🌐 Python | 📅 2025-03-19
 
@@ -1006,9 +1006,9 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * [TIM: A Time Interval Machine for Audio-Visual Action Recognition](https://arxiv.org/abs/2404.05559) - Jacob Chalk, Jaesung Huh, Evangelos Kazakos, Andrew Zisserman, and Dima Damen. In CVPR 2024. [\[project page\]](https://jacobchalk.github.io/TIM-Project) [\[code\]](https://github.com/JacobChalk/TIM) ⭐ 53 | 🐛 0 | 🌐 Python | 📅 2024-11-07
 
-* [EgoTextVQA: Towards Egocentric Scene-Text Aware Video Question Answering](https://arxiv.org/abs/2502.07411) - Sheng Zhou, Junbin Xiao, Qingyun Li, Yicong Li, Xun Yang, Dan Guo, Meng Wang, Tat-Seng Chua, and Angela Yao. In CVPR 2025. [\[code\]](https://github.com/zhousheng97/EgoTextVQA) ⭐ 53 | 🐛 3 | 🌐 Python | 📅 2025-06-19
+* [Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision](https://arxiv.org/abs/2506.03605) - Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, and Shinsuke Mori. In CVPR 2025. [\[project page\]](https://biscue5.github.io/egoscaler-project-page/) [\[code\]](https://github.com/Biscue5/EgoScaler) ⭐ 53 | 🐛 0 | 🌐 Python | 📅 2025-12-02
 
-* [Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision](https://arxiv.org/abs/2506.03605) - Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, and Shinsuke Mori. In CVPR 2025. [\[project page\]](https://biscue5.github.io/egoscaler-project-page/) [\[code\]](https://github.com/Biscue5/EgoScaler) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2025-12-02
+* [EgoTextVQA: Towards Egocentric Scene-Text Aware Video Question Answering](https://arxiv.org/abs/2502.07411) - Sheng Zhou, Junbin Xiao, Qingyun Li, Yicong Li, Xun Yang, Dan Guo, Meng Wang, Tat-Seng Chua, and Angela Yao. In CVPR 2025. [\[code\]](https://github.com/zhousheng97/EgoTextVQA) ⭐ 53 | 🐛 3 | 🌐 Python | 📅 2025-06-19
 
 * [Balanced Spherical Grid for Egocentric View Synthesis](https://arxiv.org/pdf/2303.12408.pdf) - Changwoon Choi · Sang Min Kim · Young Min Kim. In CVPR 2023. [\[code\]](https://github.com/changwoonchoi/EgoNeRF) ⭐ 51 | 🐛 1 | 🌐 Python | 📅 2023-06-06
 
@@ -1446,7 +1446,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 <details>
 <summary>Show papers (56)</summary>
 
-* [Benchmarking Egocentric Visual-Inertial SLAM at City Scale](https://arxiv.org/abs/2509.26639) - Anusha Krishnan, Shaohui Liu, Paul-Edouard Sarlin, Oscar Gentilhomme, David Caruso, Maurizio Monge, Richard Newcombe, Jakob Engel, and Marc Pollefeys. In ICCV 2025. [\[project page\]](https://www.lamaria.ethz.ch) [\[code\]](https://github.com/cvg/lamaria) ⭐ 182 | 🐛 3 | 🌐 Python | 📅 2026-10-07
+* [Benchmarking Egocentric Visual-Inertial SLAM at City Scale](https://arxiv.org/abs/2509.26639) - Anusha Krishnan, Shaohui Liu, Paul-Edouard Sarlin, Oscar Gentilhomme, David Caruso, Maurizio Monge, Richard Newcombe, Jakob Engel, and Marc Pollefeys. In ICCV 2025. [\[project page\]](https://www.lamaria.ethz.ch) [\[code\]](https://github.com/cvg/lamaria) ⭐ 183 | 🐛 3 | 🌐 Python | 📅 2026-10-07
 
 * [What Would You Expect? Anticipating Egocentric Actions with Rolling-Unrolling LSTMs and Modality Attention](https://arxiv.org/pdf/1905.09035) - Antonino Furnari and Giovanni Maria Farinella. In ICCV 2019 [\[code\]](https://github.com/fpv-iplab/rulstm) ⚠️ Archived [\[demo\]](https://youtu.be/buIEKFHTVIg)
 
@@ -1752,7 +1752,7 @@ A quick-reference table of some of the most prominent egocentric datasets/benchm
 * [EgoLife](https://github.com/EvolvingLMMs-Lab/EgoLife) ⭐ 475 | 🐛 13 | 🌐 Python | 📅 2025-03-19 - A \~300-hour egocentric, interpersonal, multiview, multimodal dataset of six people living together for one week wearing AI glasses, accompanied by the EgoLifeQA long-context daily-assistance benchmark. [\[paper\]](https://arxiv.org/abs/2503.03803)
 * [EgoDex](https://github.com/apple/ml-egodex) ⭐ 410 | 🐛 9 | 🌐 Python | 📅 2026-09-11 - 829 hours of 30 fps 1080p egocentric video (338K demonstrations across 194 tabletop manipulation tasks) collected with Apple Vision Pro, paired with 3D head, upper-body, and hand pose plus natural-language annotations. [\[paper\]](https://arxiv.org/abs/2505.11709)
 * [ParaHome](https://jlogkim.github.io/parahome/) - 486 minutes from 38 participants capturing 3D body and dexterous hand motion with multiple articulated household objects in a shared home environment, with text descriptions. [\[paper\]](https://arxiv.org/abs/2401.10232) [\[code\]](https://github.com/canoneod/ParaHome) ⭐ 254 | 🐛 3 | 🌐 Python | 📅 2025-12-24
-* [LaMAria](https://www.lamaria.ethz.ch) - City-scale egocentric visual-inertial SLAM benchmark captured with Aria glasses over hours and kilometers of trajectories, with survey-grade control points providing centimeter-accurate ground truth. [\[paper\]](https://arxiv.org/abs/2509.26639) [\[code\]](https://github.com/cvg/lamaria) ⭐ 182 | 🐛 3 | 🌐 Python | 📅 2026-10-07
+* [LaMAria](https://www.lamaria.ethz.ch) - City-scale egocentric visual-inertial SLAM benchmark captured with Aria glasses over hours and kilometers of trajectories, with survey-grade control points providing centimeter-accurate ground truth. [\[paper\]](https://arxiv.org/abs/2509.26639) [\[code\]](https://github.com/cvg/lamaria) ⭐ 183 | 🐛 3 | 🌐 Python | 📅 2026-10-07
 * [EgoSchema](https://egoschema.github.io/) - A very long-form video question-answering benchmark derived from Ego4D with over 5,000 human-curated multiple-choice QA pairs spanning over 250 hours of egocentric video, each question grounded in a three-minute clip. [\[paper\]](https://arxiv.org/abs/2308.09126) [\[code\]](https://github.com/egoschema/EgoSchema) ⭐ 123 | 🐛 5 | 🌐 Python | 📅 2024-12-30
 * [Minerva-Ego](https://github.com/google-deepmind/neptune) ⭐ 100 | 🐛 5 | 📅 2026-04-28 - Egocentric video QA benchmark of 1,160 hand-crafted multiple-choice questions over 156 HD-EPIC videos, each paired with spatiotemporally grounded reasoning traces and object masks. [\[paper\]](https://arxiv.org/abs/2605.15342)
 * [Ego4D Goal-Step](https://github.com/facebookresearch/ego4d-goalstep) ⭐ 64 | 🐛 3 | 🌐 Python | 📅 2024-04-15 - Hierarchical goal–step–substep annotations over Ego4D, with 2,807 hours carrying goal labels and 430 hours of fine-grained step labels (48K step segments). [\[paper\]](https://openreview.net/forum?id=3BxYAaovKr)
