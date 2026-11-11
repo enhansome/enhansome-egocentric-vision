@@ -628,7 +628,7 @@
                     "open_issues": 3,
                     "owner": "lmb-freiburg",
                     "repo": "FLN-EPN-RPN",
-                    "stars": 36,
+                    "stars": 35,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1325,7 +1325,7 @@
                     "open_issues": 3,
                     "owner": "snuvclab",
                     "repo": "ParaHome",
-                    "stars": 254,
+                    "stars": 255,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1367,7 +1367,7 @@
                     "open_issues": 2,
                     "owner": "Tao-11-chen",
                     "repo": "ForeHOI",
-                    "stars": 106,
+                    "stars": 107,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3432,7 +3432,7 @@
                     "open_issues": 3,
                     "owner": "snuvclab",
                     "repo": "ParaHome",
-                    "stars": 254,
+                    "stars": 255,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3497,7 +3497,7 @@
                     "open_issues": 2,
                     "owner": "Tao-11-chen",
                     "repo": "ForeHOI",
-                    "stars": 106,
+                    "stars": 107,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3939,7 +3939,7 @@
                     "open_issues": 3,
                     "owner": "lmb-freiburg",
                     "repo": "FLN-EPN-RPN",
-                    "stars": 36,
+                    "stars": 35,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6440,7 +6440,7 @@
                 "open_issues": 3,
                 "owner": "snuvclab",
                 "repo": "ParaHome",
-                "stars": 254,
+                "stars": 255,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:30:18.211Z",
+    "last_updated": "2026-11-11T23:41:45.149Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
