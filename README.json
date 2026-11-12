@@ -503,6 +503,40 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Is Tracking Really More Challenging in First Person Egocentric Vision?",
+                  "description": "Matteo Dunnhofer, Zaira Manigrasso, and Christian Micheloni. In ICCV 2025. [project page] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ICCV 2025 ✨ / IJCV 2023] Official code repository to download the VISTA and TREK-150 benchmark datasets and run experiments on them.",
+                    "homepage": null,
+                    "id": 401608788,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-08-12T00:59:32Z",
+                    "open_issues": 0,
+                    "owner": "matteo-dunnhofer",
+                    "repo": "fpv-tracking-toolkit",
+                    "stars": 13,
+                    "topics": [
+                      "computer-vision",
+                      "egocentric-vision",
+                      "first-person-vision",
+                      "iccv2025",
+                      "ijcv",
+                      "third-person-vision",
+                      "trek-150",
+                      "video-object-segmentation",
+                      "vista",
+                      "visual-object-tracking",
+                      "visual-tracking",
+                      "vot2021"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T01:08:37.430Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "EgoXtreme: A Dataset for Robust Object Pose Estimation in Egocentric Views under Extreme Conditions",
                   "description": "Taegyoon Yoon, Yegyu Han, Seojin Ji, Jaewoo Park, Sojeong Kim, Taein Kwon, and Hyung-Sin Kim. In CVPR 2026. [project page] [code]",
                   "children": [],
@@ -519,40 +553,6 @@
                     "repo": "EgoXtreme",
                     "stars": 12,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:08:37.430Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Is Tracking Really More Challenging in First Person Egocentric Vision?",
-                  "description": "Matteo Dunnhofer, Zaira Manigrasso, and Christian Micheloni. In ICCV 2025. [project page] [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[ICCV 2025 ✨ / IJCV 2023] Official code repository to download the VISTA and TREK-150 benchmark datasets and run experiments on them.",
-                    "homepage": null,
-                    "id": 401608788,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-08-12T00:59:32Z",
-                    "open_issues": 0,
-                    "owner": "matteo-dunnhofer",
-                    "repo": "fpv-tracking-toolkit",
-                    "stars": 12,
-                    "topics": [
-                      "computer-vision",
-                      "egocentric-vision",
-                      "first-person-vision",
-                      "iccv2025",
-                      "ijcv",
-                      "third-person-vision",
-                      "trek-150",
-                      "video-object-segmentation",
-                      "vista",
-                      "visual-object-tracking",
-                      "visual-tracking",
-                      "vot2021"
-                    ]
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
                 }
@@ -996,7 +996,7 @@
                     "open_issues": 4,
                     "owner": "jianwang-mpi",
                     "repo": "egowholemocap",
-                    "stars": 56,
+                    "stars": 57,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2085,7 +2085,7 @@
                     "open_issues": 13,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "EgoLife",
-                    "stars": 475,
+                    "stars": 476,
                     "topics": [
                       "egocentric-vision",
                       "omnimodal",
@@ -3380,7 +3380,7 @@
                     "open_issues": 13,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "EgoLife",
-                    "stars": 475,
+                    "stars": 476,
                     "topics": [
                       "egocentric-vision",
                       "omnimodal",
@@ -3670,7 +3670,7 @@
                     "open_issues": 4,
                     "owner": "jianwang-mpi",
                     "repo": "egowholemocap",
-                    "stars": 56,
+                    "stars": 57,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5369,7 +5369,7 @@
                     "open_issues": 0,
                     "owner": "matteo-dunnhofer",
                     "repo": "fpv-tracking-toolkit",
-                    "stars": 12,
+                    "stars": 13,
                     "topics": [
                       "computer-vision",
                       "egocentric-vision",
@@ -6315,7 +6315,7 @@
                 "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 475,
+                "stars": 476,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6394,7 +6394,7 @@
                 "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 475,
+                "stars": 476,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:41:45.149Z",
+    "last_updated": "2026-11-12T22:50:55.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
