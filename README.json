@@ -1286,7 +1286,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 532,
+                    "stars": 533,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -2713,7 +2713,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 768,
+                    "stars": 767,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2880,7 +2880,7 @@
                     "open_issues": 3,
                     "owner": "cvg",
                     "repo": "lamaria",
-                    "stars": 183,
+                    "stars": 184,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3128,7 +3128,7 @@
                     "open_issues": 0,
                     "owner": "eth-siplab",
                     "repo": "egoEMOTION",
-                    "stars": 32,
+                    "stars": 33,
                     "topics": [
                       "affective-computing",
                       "computer-vision",
@@ -3299,7 +3299,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 768,
+                    "stars": 767,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3341,7 +3341,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 532,
+                    "stars": 533,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -4935,7 +4935,7 @@
                     "open_issues": 3,
                     "owner": "cvg",
                     "repo": "lamaria",
-                    "stars": 183,
+                    "stars": 184,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5973,7 +5973,7 @@
                     "open_issues": 0,
                     "owner": "eth-siplab",
                     "repo": "egoEMOTION",
-                    "stars": 32,
+                    "stars": 33,
                     "topics": [
                       "affective-computing",
                       "computer-vision",
@@ -6461,7 +6461,7 @@
                 "open_issues": 3,
                 "owner": "cvg",
                 "repo": "lamaria",
-                "stars": 183,
+                "stars": 184,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T21:40:12.555Z",
+    "last_updated": "2026-11-15T22:03:15.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
