@@ -134,7 +134,7 @@
                     "open_issues": 4,
                     "owner": "Yuhan-Shen",
                     "repo": "ProTAS",
-                    "stars": 41,
+                    "stars": 42,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1030,6 +1030,36 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
+                  "description": "Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [project page] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Code for HOPformer released in ECCV 2026 Paper \"Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation\"",
+                    "homepage": "https://sid2697.github.io/epic-contact/",
+                    "id": 1283976546,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-11-06T09:08:13Z",
+                    "open_issues": 1,
+                    "owner": "Sid2697",
+                    "repo": "HOPformer",
+                    "stars": 51,
+                    "topics": [
+                      "3d",
+                      "arctic",
+                      "egocentric-videos",
+                      "egocentric-vision",
+                      "epic-kitchens",
+                      "hand-object-interaction",
+                      "in-the-wild",
+                      "pose-estimation"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T01:08:37.430Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "You2Me: Inferring Body Pose in Egocentric Video via First and Second Person Interactions",
                   "description": "Evonne Ng, Donglai Xiang, Hanbyul Joo, and Kristen Grauman. In CVPR 2020. [demo] [project page] [dataset] [code]",
                   "children": [],
@@ -1046,36 +1076,6 @@
                     "repo": "you2me",
                     "stars": 51,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:08:37.430Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
-                  "description": "Siddhant Bansal, Zhifan Zhu, Shashank Tripathi, Jiahe Zhao, Michael J. Black, and Dima Damen. In ECCV 2026. [project page] [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Code for HOPformer released in ECCV 2026 Paper \"Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation\"",
-                    "homepage": "https://sid2697.github.io/epic-contact/",
-                    "id": 1283976546,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-11-06T09:08:13Z",
-                    "open_issues": 1,
-                    "owner": "Sid2697",
-                    "repo": "HOPformer",
-                    "stars": 50,
-                    "topics": [
-                      "3d",
-                      "arctic",
-                      "egocentric-videos",
-                      "egocentric-vision",
-                      "epic-kitchens",
-                      "hand-object-interaction",
-                      "in-the-wild",
-                      "pose-estimation"
-                    ]
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
                 },
@@ -1286,7 +1286,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 533,
+                    "stars": 532,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -2880,7 +2880,7 @@
                     "open_issues": 3,
                     "owner": "cvg",
                     "repo": "lamaria",
-                    "stars": 185,
+                    "stars": 187,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3341,7 +3341,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 533,
+                    "stars": 532,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -3855,7 +3855,7 @@
                     "open_issues": 4,
                     "owner": "Yuhan-Shen",
                     "repo": "ProTAS",
-                    "stars": 41,
+                    "stars": 42,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4563,7 +4563,7 @@
                     "open_issues": 1,
                     "owner": "Sid2697",
                     "repo": "HOPformer",
-                    "stars": 50,
+                    "stars": 51,
                     "topics": [
                       "3d",
                       "arctic",
@@ -4935,7 +4935,7 @@
                     "open_issues": 3,
                     "owner": "cvg",
                     "repo": "lamaria",
-                    "stars": 185,
+                    "stars": 187,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6461,7 +6461,7 @@
                 "open_issues": 3,
                 "owner": "cvg",
                 "repo": "lamaria",
-                "stars": 185,
+                "stars": 187,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6593,7 +6593,7 @@
                 "open_issues": 1,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "3d",
                   "arctic",
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T01:02:18.157Z",
+    "last_updated": "2026-11-17T23:56:32.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
