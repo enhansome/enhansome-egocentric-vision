@@ -134,7 +134,7 @@
                     "open_issues": 4,
                     "owner": "Yuhan-Shen",
                     "repo": "ProTAS",
-                    "stars": 42,
+                    "stars": 43,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1142,7 +1142,7 @@
                     "open_issues": 1,
                     "owner": "ut-vision",
                     "repo": "S2DHand",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1636,7 +1636,7 @@
                     "open_issues": 3,
                     "owner": "robert80203",
                     "repo": "EgoPER_official",
-                    "stars": 45,
+                    "stars": 46,
                     "topics": [
                       "action-segmentation",
                       "computer-vision",
@@ -2085,7 +2085,7 @@
                     "open_issues": 13,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "EgoLife",
-                    "stars": 477,
+                    "stars": 478,
                     "topics": [
                       "egocentric-vision",
                       "omnimodal",
@@ -2713,7 +2713,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 768,
+                    "stars": 769,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3299,7 +3299,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 768,
+                    "stars": 769,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3380,7 +3380,7 @@
                     "open_issues": 13,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "EgoLife",
-                    "stars": 477,
+                    "stars": 478,
                     "topics": [
                       "egocentric-vision",
                       "omnimodal",
@@ -3807,7 +3807,7 @@
                     "open_issues": 3,
                     "owner": "robert80203",
                     "repo": "EgoPER_official",
-                    "stars": 45,
+                    "stars": 46,
                     "topics": [
                       "action-segmentation",
                       "computer-vision",
@@ -3815,6 +3815,27 @@
                       "error-detection",
                       "procedural-learning"
                     ]
+                  },
+                  "first_seen": "2026-08-29T01:08:37.430Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Progress-Aware Online Action Segmentation for Egocentric Procedural Task Videos",
+                  "description": "Yuhan Shen and Ehsan Elhamifar. In CVPR 2024. [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Progress-Aware Online Action Segmentation for Egocentric Procedural Task Videos",
+                    "homepage": null,
+                    "id": 817861678,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-09-09T14:23:43Z",
+                    "open_issues": 4,
+                    "owner": "Yuhan-Shen",
+                    "repo": "ProTAS",
+                    "stars": 43,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
                 },
@@ -3835,27 +3856,6 @@
                     "owner": "abcamiletto",
                     "repo": "frame",
                     "stars": 43,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:08:37.430Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Progress-Aware Online Action Segmentation for Egocentric Procedural Task Videos",
-                  "description": "Yuhan Shen and Ehsan Elhamifar. In CVPR 2024. [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Progress-Aware Online Action Segmentation for Egocentric Procedural Task Videos",
-                    "homepage": null,
-                    "id": 817861678,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2024-09-09T14:23:43Z",
-                    "open_issues": 4,
-                    "owner": "Yuhan-Shen",
-                    "repo": "ProTAS",
-                    "stars": 42,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3981,7 +3981,7 @@
                     "open_issues": 1,
                     "owner": "ut-vision",
                     "repo": "S2DHand",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6315,7 +6315,7 @@
                 "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 477,
+                "stars": 478,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6394,7 +6394,7 @@
                 "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 477,
+                "stars": 478,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6623,7 +6623,7 @@
                 "open_issues": 3,
                 "owner": "robert80203",
                 "repo": "EgoPER_official",
-                "stars": 45,
+                "stars": 46,
                 "topics": [
                   "action-segmentation",
                   "computer-vision",
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:56:32.699Z",
+    "last_updated": "2026-11-18T23:33:40.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
