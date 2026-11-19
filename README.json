@@ -23,7 +23,7 @@
                     "open_issues": 19,
                     "owner": "facebookresearch",
                     "repo": "LaViLa",
-                    "stars": 536,
+                    "stars": 535,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3184,7 +3184,7 @@
                     "open_issues": 1,
                     "owner": "eth-siplab",
                     "repo": "egoPPG",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": [
                       "affective-computing",
                       "camera",
@@ -3320,7 +3320,7 @@
                     "open_issues": 19,
                     "owner": "facebookresearch",
                     "repo": "LaViLa",
-                    "stars": 536,
+                    "stars": 535,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5331,7 +5331,7 @@
                     "open_issues": 1,
                     "owner": "eth-siplab",
                     "repo": "egoPPG",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": [
                       "affective-computing",
                       "camera",
@@ -6340,7 +6340,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 414,
+                "stars": 415,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6419,7 +6419,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 414,
+                "stars": 415,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:33:40.379Z",
+    "last_updated": "2026-11-19T23:46:55.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
