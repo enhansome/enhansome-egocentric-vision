@@ -479,7 +479,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 <details>
 <summary>Show papers (22)</summary>
 
-* [ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation](https://arctic.is.tue.mpg.de) - Zicong Fan, Omid Taheri, Dimitrios Tzionas, Muhammed Kocabas, Manuel Kaufmann, Michael J. Black, Otmar Hilliges. In CVPR 2023. [\[code\]](https://github.com/zc-alexfan/arctic) ⭐ 532 | 🐛 1 | 🌐 Python | 📅 2026-03-04
+* [ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation](https://arctic.is.tue.mpg.de) - Zicong Fan, Omid Taheri, Dimitrios Tzionas, Muhammed Kocabas, Manuel Kaufmann, Michael J. Black, Otmar Hilliges. In CVPR 2023. [\[code\]](https://github.com/zc-alexfan/arctic) ⭐ 533 | 🐛 1 | 🌐 Python | 📅 2026-03-04
 
 * [ParaHome: Parameterizing Everyday Home Activities Towards 3D Generative Modeling of Human-Object Interactions](https://arxiv.org/abs/2401.10232) - Jeonghwan Kim, Jisoo Kim, Jeonghyeon Na, and Hanbyul Joo. In CVPR 2025. [\[code\]](https://github.com/canoneod/ParaHome) ⭐ 256 | 🐛 3 | 🌐 Python | 📅 2025-12-24
 
@@ -786,7 +786,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * [EgoX: Egocentric Video Generation from a Single Exocentric Video](https://arxiv.org/abs/2512.08269) - Taewoong Kang, Kinam Kim, Dohyeon Kim, Minho Park, Junha Hyung, and Jaegul Choo. In CVPR 2026. [\[project page\]](https://keh0t0.github.io/EgoX) [\[code\]](https://github.com/DAVIAN-Robotics/EgoX) ⭐ 769 | 🐛 14 | 🌐 Python | 📅 2026-07-10
 
-* [PlayerOne: Egocentric World Simulator](https://arxiv.org/abs/2506.09995) - Yuanpeng Tu, Hao Luo, Xi Chen, Xiang Bai, Fan Wang, and Hengshuang Zhao. In NeurIPS 2025. [\[project page\]](https://playerone-hku.github.io/) [\[code\]](https://github.com/yuanpengtu/PlayerOne) ⭐ 194 | 🐛 3 | 📅 2025-06-12
+* [PlayerOne: Egocentric World Simulator](https://arxiv.org/abs/2506.09995) - Yuanpeng Tu, Hao Luo, Xi Chen, Xiang Bai, Fan Wang, and Hengshuang Zhao. In NeurIPS 2025. [\[project page\]](https://playerone-hku.github.io/) [\[code\]](https://github.com/yuanpengtu/PlayerOne) ⭐ 193 | 🐛 3 | 📅 2025-06-12
 
 * [EgoEdit: Dataset, Real-Time Streaming Model, and Benchmark for Egocentric Video Editing](https://arxiv.org/abs/2512.06065) - Runjia Li, Moayed Haji-Ali, Ashkan Mirzaei, Chaoyang Wang, Arpit Sahni, Ivan Skorokhodov, Aliaksandr Siarohin, Tomas Jakab, Junlin Han, Sergey Tulyakov, Philip Torr, and Willi Menapace. In CVPR 2026. [\[project page\]](https://snap-research.github.io/EgoEdit) [\[code\]](https://github.com/snap-research/EgoEdit) ⭐ 159 | 🐛 5 | 🌐 Python | 📅 2026-04-05
 
@@ -852,7 +852,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 <details>
 <summary>Show papers (8)</summary>
 
-* [SANPO: A Scene Understanding, Accessibility and Human Navigation Dataset](https://openaccess.thecvf.com/content/WACV2025/html/Waghmare_SANPO_A_Scene_Understanding_Accessibility_and_Human_Navigation_Dataset_WACV_2025_paper.html) - Sagar M. Waghmare, Kimberly Wilber, Dave Hawkey, Xuan Yang, Matthew Wilson, Stephanie Debats, et al. In WACV 2025. [\[project page\]](https://google-research-datasets.github.io/sanpo_dataset/) [\[code\]](https://github.com/google-research-datasets/sanpo_dataset) ⭐ 64 | 🐛 10 | 🌐 Python | 📅 2026-06-23
+* [SANPO: A Scene Understanding, Accessibility and Human Navigation Dataset](https://openaccess.thecvf.com/content/WACV2025/html/Waghmare_SANPO_A_Scene_Understanding_Accessibility_and_Human_Navigation_Dataset_WACV_2025_paper.html) - Sagar M. Waghmare, Kimberly Wilber, Dave Hawkey, Xuan Yang, Matthew Wilson, Stephanie Debats, et al. In WACV 2025. [\[project page\]](https://google-research-datasets.github.io/sanpo_dataset/) [\[code\]](https://github.com/google-research-datasets/sanpo_dataset) ⭐ 65 | 🐛 10 | 🌐 Python | 📅 2026-06-23
 
 * [EgoTraj: Real-World Egocentric Human Trajectory](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/14919.pdf) - Ahmad Yehia, Abduallah Mohamed, Tianyi Wang, Kun Qian, Jiseop Byeon, Junfeng Jiao, and Christian Claudel. In ECCV 2026. [\[project page\]](https://github.com/yehiahmad/EgoTraj) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2026-10-16
 
@@ -974,7 +974,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * \[Learning Video Representations from Large Language Models]\(<https://arxiv.org/pdf/2212.04501.pdf>; <https://facebookresearch.github.io/LaViLa>) - Yue Zhao, Ishan Misra, Philipp Krähenbühl, Rohit Girdhar. In CVPR 2023. [\[project page\]](https://facebookresearch.github.io/LaViLa/) [\[code\]](https://github.com/facebookresearch/LaViLa) ⚠️ Archived [\[demo\]](https://huggingface.co/spaces/nateraw/lavila)
 
-* [ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation](https://arctic.is.tue.mpg.de) - Zicong Fan, Omid Taheri, Dimitrios Tzionas, Muhammed Kocabas, Manuel Kaufmann, Michael J. Black, Otmar Hilliges. In CVPR 2023. [\[code\]](https://github.com/zc-alexfan/arctic) ⭐ 532 | 🐛 1 | 🌐 Python | 📅 2026-03-04
+* [ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation](https://arctic.is.tue.mpg.de) - Zicong Fan, Omid Taheri, Dimitrios Tzionas, Muhammed Kocabas, Manuel Kaufmann, Michael J. Black, Otmar Hilliges. In CVPR 2023. [\[code\]](https://github.com/zc-alexfan/arctic) ⭐ 533 | 🐛 1 | 🌐 Python | 📅 2026-03-04
 
 * [EgoLife: Towards Egocentric Life Assistant](https://arxiv.org/abs/2503.03803) - Jingkang Yang, Shuai Liu, Hongming Guo, et al. In CVPR 2025. [\[code\]](https://github.com/EvolvingLMMs-Lab/EgoLife) ⭐ 478 | 🐛 13 | 🌐 Python | 📅 2025-03-19
 
@@ -1565,7 +1565,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 <details>
 <summary>Show papers (23)</summary>
 
-* [SANPO: A Scene Understanding, Accessibility and Human Navigation Dataset](https://openaccess.thecvf.com/content/WACV2025/html/Waghmare_SANPO_A_Scene_Understanding_Accessibility_and_Human_Navigation_Dataset_WACV_2025_paper.html) - Sagar M. Waghmare, Kimberly Wilber, Dave Hawkey, Xuan Yang, Matthew Wilson, Stephanie Debats, et al. In WACV 2025. [\[project page\]](https://google-research-datasets.github.io/sanpo_dataset/) [\[code\]](https://github.com/google-research-datasets/sanpo_dataset) ⭐ 64 | 🐛 10 | 🌐 Python | 📅 2026-06-23
+* [SANPO: A Scene Understanding, Accessibility and Human Navigation Dataset](https://openaccess.thecvf.com/content/WACV2025/html/Waghmare_SANPO_A_Scene_Understanding_Accessibility_and_Human_Navigation_Dataset_WACV_2025_paper.html) - Sagar M. Waghmare, Kimberly Wilber, Dave Hawkey, Xuan Yang, Matthew Wilson, Stephanie Debats, et al. In WACV 2025. [\[project page\]](https://google-research-datasets.github.io/sanpo_dataset/) [\[code\]](https://github.com/google-research-datasets/sanpo_dataset) ⭐ 65 | 🐛 10 | 🌐 Python | 📅 2026-06-23
 
 * [Integrating Human Gaze Into Attention for Egocentric Activity Recognition](https://openaccess.thecvf.com/content/WACV2021/html/Min_Integrating_Human_Gaze_Into_Attention_for_Egocentric_Activity_Recognition_WACV_2021_paper.html) - Kyle Min, Jason J. Corso. In WACV 2021. [\[code\]](https://github.com/MichiganCOG/Gaze-Attention) ⭐ 25 | 🐛 5 | 🌐 Python | 📅 2023-07-20
 
@@ -1639,7 +1639,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 
 * [Egocentric Video-Language Pretraining](https://arxiv.org/pdf/2206.01670.pdf) - Kevin Qinghong Lin, Alex Jinpeng Wang, Mattia Soldan, Michael Wray, Rui Yan, Eric Zhongcong Xu, Difei Gao, Rongcheng Tu, Wenzhe Zhao, Weijie Kong, Chengfei Cai, Hongfa Wang, Dima Damen, Bernard Ghanem, Wei Liu and Mike Zheng Shou. In NeurIPS 2022. [\[project page\]](https://qinghonglin.github.io/EgoVLP/) [\[code\]](https://github.com/showlab/EgoVLP) ⭐ 263 | 🐛 6 | 🌐 Python | 📅 2024-05-09
 
-* [PlayerOne: Egocentric World Simulator](https://arxiv.org/abs/2506.09995) - Yuanpeng Tu, Hao Luo, Xi Chen, Xiang Bai, Fan Wang, and Hengshuang Zhao. In NeurIPS 2025. [\[project page\]](https://playerone-hku.github.io/) [\[code\]](https://github.com/yuanpengtu/PlayerOne) ⭐ 194 | 🐛 3 | 📅 2025-06-12
+* [PlayerOne: Egocentric World Simulator](https://arxiv.org/abs/2506.09995) - Yuanpeng Tu, Hao Luo, Xi Chen, Xiang Bai, Fan Wang, and Hengshuang Zhao. In NeurIPS 2025. [\[project page\]](https://playerone-hku.github.io/) [\[code\]](https://github.com/yuanpengtu/PlayerOne) ⭐ 193 | 🐛 3 | 📅 2025-06-12
 
 * [EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video Generation](https://arxiv.org/abs/2411.08380) - Xiaofeng Wang, Kang Zhao, Feng Liu, Jiayu Wang, Guosheng Zhao, Xiaoyi Bao, Zheng Zhu, Yingya Zhang, and Xingang Wang. In NeurIPS 2025. [\[project page\]](https://egovid.github.io/) [\[code\]](https://github.com/JeffWang987/EgoVid) ⭐ 146 | 🐛 3 | 🌐 Python | 📅 2025-07-31
 
@@ -1870,4 +1870,4 @@ This is a work in progress. Contributions welcome! Read the [contribution guidel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
