@@ -754,7 +754,7 @@
                     "open_issues": 0,
                     "owner": "ZhaofengSHI",
                     "repo": "DCPGN",
-                    "stars": 5,
+                    "stars": 6,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1346,7 +1346,7 @@
                     "open_issues": 14,
                     "owner": "owenzlz",
                     "repo": "EgoHOS",
-                    "stars": 153,
+                    "stars": 154,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1367,7 +1367,7 @@
                     "open_issues": 2,
                     "owner": "Tao-11-chen",
                     "repo": "ForeHOI",
-                    "stars": 108,
+                    "stars": 110,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2085,7 +2085,7 @@
                     "open_issues": 13,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "EgoLife",
-                    "stars": 478,
+                    "stars": 480,
                     "topics": [
                       "egocentric-vision",
                       "omnimodal",
@@ -2713,7 +2713,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 769,
+                    "stars": 770,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3299,7 +3299,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 769,
+                    "stars": 770,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3380,7 +3380,7 @@
                     "open_issues": 13,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "EgoLife",
-                    "stars": 478,
+                    "stars": 480,
                     "topics": [
                       "egocentric-vision",
                       "omnimodal",
@@ -3497,7 +3497,7 @@
                     "open_issues": 2,
                     "owner": "Tao-11-chen",
                     "repo": "ForeHOI",
-                    "stars": 108,
+                    "stars": 110,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -4359,27 +4359,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Ego-Grounding for Personalized Question-Answering in Egocentric Videos",
-                  "description": "Junbin Xiao, Shenglang Zhang, Pengxiang Zhu, and Angela Yao. In CVPR 2026. [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[CVPR 2026] The dataset and code for \"Ego-Grounding for Personalized Question-Answering in Egocentric Videos\"",
-                    "homepage": null,
-                    "id": 1099728320,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-09-20T15:10:45Z",
-                    "open_issues": 0,
-                    "owner": "Ryougetsu3606",
-                    "repo": "MyEgo",
-                    "stars": 5,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:08:37.430Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Test-time Ego-Exo-centric Adaptation for Action Anticipation via Multi-Label Prototype Growing and Dual-Clue Consistency",
                   "description": "Zhaofeng Shi, Heqian Qiu, Lanxiao Wang, Qingbo Wu, Fanman Meng, Lili Pan, and Hongliang Li. In CVPR 2026. [code]",
                   "children": [],
@@ -4394,6 +4373,27 @@
                     "open_issues": 0,
                     "owner": "ZhaofengSHI",
                     "repo": "DCPGN",
+                    "stars": 6,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:08:37.430Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ego-Grounding for Personalized Question-Answering in Egocentric Videos",
+                  "description": "Junbin Xiao, Shenglang Zhang, Pengxiang Zhu, and Angela Yao. In CVPR 2026. [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR 2026] The dataset and code for \"Ego-Grounding for Personalized Question-Answering in Egocentric Videos\"",
+                    "homepage": null,
+                    "id": 1099728320,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-09-20T15:10:45Z",
+                    "open_issues": 0,
+                    "owner": "Ryougetsu3606",
+                    "repo": "MyEgo",
                     "stars": 5,
                     "topics": []
                   },
@@ -4471,7 +4471,7 @@
                     "open_issues": 14,
                     "owner": "owenzlz",
                     "repo": "EgoHOS",
-                    "stars": 153,
+                    "stars": 154,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6315,7 +6315,7 @@
                 "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 478,
+                "stars": 480,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6340,7 +6340,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 417,
+                "stars": 418,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6394,7 +6394,7 @@
                 "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 478,
+                "stars": 480,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6419,7 +6419,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 417,
+                "stars": 418,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T22:20:24.810Z",
+    "last_updated": "2026-11-22T22:45:41.002Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
