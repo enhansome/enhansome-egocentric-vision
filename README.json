@@ -785,7 +785,7 @@
                     "id": 670158827,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2024-01-09T12:39:07Z",
+                    "last_commit": "2026-11-24T01:18:13Z",
                     "open_issues": 1,
                     "owner": "Wayne-Mai",
                     "repo": "EgoLoc",
@@ -2192,7 +2192,7 @@
                     "open_issues": 5,
                     "owner": "google-deepmind",
                     "repo": "neptune",
-                    "stars": 100,
+                    "stars": 101,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2331,7 +2331,7 @@
                     "license": "Apache-2.0",
                     "last_commit": "2025-11-25T06:20:50Z",
                     "open_issues": 1,
-                    "owner": "InternRobotics",
+                    "owner": "Sage-PhysicalAI",
                     "repo": "EgoHOD",
                     "stars": 39,
                     "topics": []
@@ -2419,7 +2419,7 @@
                     "license": null,
                     "last_commit": "2025-11-25T08:56:39Z",
                     "open_issues": 5,
-                    "owner": "InternRobotics",
+                    "owner": "Sage-PhysicalAI",
                     "repo": "EgoThinker",
                     "stars": 30,
                     "topics": []
@@ -2713,7 +2713,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 770,
+                    "stars": 772,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3299,7 +3299,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 770,
+                    "stars": 772,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3518,7 +3518,7 @@
                     "open_issues": 5,
                     "owner": "google-deepmind",
                     "repo": "neptune",
-                    "stars": 100,
+                    "stars": 101,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -5239,7 +5239,7 @@
                     "id": 670158827,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2024-01-09T12:39:07Z",
+                    "last_commit": "2026-11-24T01:18:13Z",
                     "open_issues": 1,
                     "owner": "Wayne-Mai",
                     "repo": "EgoLoc",
@@ -6027,7 +6027,7 @@
                     "license": null,
                     "last_commit": "2025-11-25T08:56:39Z",
                     "open_issues": 5,
-                    "owner": "InternRobotics",
+                    "owner": "Sage-PhysicalAI",
                     "repo": "EgoThinker",
                     "stars": 30,
                     "topics": []
@@ -6340,7 +6340,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 418,
+                "stars": 419,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6419,7 +6419,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 418,
+                "stars": 419,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6503,7 +6503,7 @@
                 "open_issues": 5,
                 "owner": "google-deepmind",
                 "repo": "neptune",
-                "stars": 100,
+                "stars": 101,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T22:45:41.002Z",
+    "last_updated": "2026-11-24T03:27:30.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
