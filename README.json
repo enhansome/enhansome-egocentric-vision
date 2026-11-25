@@ -940,6 +940,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "UniEgoMotion: A Unified Model for Egocentric Motion Reconstruction, Forecasting, and Generation",
+                  "description": "Chaitanya Patel, Hiroki Nakamura, Yuta Kyuragi, Kazuki Kozuka, Juan Carlos Niebles, and Ehsan Adeli. In ICCV 2025. [project page] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Code and data for UniEgoMotion (ICCV 2025)",
+                    "homepage": null,
+                    "id": 1026945575,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-04-18T17:41:03Z",
+                    "open_issues": 0,
+                    "owner": "chaitanya100100",
+                    "repo": "UniEgoMotion",
+                    "stars": 70,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:08:37.430Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "xR-EgoPose: Egocentric 3D Human Pose From an HMD Camera",
                   "description": "Denis Tome, Patrick Peluse, Lourdes Agapito, and Hernan Badino. In ICCV 2019. [demo] [dataset]",
                   "children": [],
@@ -955,27 +976,6 @@
                     "owner": "facebookresearch",
                     "repo": "xR-EgoPose",
                     "stars": 70,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:08:37.430Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "UniEgoMotion: A Unified Model for Egocentric Motion Reconstruction, Forecasting, and Generation",
-                  "description": "Chaitanya Patel, Hiroki Nakamura, Yuta Kyuragi, Kazuki Kozuka, Juan Carlos Niebles, and Ehsan Adeli. In ICCV 2025. [project page] [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Code and data for UniEgoMotion (ICCV 2025)",
-                    "homepage": null,
-                    "id": 1026945575,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-04-18T17:41:03Z",
-                    "open_issues": 0,
-                    "owner": "chaitanya100100",
-                    "repo": "UniEgoMotion",
-                    "stars": 69,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -1811,7 +1811,7 @@
                     "id": 774702414,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2025-08-26T05:59:00Z",
+                    "last_commit": "2026-11-24T11:18:35Z",
                     "open_issues": 3,
                     "owner": "OpenGVLab",
                     "repo": "EgoExoLearn",
@@ -2085,7 +2085,7 @@
                     "open_issues": 13,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "EgoLife",
-                    "stars": 480,
+                    "stars": 481,
                     "topics": [
                       "egocentric-vision",
                       "omnimodal",
@@ -2713,7 +2713,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 772,
+                    "stars": 773,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -2957,7 +2957,7 @@
                     "open_issues": 1,
                     "owner": "yehiahmad",
                     "repo": "EgoTraj",
-                    "stars": 11,
+                    "stars": 12,
                     "topics": [
                       "computer-vision",
                       "dataset",
@@ -3299,7 +3299,7 @@
                     "open_issues": 14,
                     "owner": "DAVIAN-Robotics",
                     "repo": "EgoX",
-                    "stars": 772,
+                    "stars": 773,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3380,7 +3380,7 @@
                     "open_issues": 13,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "EgoLife",
-                    "stars": 480,
+                    "stars": 481,
                     "topics": [
                       "egocentric-vision",
                       "omnimodal",
@@ -3535,7 +3535,7 @@
                     "id": 774702414,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2025-08-26T05:59:00Z",
+                    "last_commit": "2026-11-24T11:18:35Z",
                     "open_issues": 3,
                     "owner": "OpenGVLab",
                     "repo": "EgoExoLearn",
@@ -4837,7 +4837,7 @@
                     "open_issues": 1,
                     "owner": "yehiahmad",
                     "repo": "EgoTraj",
-                    "stars": 11,
+                    "stars": 12,
                     "topics": [
                       "computer-vision",
                       "dataset",
@@ -5091,6 +5091,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "UniEgoMotion: A Unified Model for Egocentric Motion Reconstruction, Forecasting, and Generation",
+                  "description": "Chaitanya Patel, Hiroki Nakamura, Yuta Kyuragi, Kazuki Kozuka, Juan Carlos Niebles, and Ehsan Adeli. In ICCV 2025. [project page] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Code and data for UniEgoMotion (ICCV 2025)",
+                    "homepage": null,
+                    "id": 1026945575,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-04-18T17:41:03Z",
+                    "open_issues": 0,
+                    "owner": "chaitanya100100",
+                    "repo": "UniEgoMotion",
+                    "stars": 70,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:08:37.430Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "xR-EgoPose: Egocentric 3D Human Pose From an HMD Camera",
                   "description": "Denis Tome, Patrick Peluse, Lourdes Agapito, and Hernan Badino. In ICCV 2019. [demo] [dataset]",
                   "children": [],
@@ -5106,27 +5127,6 @@
                     "owner": "facebookresearch",
                     "repo": "xR-EgoPose",
                     "stars": 70,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:08:37.430Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "UniEgoMotion: A Unified Model for Egocentric Motion Reconstruction, Forecasting, and Generation",
-                  "description": "Chaitanya Patel, Hiroki Nakamura, Yuta Kyuragi, Kazuki Kozuka, Juan Carlos Niebles, and Ehsan Adeli. In ICCV 2025. [project page] [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Code and data for UniEgoMotion (ICCV 2025)",
-                    "homepage": null,
-                    "id": 1026945575,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-04-18T17:41:03Z",
-                    "open_issues": 0,
-                    "owner": "chaitanya100100",
-                    "repo": "UniEgoMotion",
-                    "stars": 69,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6315,7 +6315,7 @@
                 "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 480,
+                "stars": 481,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6394,7 +6394,7 @@
                 "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 480,
+                "stars": 481,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -6806,7 +6806,7 @@
                 "open_issues": 1,
                 "owner": "yehiahmad",
                 "repo": "EgoTraj",
-                "stars": 11,
+                "stars": 12,
                 "topics": [
                   "computer-vision",
                   "dataset",
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T03:27:30.706Z",
+    "last_updated": "2026-11-25T01:34:15.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
