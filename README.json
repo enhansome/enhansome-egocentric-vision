@@ -1286,7 +1286,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 533,
+                    "stars": 534,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -1815,7 +1815,7 @@
                     "open_issues": 3,
                     "owner": "OpenGVLab",
                     "repo": "EgoExoLearn",
-                    "stars": 92,
+                    "stars": 93,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -3341,7 +3341,7 @@
                     "open_issues": 1,
                     "owner": "zc-alexfan",
                     "repo": "arctic",
-                    "stars": 533,
+                    "stars": 534,
                     "topics": [
                       "3d-reconstruction",
                       "animation",
@@ -3539,7 +3539,7 @@
                     "open_issues": 3,
                     "owner": "OpenGVLab",
                     "repo": "EgoExoLearn",
-                    "stars": 92,
+                    "stars": 93,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:08:37.430Z"
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T01:08:03.154Z",
+    "last_updated": "2026-11-27T01:08:29.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of egocentric (first-person) vision and related area resources",
